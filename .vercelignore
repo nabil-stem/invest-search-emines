@@ -1,0 +1,27 @@
+# Vercel needs only: frontend/ (built via buildCommand) + api/proxy.js (function).
+# Exclude the entire Python backend + heavy data so no Python build is triggered
+# and the upload stays small. api/*.py is excluded but api/proxy.js is kept.
+.venv/
+.api310/
+.rag/
+__pycache__/
+*.pyc
+api/*.py
+api/**/*.py
+api/__pycache__/
+app/
+data/
+docs/
+scripts/
+tests/
+artifacts/
+output/
+tmp/
+server.py
+requirements*.txt
+pyproject.toml
+*.md
+*.ps1
+.git/
+.server*
+.ngrok*

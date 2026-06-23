@@ -1,0 +1,776 @@
+﻿id,name,original_name,name_fr,name_ar,category,sub_category,sector,district,address,lat,lon,phone,website,opening_hours,operator,beds,source,source_url,confidence_score
+osm_node_530761730,,,,,pharmacy,,unknown,Maarif,,33.5821087,-7.6265575,,,,,,OSM,https://www.openstreetmap.org/node/530761730,0.7
+osm_node_1184208721,khalid ibn oualid,khalid ibn oualid,,,pharmacy,,unknown,Ain Sebaa,,33.6000497,-7.5450991,,,,,,OSM,https://www.openstreetmap.org/node/1184208721,0.7
+osm_node_1307904337,pharmacie wifak,pharmacie wifak,,,pharmacy,,unknown,Hay Hassani,,33.5598715,-7.6919901,,,,,,OSM,https://www.openstreetmap.org/node/1307904337,0.7
+osm_node_1307904346,Pharmacie Ahmed,Pharmacie Ahmed,,,pharmacy,,unknown,Hay Hassani,,33.5574213,-7.6902715,,,,,,OSM,https://www.openstreetmap.org/node/1307904346,0.7
+osm_node_1414740269,,,,,pharmacy,,unknown,Maarif,,33.5545488,-7.6399358,,,,,,OSM,https://www.openstreetmap.org/node/1414740269,0.7
+osm_node_1414743905,Dalal,Dalal,,,pharmacy,,unknown,Maarif,Rue de Vanneaux,33.5545398,-7.6360392,,,,,,OSM,https://www.openstreetmap.org/node/1414743905,0.7
+osm_node_1464276498,Pharmacie du conseil,Pharmacie du conseil,,,pharmacy,,unknown,Roches Noires,Boulevards Mohammed 5,33.5920672,-7.5950193,,,,,,OSM,https://www.openstreetmap.org/node/1464276498,0.7
+osm_node_1464579561,,,,,pharmacy,,unknown,Roches Noires,,33.5941095,-7.5965151,,,,,,OSM,https://www.openstreetmap.org/node/1464579561,0.7
+osm_node_1512083780,,,,,pharmacy,,unknown,Maarif,,33.5637163,-7.6355448,,,,,,OSM,https://www.openstreetmap.org/node/1512083780,0.7
+osm_node_1746921493,,,,,pharmacy,,unknown,Sidi Belyout,,33.5959681,-7.6276825,,,,,,OSM,https://www.openstreetmap.org/node/1746921493,0.7
+osm_node_2207627543,,,,,pharmacy,,unknown,Anfa,,33.6034834,-7.6424795,,,,,,OSM,https://www.openstreetmap.org/node/2207627543,0.7
+osm_node_2382672190,Pharmacie al Adarissa,Pharmacie al Adarissa,,,pharmacy,,unknown,Ain Chock,,33.5111741,-7.6482559,,,,,,OSM,https://www.openstreetmap.org/node/2382672190,0.7
+osm_node_2529315376,Pharmacie Lahraouine صيدلية الهراويين,Pharmacie Lahraouine صيدلية الهراويين,Pharmacie Lahraouine,صيدلية الهراويين,pharmacy,,unknown,Sidi Othmane,,33.5606836,-7.5527375,,,,,,OSM,https://www.openstreetmap.org/node/2529315376,0.7
+osm_node_2529315380,Pharmacie le Théâtre صيدلية المسرح,Pharmacie le Théâtre صيدلية المسرح,Pharmacie le Théâtre,صيدلية المسرح,pharmacy,,unknown,Sidi Othmane,,33.5633186,-7.5543957,,,,,,OSM,https://www.openstreetmap.org/node/2529315380,0.7
+osm_node_2711741030,Pharmacie des Prêles,Pharmacie des Prêles,,,pharmacy,,unknown,Maarif,Rue Brahim Nakhai,33.5778147,-7.6394176,,,,,,OSM,https://www.openstreetmap.org/node/2711741030,0.7
+osm_node_2711741038,Pharmacie des Stades صيدلية الملاعب,Pharmacie des Stades صيدلية الملاعب,Pharmacie des Stades,صيدلية الملاعب,pharmacy,,unknown,Maarif,Rue Al Fourate زنقة الفرات,33.5802204,-7.6404866,,,,,,OSM,https://www.openstreetmap.org/node/2711741038,0.7
+osm_node_2714699183,Pharmacie Moulay Youssef,Pharmacie Moulay Youssef,,,pharmacy,,unknown,Sidi Belyout,,33.5984096,-7.632475,,,,,,OSM,https://www.openstreetmap.org/node/2714699183,0.7
+osm_node_2714951127,Clinique Badr مصحة بدر,Clinique Badr مصحة بدر,Clinique Badr,مصحة بدر,clinic,,private,Anfa,,33.5948697,-7.6410981,,,,,,OSM,https://www.openstreetmap.org/node/2714951127,0.7
+osm_node_2714951128,clinique dentaire casablanca (cdc),clinique dentaire casablanca (cdc),,,clinic,,unknown,Anfa,,33.5874104,-7.6482094,,,,,,OSM,https://www.openstreetmap.org/node/2714951128,0.7
+osm_node_2777458153,M. Noubriq,M. Noubriq,,,dentist,,unknown,Sidi Belyout,Rue Boukraâ,33.6014374,-7.6330638,,,"08:30-12:30,15:30-20:00",,,OSM,https://www.openstreetmap.org/node/2777458153,0.7
+osm_node_2777458170,Pharmacie Tamaârouft,Pharmacie Tamaârouft,,,pharmacy,,unknown,Sidi Belyout,,33.599213,-7.6354406,,,"08:30-12:30,15:30-20:00",,,OSM,https://www.openstreetmap.org/node/2777458170,0.7
+osm_node_2879158752,Dr. Lahlou Abdelali,Dr. Lahlou Abdelali,,,doctor,urology,unknown,Anfa,Boulevard d'Anfa شارع أنفا,33.5905206,-7.6381445,,,,,,OSM,https://www.openstreetmap.org/node/2879158752,0.7
+osm_node_2879723007,Pharmacie Les Iris صيدلية السوسن,Pharmacie Les Iris صيدلية السوسن,Pharmacie Les Iris,صيدلية السوسن,pharmacy,,unknown,Anfa,Boulevard d'Anfa شارع أنفا,33.5900215,-7.638947,,,,,,OSM,https://www.openstreetmap.org/node/2879723007,0.7
+osm_node_2880485806,Pharmacie Fath El Khair,Pharmacie Fath El Khair,,,pharmacy,,unknown,Sidi Bernoussi,,33.6145513,-7.4871759,,,,,,OSM,https://www.openstreetmap.org/node/2880485806,0.7
+osm_node_2880503245,Pharmacie Kawnouka,Pharmacie Kawnouka,,,pharmacy,,unknown,Sidi Moumen,,33.6116931,-7.480976,+212 5 22 74 06 35,,,,,OSM,https://www.openstreetmap.org/node/2880503245,0.7
+osm_node_2898338075,aycodent,aycodent,,,dentist,,unknown,Sidi Belyout,,33.5974306,-7.6327105,,,,,,OSM,https://www.openstreetmap.org/node/2898338075,0.7
+osm_node_2902105734,pharmacie Charles Nicole,pharmacie Charles Nicole,,,pharmacy,,unknown,Maarif,,33.5740142,-7.6248749,,,,,,OSM,https://www.openstreetmap.org/node/2902105734,0.7
+osm_node_2902579703,Centre consultation et traitement dentaires,Centre consultation et traitement dentaires,,,hospital,,unknown,Maarif,,33.5730773,-7.6206013,,,,,,OSM,https://www.openstreetmap.org/node/2902579703,0.7
+osm_node_2903614162,Araucaria اروكاريا,Araucaria اروكاريا,Araucaria,اروكاريا,pharmacy,,unknown,Hay Hassani,,33.57097,-7.660369,,,,,,OSM,https://www.openstreetmap.org/node/2903614162,0.7
+osm_node_2903614175,Long Champ,Long Champ,,,pharmacy,,unknown,Hay Hassani,,33.5727357,-7.6563829,,,,,,OSM,https://www.openstreetmap.org/node/2903614175,0.7
+osm_node_2903614184,Kenza,Kenza,,,pharmacy,,unknown,Hay Hassani,,33.5718686,-7.6533037,,,,,,OSM,https://www.openstreetmap.org/node/2903614184,0.7
+osm_node_2903627300,Pharmacie de la sécurité,Pharmacie de la sécurité,,,pharmacy,,unknown,Maarif,Avenue Idriss 1er,33.5722341,-7.6226584,,,,,,OSM,https://www.openstreetmap.org/node/2903627300,0.7
+osm_node_3118805798,Pharmacie Bahmad,Pharmacie Bahmad,,,pharmacy,,unknown,Roches Noires,,33.5946576,-7.586858,,,,,,OSM,https://www.openstreetmap.org/node/3118805798,0.7
+osm_node_3120476694,Pharmacie Vie,Pharmacie Vie,,,pharmacy,,unknown,Roches Noires,,33.5920721,-7.5895331,,,,,,OSM,https://www.openstreetmap.org/node/3120476694,0.7
+osm_node_3229636314,Centre Dentaire Rachidi,Centre Dentaire Rachidi,,,dentist,,unknown,Sidi Belyout,Boulevard Rachidi,33.5924713,-7.6254107,,,,,,OSM,https://www.openstreetmap.org/node/3229636314,0.7
+osm_node_3229636315,Cabinet Cardiologie : Dr Roughaleb Faycal,Cabinet Cardiologie : Dr Roughaleb Faycal,,,doctor,cardiology,unknown,Sidi Belyout,Boulevard Rachidi,33.5924926,-7.6254094,,,,,,OSM,https://www.openstreetmap.org/node/3229636315,0.7
+osm_node_3346762457,Clinique d'accouchement,Clinique d'accouchement,,,clinic,,unknown,Sidi Belyout,,33.5930596,-7.6240936,,,,,,OSM,https://www.openstreetmap.org/node/3346762457,0.7
+osm_node_3362739421,Pharmacie Sidi Maârouf,Pharmacie Sidi Maârouf,,,pharmacy,,unknown,Ain Chock,Boulevard Abu Baker El Kadiri,33.5136433,-7.6555237,,,,,,OSM,https://www.openstreetmap.org/node/3362739421,0.7
+osm_node_3458835686,Pharmacie Ad Doha,Pharmacie Ad Doha,,,pharmacy,,unknown,Maarif,Boulevard Stendhal,33.5700253,-7.6363369,,,,,,OSM,https://www.openstreetmap.org/node/3458835686,0.7
+osm_node_3458840609,Pharmacie Annajd,Pharmacie Annajd,,,pharmacy,,unknown,Maarif,,33.5700455,-7.6346257,,,,,,OSM,https://www.openstreetmap.org/node/3458840609,0.7
+osm_node_3472843948,Grande Pharmacie Commerciale,Grande Pharmacie Commerciale,,,pharmacy,,unknown,Sidi Belyout,,33.5956684,-7.6172472,,,,,,OSM,https://www.openstreetmap.org/node/3472843948,0.7
+osm_node_3506033049,Pharmacie des écoles,Pharmacie des écoles,,,pharmacy,,unknown,Sidi Belyout,,33.5944226,-7.6184008,,,,,,OSM,https://www.openstreetmap.org/node/3506033049,0.7
+osm_node_3907193173,Pharmacie Jamai ⵍⵊⴰⵎⵄⵉ صيدلية الجامعي,Pharmacie Jamai ⵍⵊⴰⵎⵄⵉ صيدلية الجامعي,Pharmacie Jamai,صيدلية الجامعي,pharmacy,,unknown,Hay Hassani,,33.5582659,-7.6707464,,,,,,OSM,https://www.openstreetmap.org/node/3907193173,0.7
+osm_node_3936112702,Pharmacie du Lycée,Pharmacie du Lycée,,,pharmacy,,unknown,Sidi Belyout,,33.5972022,-7.6348484,,,,,,OSM,https://www.openstreetmap.org/node/3936112702,0.7
+osm_node_4011384596,"Centre de kinésitherapie et rééducation fonctionelle, Dr.Kourkmadi","Centre de kinésitherapie et rééducation fonctionelle, Dr.Kourkmadi",,,doctor,,unknown,Sidi Belyout,,33.5975507,-7.6364793,,,,,,OSM,https://www.openstreetmap.org/node/4011384596,0.7
+osm_node_4057991325,Hôpital Sidi Othmane,Hôpital Sidi Othmane,,,hospital,,unknown,Sidi Othmane,,33.5585424,-7.5733008,,,,,,OSM,https://www.openstreetmap.org/node/4057991325,0.7
+osm_node_4169513751,Pharmacie Marjane Ain Sebaa,Pharmacie Marjane Ain Sebaa,,,pharmacy,,unknown,Ain Sebaa,Centre Commercial Marjane Ain Sebaa,33.5962524,-7.5321201,,,,,,OSM,https://www.openstreetmap.org/node/4169513751,0.7
+osm_node_4188292439,Laboratoire El Manzah,Laboratoire El Manzah,,,laboratory,,unknown,Maarif,Boulevard Brahim Roudani شارع ابراهيم الروداني,33.5773166,-7.6374863,,,,,,OSM,https://www.openstreetmap.org/node/4188292439,0.7
+osm_node_4190908411,Pharmacie de L´Hopital,Pharmacie de L´Hopital,,,hospital,,unknown,Sidi Belyout,Boulevard Mohamed Zerktouni,33.5829423,-7.6181703,,,,,,OSM,https://www.openstreetmap.org/node/4190908411,0.7
+osm_node_4190909079,Chirurgien Dentiste;Chiropractic,Chirurgien Dentiste;Chiropractic,,,dentist,,unknown,Sidi Belyout,Boulevard Mohamed Zerktouni,33.5829967,-7.6178786,,,,,,OSM,https://www.openstreetmap.org/node/4190909079,0.7
+osm_node_4190909393,Kinesitherapie,Kinesitherapie,,,unknown,,unknown,Sidi Belyout,Boulevard Mohamed Zerktouni,33.5830102,-7.6176728,,,,,,OSM,https://www.openstreetmap.org/node/4190909393,0.7
+osm_node_4193540891,Pharmacie du Progrès,Pharmacie du Progrès,,,pharmacy,,unknown,Sidi Belyout,Rue Hommane Al Fatwaki,33.5946685,-7.6165845,,,,,,OSM,https://www.openstreetmap.org/node/4193540891,0.7
+osm_node_4193566291,Pharmacie Derb Nejma صيدلية درب النجمة,Pharmacie Derb Nejma صيدلية درب النجمة,Pharmacie Derb Nejma,صيدلية درب النجمة,pharmacy,,unknown,Hay Hassani,,33.5746216,-7.6764933,,,,,,OSM,https://www.openstreetmap.org/node/4193566291,0.7
+osm_node_4193605793,Pharmacie La Bourse,Pharmacie La Bourse,,,pharmacy,,unknown,Sidi Belyout,,33.5944684,-7.6131681,,,,,,OSM,https://www.openstreetmap.org/node/4193605793,0.7
+osm_node_4194268649,Laboratoire Bouzoubaa,Laboratoire Bouzoubaa,,,doctor,,unknown,Maarif,Boulevard Mohamed Zerktouni,33.5828104,-7.6167958,,,,,,OSM,https://www.openstreetmap.org/node/4194268649,0.7
+osm_node_4221347651,Mamounia,Mamounia,,,pharmacy,,unknown,Roches Noires,,33.5901779,-7.5930535,,,,,,OSM,https://www.openstreetmap.org/node/4221347651,0.7
+osm_node_4222065194,Pharmacie Romandie,Pharmacie Romandie,,,pharmacy,,unknown,Maarif,,33.5865126,-7.6481439,,,,,,OSM,https://www.openstreetmap.org/node/4222065194,0.7
+osm_node_4225325228,Pharmacie Nouvelle,Pharmacie Nouvelle,,,pharmacy,,unknown,Sidi Belyout,Boulevard de la Liberté,33.5873194,-7.6121157,,,,,,OSM,https://www.openstreetmap.org/node/4225325228,0.7
+osm_node_4225325266,,,,,pharmacy,,unknown,Sidi Belyout,Boulevard de la Liberté,33.5859743,-7.6114307,,,,,,OSM,https://www.openstreetmap.org/node/4225325266,0.7
+osm_node_4237661199,Polyclinique CNSS,Polyclinique CNSS,,,clinic,,unknown,Ain Chock,,33.540515,-7.5976351,,,,,,OSM,https://www.openstreetmap.org/node/4237661199,0.7
+osm_node_4326937232,Pharmacie Ennakhil,Pharmacie Ennakhil,,,pharmacy,,unknown,Sidi Bernoussi,,33.6159579,-7.484088,,,,,,OSM,https://www.openstreetmap.org/node/4326937232,0.7
+osm_node_4367335689,Clinique Abdelmoumen,Clinique Abdelmoumen,Clinique Abdelmoumen,,clinic,,unknown,Maarif,Rue Al Imam Boussairi,33.5652215,-7.6275311,+212 5 22 98 02 98,,,,,OSM,https://www.openstreetmap.org/node/4367335689,0.7
+osm_node_4368515792,centre kine forme,centre kine forme,centre kine forme,,doctor,,unknown,Hay Hassani,Boulevard Oued Daoura,33.5473567,-7.6817344,,,,,,OSM,https://www.openstreetmap.org/node/4368515792,0.7
+osm_node_4368517200,centre dentiste spécialisé مركز طب الأسنان,centre dentiste spécialisé مركز طب الأسنان,centre dentiste spécialisé,مركز طب الأسنان,dentist,,unknown,Hay Hassani,,33.5470541,-7.6818258,,,,,,OSM,https://www.openstreetmap.org/node/4368517200,0.7
+osm_node_4398086251,Pharmacie de Picardie,Pharmacie de Picardie,Pharmacie de Picardie,صيدلية بيكاردي,pharmacy,,unknown,Sidi Belyout,,33.5889637,-7.6306057,,,,,,OSM,https://www.openstreetmap.org/node/4398086251,0.7
+osm_node_4469809895,Cabinet dentaire Kadmiri,Cabinet dentaire Kadmiri,,,dentist,,unknown,Anfa,Rue Ibn al Mouaalim,33.5978607,-7.6386713,+212 5 22 20 37 75,,Mo-Sa 08:00-20:00,,,OSM,https://www.openstreetmap.org/node/4469809895,0.7
+osm_node_4486728186,Centre de rein moulay youssef,Centre de rein moulay youssef,,,doctor,,unknown,Sidi Belyout,Boulevard Moulay Youssef,33.6014071,-7.6325637,,,,,,OSM,https://www.openstreetmap.org/node/4486728186,0.7
+osm_node_4492311991,Endocrinologue tazi otman طبيب الغدد تازي عثمان,Endocrinologue tazi otman طبيب الغدد تازي عثمان,Endocrinologue tazi otman,طبيب الغدد تازي عثمان,doctor,endocrinology,unknown,Maarif,Boulevard Abdelmoumen,33.5698239,-7.6257448,,,,,,OSM,https://www.openstreetmap.org/node/4492311991,0.7
+osm_node_4501565189,Endocrinologue Tazi Otmane طبيب الغدد تازي عثمان,Endocrinologue Tazi Otmane طبيب الغدد تازي عثمان,Endocrinologue Tazi Otmane,طبيب الغدد تازي عثمان,doctor,endocrinology,unknown,Maarif,Boulevard Abdelmoumen,33.5690864,-7.6257502,,,,,,OSM,https://www.openstreetmap.org/node/4501565189,0.7
+osm_node_4552429589,Docteur Adil Araqi,Docteur Adil Araqi,,,doctor,,unknown,Maarif,,33.5804494,-7.6349571,,,,,,OSM,https://www.openstreetmap.org/node/4552429589,0.7
+osm_node_4554695990,Laboratoire Émile Zola,Laboratoire Émile Zola,Laboratoire Émile Zola,,laboratory,,unknown,Roches Noires,Boulevard Émile Zola,33.5936355,-7.5970624,,,,,,OSM,https://www.openstreetmap.org/node/4554695990,0.7
+osm_node_4577378695,Pharmacie Fourkane صيدلية,Pharmacie Fourkane صيدلية,Pharmacie Fourkane,صيدلية,pharmacy,,unknown,Ain Sebaa,Boulevard des Figuiers,33.6163152,-7.5292654,,,,,,OSM,https://www.openstreetmap.org/node/4577378695,0.7
+osm_node_4599784190,Pharmacie Les Capucines,Pharmacie Les Capucines,,,pharmacy,,unknown,Maarif,Boulevard Al Massira Al Khadra شارع المسيرة الخضراء,33.5869115,-7.6366612,,,,,,OSM,https://www.openstreetmap.org/node/4599784190,0.7
+osm_node_4665706142,Pharmacie Bnou Zohr,Pharmacie Bnou Zohr,,,pharmacy,,unknown,Hay Hassani,Rue Sidi Al Khadir,33.5683227,-7.6865945,,,,,,OSM,https://www.openstreetmap.org/node/4665706142,0.7
+osm_node_4677830490,Elmcherqui Mostafa Urologue,Elmcherqui Mostafa Urologue,,,doctor,urology,unknown,Unknown,Rue Victor Hugo,33.5789058,-7.6089159,+212 5 22 44 56 48,,,,,OSM,https://www.openstreetmap.org/node/4677830490,0.7
+osm_node_4693053089,Docteur BENLYAZID ORL,Docteur BENLYAZID ORL,Docteur BENLYAZID ORL,,doctor,,unknown,Maarif,Boulevard Abdelmoumen,33.5775823,-7.6255118,+212 5 22 47 55 39,https://m.facebook.com/docteurbenlyazidadil/,Mo-Sa 08:30-19:00,,,OSM,https://www.openstreetmap.org/node/4693053089,0.7
+osm_node_4720305016,Radiologie ksiyer الفحص بالأشعة قصير,Radiologie ksiyer الفحص بالأشعة قصير,Radiologie ksiyer,الفحص بالأشعة قصير,doctor,,unknown,Maarif,,33.5821745,-7.6199559,,,,,,OSM,https://www.openstreetmap.org/node/4720305016,0.7
+osm_node_4742853823,pharmacie imam ali صيدلية الإمام علي,pharmacie imam ali صيدلية الإمام علي,pharmacie imam ali,صيدلية الإمام علي,pharmacy,,unknown,Ain Sebaa,,33.6094444,-7.5333588,,,,,,OSM,https://www.openstreetmap.org/node/4742853823,0.7
+osm_node_4744868823,Bourgogne,Bourgogne,,,veterinary,,unknown,Sidi Belyout,Rue Entrecasteaux,33.5978925,-7.6381616,,,,,,OSM,https://www.openstreetmap.org/node/4744868823,0.7
+osm_node_4970508622,Amal Damir,Amal Damir,Amal Damir,,doctor,,unknown,Ain Chock,,33.5098864,-7.6561996,,,,,,OSM,https://www.openstreetmap.org/node/4970508622,0.7
+osm_node_5030221123,Yssef Boujemaa - Pédiatre,Yssef Boujemaa - Pédiatre,Yssef Boujemaa - Pédiatre,,doctor,,unknown,Sidi Belyout,,33.5893333,-7.6155261,,,,,,OSM,https://www.openstreetmap.org/node/5030221123,0.7
+osm_node_5031507624,الدكتورة ياسمينة ابن المليح,الدكتورة ياسمينة ابن المليح,,الدكتورة ياسمينة ابن المليح,dentist,,unknown,Maarif,Boulevard Bir Anzarane,33.5800593,-7.6370592,+212 5 22 23 44 79,,Mo-Sa 09:00-18:00,,,OSM,https://www.openstreetmap.org/node/5031507624,0.7
+osm_node_5038392422,Laboratoire Yafa,Laboratoire Yafa,Laboratoire Yafa,,doctor,,unknown,Sidi Bernoussi,,33.6119556,-7.4981365,,,,,,OSM,https://www.openstreetmap.org/node/5038392422,0.7
+osm_node_5043935622,pharmacie souk elbaldi صيدلية السوق البلدي,pharmacie souk elbaldi صيدلية السوق البلدي,pharmacie souk elbaldi,صيدلية السوق البلدي,pharmacy,,unknown,Ain Chock,,33.5473266,-7.5978709,,,,,,OSM,https://www.openstreetmap.org/node/5043935622,0.7
+osm_node_5043935721,pharmacie d'azhar صيدلية الأزهر,pharmacie d'azhar صيدلية الأزهر,pharmacie d'azhar,صيدلية الأزهر,pharmacy,,unknown,Ain Chock,Boulevard de Taza,33.5455816,-7.5952095,,,,,,OSM,https://www.openstreetmap.org/node/5043935721,0.7
+osm_node_5044967323,,,,,pharmacy,,unknown,Ain Chock,,33.5478068,-7.5901845,,,,,,OSM,https://www.openstreetmap.org/node/5044967323,0.7
+osm_node_5044967324,,,,,pharmacy,,unknown,Ain Chock,,33.5434141,-7.5960949,,,,,,OSM,https://www.openstreetmap.org/node/5044967324,0.7
+osm_node_5044977922,,,,,pharmacy,,unknown,Ain Chock,,33.5464472,-7.6003028,,,,,,OSM,https://www.openstreetmap.org/node/5044977922,0.7
+osm_node_5056135424,Pharmacie Bachkou,Pharmacie Bachkou,Pharmacie Bachkou,,pharmacy,,unknown,Maarif,,33.5554062,-7.6294061,,,,,,OSM,https://www.openstreetmap.org/node/5056135424,0.7
+osm_node_5081379771,Pharmacie Carnot,Pharmacie Carnot,,,pharmacy,,unknown,Roches Noires,,33.5936301,-7.5831998,,,,,,OSM,https://www.openstreetmap.org/node/5081379771,0.7
+osm_node_5081797762,Pharmacie Dokkala,Pharmacie Dokkala,,,pharmacy,,unknown,Moulay Rachid,,33.5596013,-7.5386995,,,,,,OSM,https://www.openstreetmap.org/node/5081797762,0.7
+osm_node_5104919922,pharmacie tam صيدلية طام,pharmacie tam صيدلية طام,pharmacie tam,صيدلية طام,pharmacy,,unknown,Hay Hassani,Boulevard Oued Sebou,33.5530143,-7.6775632,,,,,,OSM,https://www.openstreetmap.org/node/5104919922,0.7
+osm_node_5234584424,Avicenne ابن سينا,Avicenne ابن سينا,Avicenne,ابن سينا,clinic,,unknown,Ain Chock,Boulevard de l'Atlantide,33.5542874,-7.6110661,+212 5 22 79 33 00,,24/7,,,OSM,https://www.openstreetmap.org/node/5234584424,0.7
+osm_node_5291826286,Clinique Bournazel,Clinique Bournazel,,,clinic,,unknown,Moulay Rachid,,33.5761131,-7.5484865,,,,,,OSM,https://www.openstreetmap.org/node/5291826286,0.7
+osm_node_5291949618,Laboratoire d'analyses médicales Attacharouk,Laboratoire d'analyses médicales Attacharouk,,,clinic,,unknown,Sidi Moumen,,33.5732378,-7.5301711,,,,,,OSM,https://www.openstreetmap.org/node/5291949618,0.7
+osm_node_5291949619,Dr Amor,Dr Amor,,,doctor,paediatrics,unknown,Sidi Moumen,,33.5731773,-7.5304489,,,,,,OSM,https://www.openstreetmap.org/node/5291949619,0.7
+osm_node_5299322320,Pharmacie Fathi,Pharmacie Fathi,,,pharmacy,,unknown,Sidi Moumen,,33.576566,-7.539824,,,,,,OSM,https://www.openstreetmap.org/node/5299322320,0.7
+osm_node_5420577823,pharmacie El Wafaa,pharmacie El Wafaa,pharmacie El Wafaa,,pharmacy,,unknown,Ain Sebaa,,33.6089516,-7.5416759,,,,,,OSM,https://www.openstreetmap.org/node/5420577823,0.7
+osm_node_5424315622,centre radiologie abdelmoumen مركز الفحص بالأشعة عبدالمومن,centre radiologie abdelmoumen مركز الفحص بالأشعة عبدالمومن,centre radiologie abdelmoumen,مركز الفحص بالأشعة عبدالمومن,doctor,,unknown,Maarif,,33.5774897,-7.6268889,,,,,,OSM,https://www.openstreetmap.org/node/5424315622,0.7
+osm_node_5427334321,annasim النسيم,annasim النسيم,annasim,النسيم,pharmacy,,unknown,Hay Hassani,Boulevard Oued Daoura,33.5409932,-7.6769565,,,,,,OSM,https://www.openstreetmap.org/node/5427334321,0.7
+osm_node_5572610656,Pharmacy al-Harti صيدلية الحارثي,Pharmacy al-Harti صيدلية الحارثي,Pharmacy al-Harti,صيدلية الحارثي,pharmacy,,unknown,Ben M'Sick,Avenue du Commandant Driss Harti,33.5505403,-7.5693749,,,,,,OSM,https://www.openstreetmap.org/node/5572610656,0.7
+osm_node_5576311439,Pharmacie du Centre,Pharmacie du Centre,,,pharmacy,,unknown,Roches Noires,Boulevard Mohamed V,33.5934396,-7.6003812,,,,,,OSM,https://www.openstreetmap.org/node/5576311439,0.7
+osm_node_5579516434,Laboratoire Cirab,Laboratoire Cirab,,,laboratory,,unknown,Maarif,Avenue 2 Mars,33.5768756,-7.6155277,,,,,,OSM,https://www.openstreetmap.org/node/5579516434,0.7
+osm_node_5579551189,Pharmacie Ifni,Pharmacie Ifni,,,pharmacy,,unknown,Mers Sultan,Rue Infi,33.5823599,-7.6019436,,,,,,OSM,https://www.openstreetmap.org/node/5579551189,0.7
+osm_node_5579637510,,,,,pharmacy,,unknown,Al Fida,Rue 15,33.5643746,-7.6097971,,,,,,OSM,https://www.openstreetmap.org/node/5579637510,0.7
+osm_node_5581263607,Pharmacie La Gironde,Pharmacie La Gironde,,,pharmacy,,unknown,Mers Sultan,Rue Infi,33.5838537,-7.599594,,,,,,OSM,https://www.openstreetmap.org/node/5581263607,0.7
+osm_node_5581425909,,,,,pharmacy,,unknown,Mers Sultan,Avenue 2 Mars شارع 2 مارس,33.5768907,-7.6152125,,,,,,OSM,https://www.openstreetmap.org/node/5581425909,0.7
+osm_node_5581601035,Pharmacie Faris,Pharmacie Faris,,,pharmacy,,unknown,Al Fida,Boulevard Mohammed VI,33.5662374,-7.5957853,,,,,,OSM,https://www.openstreetmap.org/node/5581601035,0.7
+osm_node_5581612579,Pharmacie du Soleil,Pharmacie du Soleil,,,pharmacy,,unknown,Sidi Belyout,Rue Magellan,33.5903669,-7.6040746,,,,,,OSM,https://www.openstreetmap.org/node/5581612579,0.7
+osm_node_5581660402,Pharmacie El Farah,Pharmacie El Farah,,,pharmacy,,unknown,Al Fida,Boulevard Bouchaib Doukkali,33.5683103,-7.5845481,,,,,,OSM,https://www.openstreetmap.org/node/5581660402,0.7
+osm_node_5581660407,Pharmacie Ghazali,Pharmacie Ghazali,,,pharmacy,,unknown,Al Fida,,33.5657435,-7.5797457,,,,,,OSM,https://www.openstreetmap.org/node/5581660407,0.7
+osm_node_5583278790,Pharmacie Aman,Pharmacie Aman,,,pharmacy,,unknown,Ain Chock,Rue 17,33.5359704,-7.5770339,,,,,,OSM,https://www.openstreetmap.org/node/5583278790,0.7
+osm_node_5583278842,Pharmacie Goumri,Pharmacie Goumri,,,pharmacy,,unknown,Ain Chock,Boulevard Tah,33.5337089,-7.580665,,,,,,OSM,https://www.openstreetmap.org/node/5583278842,0.7
+osm_node_5583467519,,,,,pharmacy,,unknown,Ain Chock,Avenue 2 Mars,33.5506674,-7.6024586,,,,,,OSM,https://www.openstreetmap.org/node/5583467519,0.7
+osm_node_5583467934,,,,,pharmacy,,unknown,Ain Chock,Avenue 2 Mars,33.5479547,-7.602067,,,,,,OSM,https://www.openstreetmap.org/node/5583467934,0.7
+osm_node_5583467984,,,,,pharmacy,,unknown,Ain Chock,Boulevard Tah,33.5313949,-7.5890227,,,,,,OSM,https://www.openstreetmap.org/node/5583467984,0.7
+osm_node_5588875960,Pharmacie Chaab,Pharmacie Chaab,,,pharmacy,,unknown,Ain Chock,,33.5409727,-7.5877997,,,,,,OSM,https://www.openstreetmap.org/node/5588875960,0.7
+osm_node_5588875966,Pharmacie Khouloud,Pharmacie Khouloud,,,pharmacy,,unknown,Ain Chock,Zanqat 68,33.5395648,-7.5869025,,,,,,OSM,https://www.openstreetmap.org/node/5588875966,0.7
+osm_node_5588875982,Jannati Dental Lab,Jannati Dental Lab,,,dentist,,unknown,Ain Chock,,33.5425387,-7.5828966,,,,,,OSM,https://www.openstreetmap.org/node/5588875982,0.7
+osm_node_5588875987,Chirurgien Dentiste,Chirurgien Dentiste,,,dentist,,unknown,Ain Chock,,33.5430121,-7.5836751,,,,,,OSM,https://www.openstreetmap.org/node/5588875987,0.7
+osm_node_5589116515,Pharmacie Moulay Driss,Pharmacie Moulay Driss,,,pharmacy,,unknown,Al Fida,Rue 50,33.5689517,-7.5868213,,,,,,OSM,https://www.openstreetmap.org/node/5589116515,0.7
+osm_node_5589382007,,,,,pharmacy,,unknown,Ain Chock,Boulevard de Smara,33.53766,-7.5899233,,,,,,OSM,https://www.openstreetmap.org/node/5589382007,0.7
+osm_node_5589572638,Pharmacie des Urgences,Pharmacie des Urgences,,,pharmacy,,unknown,Ain Chock,Rue 1,33.5370027,-7.5858966,,,,,,OSM,https://www.openstreetmap.org/node/5589572638,0.7
+osm_node_5589601437,Pharmacie Ain Chifaa,Pharmacie Ain Chifaa,,,pharmacy,,unknown,Al Fida,Boulevard Bouchaib Doukkali,33.5700395,-7.5825861,,,,,,OSM,https://www.openstreetmap.org/node/5589601437,0.7
+osm_node_5589601460,Pharmacie Assia,Pharmacie Assia,,,pharmacy,,unknown,Al Fida,Rue 42,33.5704256,-7.5916801,,,,,,OSM,https://www.openstreetmap.org/node/5589601460,0.7
+osm_node_5590930821,Chirurgien Dentiste,Chirurgien Dentiste,,,dentist,,unknown,Al Fida,Rue 12,33.56553,-7.5932452,,,,,,OSM,https://www.openstreetmap.org/node/5590930821,0.7
+osm_node_5591121619,Laboratore de Biologie Medicale Casa Analyses,Laboratore de Biologie Medicale Casa Analyses,,,clinic,,unknown,Al Fida,Boulevard Mohammed VI,33.5695573,-7.5958671,,,,,,OSM,https://www.openstreetmap.org/node/5591121619,0.7
+osm_node_5591121972,Pharmacie El Farraj,Pharmacie El Farraj,,,pharmacy,,unknown,Al Fida,Boulevard Abdellah Senhaji,33.5673526,-7.5904222,,,,,,OSM,https://www.openstreetmap.org/node/5591121972,0.7
+osm_node_5593149218,Pharmacie de Casablanca,Pharmacie de Casablanca,,,pharmacy,,unknown,Mers Sultan,Boulevard de la Croix,33.5749186,-7.5907414,,,,,,OSM,https://www.openstreetmap.org/node/5593149218,0.7
+osm_node_5593149772,Pharmacie Laafou,Pharmacie Laafou,,,pharmacy,,unknown,Mers Sultan,Rue 34,33.5753387,-7.5931285,,,,,,OSM,https://www.openstreetmap.org/node/5593149772,0.7
+osm_node_5593488480,Pharmacie Albahia,Pharmacie Albahia,,,pharmacy,,unknown,Mers Sultan,Boulevard Ahmed Sebbagh,33.5744839,-7.5962278,,,,,,OSM,https://www.openstreetmap.org/node/5593488480,0.7
+osm_node_5595534215,,,,,pharmacy,,unknown,Sidi Othmane,Avenue Abdelkader Sahraoui,33.5530547,-7.5499651,,,,,,OSM,https://www.openstreetmap.org/node/5595534215,0.7
+osm_node_5595616124,Pharmacie Bouafi,Pharmacie Bouafi,,,pharmacy,,unknown,Sbata,Avenue d'Oued Eddahab,33.5443679,-7.5671098,,,,,,OSM,https://www.openstreetmap.org/node/5595616124,0.7
+osm_node_5595616181,Pharmacie Skiba,Pharmacie Skiba,,,pharmacy,,unknown,Sbata,Avenue d'Oued Eddahab,33.5396252,-7.5750652,,,,,,OSM,https://www.openstreetmap.org/node/5595616181,0.7
+osm_node_5603003299,Pharmacie Ennajah,Pharmacie Ennajah,,,pharmacy,,unknown,Sbata,Avenue de Dakhla,33.5483839,-7.568998,,,,,,OSM,https://www.openstreetmap.org/node/5603003299,0.7
+osm_node_5603014728,صيدلية دادي,صيدلية دادي,Pharmacie Dadi,صيدلية دادي,pharmacy,,unknown,Sbata,شارع الداخلة,33.5464671,-7.5721396,,,,,,OSM,https://www.openstreetmap.org/node/5603014728,0.7
+osm_node_5603014771,Pharmacie Faouz,Pharmacie Faouz,,,pharmacy,,unknown,Sbata,Avenue de Dakhla,33.5439153,-7.5765418,,,,,,OSM,https://www.openstreetmap.org/node/5603014771,0.7
+osm_node_5603014859,Pharmacie Dounia,Pharmacie Dounia,,,pharmacy,,unknown,Sbata,Rue 145,33.5419122,-7.5725761,,,,,,OSM,https://www.openstreetmap.org/node/5603014859,0.7
+osm_node_5603014883,Pharmacie Addahab,Pharmacie Addahab,,,pharmacy,,unknown,Sbata,Rue 70,33.54397,-7.5696833,,,,,,OSM,https://www.openstreetmap.org/node/5603014883,0.7
+osm_node_5603015091,Pharmacie Dispensaire Jamila 4,Pharmacie Dispensaire Jamila 4,,,pharmacy,,unknown,Sbata,Rue 89,33.5466604,-7.5665988,,,,,,OSM,https://www.openstreetmap.org/node/5603015091,0.7
+osm_node_5604819212,Pharmacie Benmoussa,Pharmacie Benmoussa,,,pharmacy,,unknown,Sbata,Avenue du Commandant Driss Harti,33.5435352,-7.5805342,,,,,,OSM,https://www.openstreetmap.org/node/5604819212,0.7
+osm_node_5604819594,Pharmacie Sbata,Pharmacie Sbata,,,pharmacy,,unknown,Sbata,Avenue de Saquia-el-Hamra,33.5441768,-7.5730133,,,,,,OSM,https://www.openstreetmap.org/node/5604819594,0.7
+osm_node_5604819605,Pharmacie Rachid,Pharmacie Rachid,,,pharmacy,,unknown,Sbata,Avenue de Saquia-el-Hamra,33.5463631,-7.5694031,,,,,,OSM,https://www.openstreetmap.org/node/5604819605,0.7
+osm_node_5605122398,Pharmacie Jamila,Pharmacie Jamila,,,pharmacy,,unknown,Sbata,Avenue du Commandant Driss Harti,33.545992,-7.5764371,,,,,,OSM,https://www.openstreetmap.org/node/5605122398,0.7
+osm_node_5605123526,Pharmacie Marche de Gros,Pharmacie Marche de Gros,,,pharmacy,,unknown,Sbata,Avenue du Commandant Driss Harti,33.548802,-7.5717339,,,,,,OSM,https://www.openstreetmap.org/node/5605123526,0.7
+osm_node_5607941892,Pharmacie Al Bouchra,Pharmacie Al Bouchra,,,pharmacy,,unknown,Roches Noires,Avenue de l'Ambassadeur Ben Aicha,33.601196,-7.5855754,,,,,,OSM,https://www.openstreetmap.org/node/5607941892,0.7
+osm_node_5607941910,Pharmacie Massiwe,Pharmacie Massiwe,,,pharmacy,,unknown,Roches Noires,Avenue de l'Ambassadeur Ben Aicha,33.59964,-7.5891964,,,,,,OSM,https://www.openstreetmap.org/node/5607941910,0.7
+osm_node_5608038509,Para Pharmacie,Para Pharmacie,,,pharmacy,,unknown,Roches Noires,Avenue de l'Ambassadeur Ben Aicha,33.602561,-7.5822602,,,,,,OSM,https://www.openstreetmap.org/node/5608038509,0.7
+osm_node_5608044131,Pharmacie El Mansour,Pharmacie El Mansour,,,pharmacy,,unknown,Ben M'Sick,Boulevard du Golan,33.558094,-7.573944,,,,,,OSM,https://www.openstreetmap.org/node/5608044131,0.7
+osm_node_5608044204,Pharmcie Sif Eddinne,Pharmcie Sif Eddinne,,,pharmacy,,unknown,Ben M'Sick,Boulevard de l'Unité Africaine,33.5566724,-7.5877748,,,,,,OSM,https://www.openstreetmap.org/node/5608044204,0.7
+osm_node_5608045823,Pharmacie du Metro,Pharmacie du Metro,,,pharmacy,,unknown,Ben M'Sick,Boulevard de l'Unité Africaine,33.5567138,-7.5911842,,,,,,OSM,https://www.openstreetmap.org/node/5608045823,0.7
+osm_node_5608045833,Pharmacie Afriquia,Pharmacie Afriquia,,,pharmacy,,unknown,Ben M'Sick,Boulevard Mohammed VI,33.5548206,-7.5919738,,,,,,OSM,https://www.openstreetmap.org/node/5608045833,0.7
+osm_node_5608149301,Pharmacie Moulay Slimane,Pharmacie Moulay Slimane,,,pharmacy,,unknown,Ain Sebaa,Route de Zenata,33.6177743,-7.5463294,,,,,,OSM,https://www.openstreetmap.org/node/5608149301,0.7
+osm_node_5608199901,,,,,pharmacy,,unknown,Ben M'Sick,Avenue Réda Guédira,33.5523159,-7.5786996,,,,,,OSM,https://www.openstreetmap.org/node/5608199901,0.7
+osm_node_5608241173,Pharmacie Zenata,Pharmacie Zenata,,,pharmacy,,unknown,Ain Sebaa,Route de Zenata,33.6188677,-7.5392269,,,,,,OSM,https://www.openstreetmap.org/node/5608241173,0.7
+osm_node_5608312294,Pharmacie Du Uban,Pharmacie Du Uban,,,pharmacy,,unknown,Ben M'Sick,Avenue du 6 Novembre 1975,33.5520812,-7.5815776,,,,,,OSM,https://www.openstreetmap.org/node/5608312294,0.7
+osm_node_5608312310,Pharmacie Oued Zem,Pharmacie Oued Zem,,,pharmacy,,unknown,Ben M'Sick,Boulevard de Oued Zem,33.5547747,-7.584579,,,,,,OSM,https://www.openstreetmap.org/node/5608312310,0.7
+osm_node_5609898808,Pharmacie Lesperance,Pharmacie Lesperance,,,pharmacy,,unknown,Sidi Bernoussi,Boulevard de Madrid,33.6164096,-7.5248878,,,,,,OSM,https://www.openstreetmap.org/node/5609898808,0.7
+osm_node_5610362567,Pharmacie Moubaraka,Pharmacie Moubaraka,,,pharmacy,,unknown,Sidi Bernoussi,Route de Rabat,33.6154659,-7.5031149,,,,,,OSM,https://www.openstreetmap.org/node/5610362567,0.7
+osm_node_5610362576,Pharmacie de la Gabe Ain Sebaa,Pharmacie de la Gabe Ain Sebaa,,,pharmacy,,unknown,Ain Sebaa,Route de Rabat,33.6075583,-7.5235748,,,,,,OSM,https://www.openstreetmap.org/node/5610362576,0.7
+osm_node_5610457001,Pharmacie el Mrami,Pharmacie el Mrami,,,pharmacy,,unknown,Sidi Bernoussi,Route de Rabat,33.6238082,-7.4856645,,,,,,OSM,https://www.openstreetmap.org/node/5610457001,0.7
+osm_node_5610457012,Pharmacie Feddan el Kheir,Pharmacie Feddan el Kheir,,,pharmacy,,unknown,Sidi Bernoussi,Route de Rabat,33.6209482,-7.4895899,,,,,,OSM,https://www.openstreetmap.org/node/5610457012,0.7
+osm_node_5610457357,Pharmacie Ghouziel,Pharmacie Ghouziel,,,pharmacy,,unknown,Ain Sebaa,Allée des Mimosas,33.6109571,-7.5297225,,,,,,OSM,https://www.openstreetmap.org/node/5610457357,0.7
+osm_node_5618306094,Pharmacie Racha,Pharmacie Racha,,,pharmacy,,unknown,Sidi Moumen,Route de Chabbou,33.5893928,-7.5262088,,,,,,OSM,https://www.openstreetmap.org/node/5618306094,0.7
+osm_node_5618306115,Pharmacie Alaa,Pharmacie Alaa,,,pharmacy,,unknown,Sidi Moumen,Boulevard Al Houcine Assoussi,33.590577,-7.5174178,,,,,,OSM,https://www.openstreetmap.org/node/5618306115,0.7
+osm_node_5618382298,Pharmacie Espace Santé صيدلية فضاء الصحة,Pharmacie Espace Santé صيدلية فضاء الصحة,,,pharmacy,,unknown,Unknown,,33.6342132,-7.4545723,,,,,,OSM,https://www.openstreetmap.org/node/5618382298,0.7
+osm_node_5618460458,Pharmacie Ghafiri,Pharmacie Ghafiri,,,pharmacy,,unknown,Hay Hassani,Rue Abou Nouas,33.5607889,-7.6458289,,,,,,OSM,https://www.openstreetmap.org/node/5618460458,0.7
+osm_node_5618460467,Pharmacie Odyssée صيدلية أوديسي,Pharmacie Odyssée صيدلية أوديسي,Pharmacie Odyssée,صيدلية أوديسي,pharmacy,,unknown,Hay Hassani,Rue Tair Al Firdaous,33.5631274,-7.6477303,,,,,,OSM,https://www.openstreetmap.org/node/5618460467,0.7
+osm_node_5620292281,,,,,pharmacy,,unknown,Sidi Moumen,Boulevard Mohamed Zefzaf,33.5754292,-7.5202838,,,,,,OSM,https://www.openstreetmap.org/node/5620292281,0.7
+osm_node_5620636002,,,,,pharmacy,,unknown,Moulay Rachid,Avenue Abdelkader Sahraoui,33.5678354,-7.5260223,,,,,,OSM,https://www.openstreetmap.org/node/5620636002,0.7
+osm_node_5620767483,Pharmacie Al Ikram صيدلية الإكرام,Pharmacie Al Ikram صيدلية الإكرام,,,pharmacy,,unknown,Unknown,,33.5509759,-7.4774435,,,,,,OSM,https://www.openstreetmap.org/node/5620767483,0.7
+osm_node_5620795128,Pharmacie Route de Rabat,Pharmacie Route de Rabat,,,pharmacy,,unknown,Ain Sebaa,Route Continentale,33.6021656,-7.5243822,,,,,,OSM,https://www.openstreetmap.org/node/5620795128,0.7
+osm_node_5620833096,Pharmacie Alhadika,Pharmacie Alhadika,,,pharmacy,,unknown,Ain Sebaa,Route de Rabat,33.6036903,-7.533334,,,,,,OSM,https://www.openstreetmap.org/node/5620833096,0.7
+osm_node_5620866708,Pharmacie Chefchaouni,Pharmacie Chefchaouni,,,pharmacy,,unknown,Ain Sebaa,Boulevard Chefchaouni,33.6139704,-7.5241126,,,,,,OSM,https://www.openstreetmap.org/node/5620866708,0.7
+osm_node_5622330522,,,,,pharmacy,,unknown,Moulay Rachid,,33.5684046,-7.5307781,,,,,,OSM,https://www.openstreetmap.org/node/5622330522,0.7
+osm_node_5622330523,,,,,pharmacy,,unknown,Moulay Rachid,,33.5713396,-7.5290841,,,,,,OSM,https://www.openstreetmap.org/node/5622330523,0.7
+osm_node_5622982389,Pharmacie Boukdad صيدلية بوقداد,Pharmacie Boukdad صيدلية بوقداد,,,pharmacy,,unknown,Unknown,Rue Abderrahmane Ibn Khaldoune,33.5543657,-7.4827959,,,,,,OSM,https://www.openstreetmap.org/node/5622982389,0.7
+osm_node_5622982511,Pharmacie Semmat,Pharmacie Semmat,,,pharmacy,,unknown,Unknown,,33.5478296,-7.4859166,,,,,,OSM,https://www.openstreetmap.org/node/5622982511,0.7
+osm_node_5622982578,Cabinet Veterinaire,Cabinet Veterinaire,,,veterinary,,unknown,Unknown,,33.5516497,-7.4757379,,,,,,OSM,https://www.openstreetmap.org/node/5622982578,0.7
+osm_node_5623149839,Pharmacie Tit Mellil صيدلية تيط مليل,Pharmacie Tit Mellil صيدلية تيط مليل,,,pharmacy,,unknown,Unknown,Boulevard Annakhil,33.5522612,-7.4826014,,,,,,OSM,https://www.openstreetmap.org/node/5623149839,0.7
+osm_node_5623276960,Pharmacie Errahmane,Pharmacie Errahmane,,,pharmacy,,unknown,Ain Chock,Route de Taddart,33.5526038,-7.6230601,,,,,,OSM,https://www.openstreetmap.org/node/5623276960,0.7
+osm_node_5625001059,Pharmacie Machaa Allah,Pharmacie Machaa Allah,,,pharmacy,,unknown,Sbata,Rue 14,33.5371525,-7.5703479,,,,,,OSM,https://www.openstreetmap.org/node/5625001059,0.7
+osm_node_5625001084,Pharmacie Al Ahram,Pharmacie Al Ahram,,,pharmacy,,unknown,Sbata,Avenue Mekdad Lahrizi,33.5367602,-7.5734532,,,,,,OSM,https://www.openstreetmap.org/node/5625001084,0.7
+osm_node_5625001497,Pharmacie Salim,Pharmacie Salim,,,pharmacy,,unknown,Sbata,Rue 2,33.5378244,-7.5671151,,,,,,OSM,https://www.openstreetmap.org/node/5625001497,0.7
+osm_node_5625379300,,,,,pharmacy,,unknown,Sidi Othmane,Rue 66,33.5667045,-7.5678098,,,,,,OSM,https://www.openstreetmap.org/node/5625379300,0.7
+osm_node_5626812131,Pharmacie Laaziza,Pharmacie Laaziza,,,pharmacy,,unknown,Sbata,Rue 41,33.5360269,-7.5518963,,,,,,OSM,https://www.openstreetmap.org/node/5626812131,0.7
+osm_node_5626812136,Pharmacie Al Fadila,Pharmacie Al Fadila,,,pharmacy,,unknown,Sbata,Boulevard du Golan,33.537546,-7.5516106,,,,,,OSM,https://www.openstreetmap.org/node/5626812136,0.7
+osm_node_5626812166,Pharmacie Salmia,Pharmacie Salmia,,,pharmacy,,unknown,Sbata,Boulevard du Golan,33.5384537,-7.5553362,,,,,,OSM,https://www.openstreetmap.org/node/5626812166,0.7
+osm_node_5626812219,Pharmacie Tessema,Pharmacie Tessema,,,pharmacy,,unknown,Sbata,Boulevard du Golan,33.5436056,-7.5614248,,,,,,OSM,https://www.openstreetmap.org/node/5626812219,0.7
+osm_node_5626813100,Pharmacie Essa-Egh,Pharmacie Essa-Egh,,,pharmacy,,unknown,Sbata,Rue 18,33.5401863,-7.5512499,,,,,,OSM,https://www.openstreetmap.org/node/5626813100,0.7
+osm_node_5627086712,Pharmacie Ksikes,Pharmacie Ksikes,,,pharmacy,,unknown,Unknown,Avenue du 10 Mars 1982,33.5423068,-7.542302,,,,,,OSM,https://www.openstreetmap.org/node/5627086712,0.7
+osm_node_5627088354,,,,,pharmacy,,unknown,Sidi Othmane,Boulevard Anoual,33.5652373,-7.5687821,,,,,,OSM,https://www.openstreetmap.org/node/5627088354,0.7
+osm_node_5627205171,,,,,pharmacy,,unknown,Sidi Othmane,Rue 5,33.5681862,-7.5687861,,,,,,OSM,https://www.openstreetmap.org/node/5627205171,0.7
+osm_node_5627205172,,,,,pharmacy,,unknown,Sidi Othmane,Boulevard du Nil,33.5659759,-7.5646207,,,,,,OSM,https://www.openstreetmap.org/node/5627205172,0.7
+osm_node_5627299056,Clinique Zarhoun,Clinique Zarhoun,,,clinic,,unknown,Sidi Belyout,Rue de Suippes,33.5850365,-7.6142472,,,,,,OSM,https://www.openstreetmap.org/node/5627299056,0.7
+osm_node_5627299100,Pharmacie Populaire,Pharmacie Populaire,,,pharmacy,,unknown,Sidi Belyout,Rue Hadj Omar Riffi,33.5856143,-7.6138653,,,,,,OSM,https://www.openstreetmap.org/node/5627299100,0.7
+osm_node_5627299183,,,,,pharmacy,,unknown,Sidi Belyout,Rue el Brihi Ahmed,33.5879781,-7.6086537,,,,,,OSM,https://www.openstreetmap.org/node/5627299183,0.7
+osm_node_5627609211,,,,,pharmacy,,unknown,Sidi Othmane,Boulevard des Forces Auxiliaires,33.5687204,-7.5599147,,,,,,OSM,https://www.openstreetmap.org/node/5627609211,0.7
+osm_node_5632885412,Pharmacie Tawdi,Pharmacie Tawdi,,,pharmacy,,unknown,Moulay Rachid,,33.5734001,-7.5534868,,,,,,OSM,https://www.openstreetmap.org/node/5632885412,0.7
+osm_node_5632888434,Pharmacie Essafa,Pharmacie Essafa,,,pharmacy,,unknown,Moulay Rachid,,33.569478,-7.5571883,,,,,,OSM,https://www.openstreetmap.org/node/5632888434,0.7
+osm_node_5632888505,,,,,pharmacy,,unknown,Moulay Rachid,,33.566928,-7.5459391,,,,,,OSM,https://www.openstreetmap.org/node/5632888505,0.7
+osm_node_5632965280,Pharmacie Ibn Zahr,Pharmacie Ibn Zahr,,,pharmacy,,unknown,Sidi Othmane,Boulevard du Nil,33.5584382,-7.5690745,,,,,,OSM,https://www.openstreetmap.org/node/5632965280,0.7
+osm_node_5633081260,Pharmacie Lamrissi,Pharmacie Lamrissi,,,pharmacy,,unknown,Moulay Rachid,,33.5623865,-7.5410038,,,,,,OSM,https://www.openstreetmap.org/node/5633081260,0.7
+osm_node_5633081280,Pharmacie Lamrissi,Pharmacie Lamrissi,,,pharmacy,,unknown,Moulay Rachid,,33.5627486,-7.5397673,,,,,,OSM,https://www.openstreetmap.org/node/5633081280,0.7
+osm_node_5633081284,Pharmacie Kamareddine,Pharmacie Kamareddine,,,pharmacy,,unknown,Moulay Rachid,,33.5626681,-7.5439918,,,,,,OSM,https://www.openstreetmap.org/node/5633081284,0.7
+osm_node_5633308716,Pharmacie El Houria,Pharmacie El Houria,,,pharmacy,,unknown,Hay Mohammadi,Avenue Chaouki Jilali Meskini,33.5841955,-7.5579688,,,,,,OSM,https://www.openstreetmap.org/node/5633308716,0.7
+osm_node_5633308717,Pharmacie El AHD El Jadid,Pharmacie El AHD El Jadid,,,pharmacy,,unknown,Hay Mohammadi,Boulevard de la Grande Ceinture,33.5814694,-7.5632876,,,,,,OSM,https://www.openstreetmap.org/node/5633308717,0.7
+osm_node_5633328210,,,,,pharmacy,,unknown,Moulay Rachid,Boulevard Al Aqid El Allam,33.5555291,-7.5470468,,,,,,OSM,https://www.openstreetmap.org/node/5633328210,0.7
+osm_node_5633328212,Pharmacie Al Falah,Pharmacie Al Falah,,,pharmacy,,unknown,Moulay Rachid,Boulevard Al Aqid El Allam,33.5583991,-7.5495037,,,,,,OSM,https://www.openstreetmap.org/node/5633328212,0.7
+osm_node_5633523475,Pharmacie de Lorraine,Pharmacie de Lorraine,,,pharmacy,,unknown,Sidi Belyout,Boulevard Rahal El Meskini,33.5876576,-7.6144999,,,,,,OSM,https://www.openstreetmap.org/node/5633523475,0.7
+osm_node_5633592497,,,,,pharmacy,,unknown,Moulay Rachid,,33.5547915,-7.5345102,,,,,,OSM,https://www.openstreetmap.org/node/5633592497,0.7
+osm_node_5633594726,,,,,pharmacy,,unknown,Sidi Othmane,Avenue du Commandant Idriss Elharti,33.557046,-7.5588037,,,,,,OSM,https://www.openstreetmap.org/node/5633594726,0.7
+osm_node_5633594730,,,,,pharmacy,,unknown,Sidi Othmane,Avenue du 10 Mars 1982,33.5622993,-7.5662756,,,,,,OSM,https://www.openstreetmap.org/node/5633594730,0.7
+osm_node_5633747547,Pharmacie el Hanaa,Pharmacie el Hanaa,,,pharmacy,,unknown,Ben M'Sick,Boulevard de l'Unité Africaine,33.5570658,-7.5818767,,,,,,OSM,https://www.openstreetmap.org/node/5633747547,0.7
+osm_node_5633747564,Pharmacie Para,Pharmacie Para,,,pharmacy,,unknown,Ben M'Sick,Boulevard Abou Horaira,33.5576861,-7.5796075,,,,,,OSM,https://www.openstreetmap.org/node/5633747564,0.7
+osm_node_5633747569,,,,,pharmacy,,unknown,Al Fida,Boulevard Abdellah Senhaji,33.5646115,-7.5879666,,,,,,OSM,https://www.openstreetmap.org/node/5633747569,0.7
+osm_node_5633747587,Pharmacie el Othmania,Pharmacie el Othmania,,,pharmacy,,unknown,Sidi Othmane,Boulevard Abou Horaira,33.5627982,-7.5705381,,,,,,OSM,https://www.openstreetmap.org/node/5633747587,0.7
+osm_node_5633748036,Pharmacie Calogera,Pharmacie Calogera,,,pharmacy,,unknown,Ben M'Sick,Rue 73,33.5584983,-7.5864208,,,,,,OSM,https://www.openstreetmap.org/node/5633748036,0.7
+osm_node_5633937666,Pharmacie Mersultan,Pharmacie Mersultan,,,pharmacy,,unknown,Sidi Belyout,Avenue Mers Sultan,33.5839923,-7.6155918,,,,,,OSM,https://www.openstreetmap.org/node/5633937666,0.7
+osm_node_5636182800,Porte Californie,Porte Californie,,,pharmacy,,unknown,Maarif,Route de La Mecque,33.5596798,-7.6287738,,,,,,OSM,https://www.openstreetmap.org/node/5636182800,0.7
+osm_node_5636182809,Para & Pharmacie Merieux صيدلية ميريو,Para & Pharmacie Merieux صيدلية ميريو,Para & Pharmacie Merieux,صيدلية ميريو,pharmacy,,unknown,Maarif,Boulevard Abdelmoumen شارع عبد المومن,33.5673061,-7.6260074,+212 5 22 86 05 70,,,,,OSM,https://www.openstreetmap.org/node/5636182809,0.7
+osm_node_5636182895,Pharmacie Abdelmoumen,Pharmacie Abdelmoumen,,,pharmacy,,unknown,Maarif,Boulevard Abdelmoumen,33.5764002,-7.6259212,,,,,,OSM,https://www.openstreetmap.org/node/5636182895,0.7
+osm_node_5636182944,,,,,pharmacy,,unknown,Maarif,Boulevard Abdelmoumen,33.5816236,-7.6244299,,,,,,OSM,https://www.openstreetmap.org/node/5636182944,0.7
+osm_node_5636182963,Pharmacie Taddart,Pharmacie Taddart,,,pharmacy,,unknown,Maarif,Route de Taddart,33.5563383,-7.624332,,,,,,OSM,https://www.openstreetmap.org/node/5636182963,0.7
+osm_node_5636200657,Para & Pharmacie,Para & Pharmacie,,,pharmacy,,unknown,Sidi Belyout,Boulevard Ibrahim Roudani,33.5873383,-7.6281434,,,,,,OSM,https://www.openstreetmap.org/node/5636200657,0.7
+osm_node_5636207690,Pharmacie Principale,Pharmacie Principale,,,pharmacy,,unknown,Sidi Belyout,Avenue Mers Sultan,33.5876567,-7.6174173,,,,,,OSM,https://www.openstreetmap.org/node/5636207690,0.7
+osm_node_5636207705,Clinique les princes مصحة الأمراء,Clinique les princes مصحة الأمراء,Clinique les princes,مصحة الأمراء,hospital,,unknown,Sidi Belyout,Rue Allal Al Fassi,33.5878622,-7.6195697,,,,,,OSM,https://www.openstreetmap.org/node/5636207705,0.7
+osm_node_5636207731,Pharmacie Minuit,Pharmacie Minuit,,,pharmacy,,unknown,Sidi Belyout,Boulevard de Paris,33.5934804,-7.6201545,,,,,,OSM,https://www.openstreetmap.org/node/5636207731,0.7
+osm_node_5636207734,Parisienne,Parisienne,,,pharmacy,,unknown,Sidi Belyout,Avenue Hassan II,33.5897899,-7.6195932,,,,,,OSM,https://www.openstreetmap.org/node/5636207734,0.7
+osm_node_5636207736,Chirurgie Dentaire,Chirurgie Dentaire,,,dentist,,unknown,Sidi Belyout,Rue Omarslaoui,33.5883733,-7.6190574,,,,,,OSM,https://www.openstreetmap.org/node/5636207736,0.7
+osm_node_5636207744,Pharmacie du Parc,Pharmacie du Parc,,,pharmacy,,unknown,Sidi Belyout,Avenue Hassan II,33.5872545,-7.6211335,,,,,,OSM,https://www.openstreetmap.org/node/5636207744,0.7
+osm_node_5636207755,Para & Parapharmacie Oliveri,Para & Parapharmacie Oliveri,,,pharmacy,,unknown,Sidi Belyout,Rue Ibn Tofail,33.5848798,-7.6240269,,,,,,OSM,https://www.openstreetmap.org/node/5636207755,0.7
+osm_node_5636207784,Laboratoire Labomedic,Laboratoire Labomedic,,,doctor,,unknown,Sidi Belyout,Boulevard Mohamed Zerktouni,33.5835791,-7.6231398,,,,,,OSM,https://www.openstreetmap.org/node/5636207784,0.7
+osm_node_5636207797,Pharmacie Mercure,Pharmacie Mercure,,,pharmacy,,unknown,Sidi Belyout,Rue Darâa,33.5849916,-7.6210879,,,,,,OSM,https://www.openstreetmap.org/node/5636207797,0.7
+osm_node_5636207798,Chirurgien Dentiste,Chirurgien Dentiste,,,dentist,,unknown,Sidi Belyout,Rue Darâa,33.5850139,-7.6211315,,,,,,OSM,https://www.openstreetmap.org/node/5636207798,0.7
+osm_node_5636207808,Clinique Vetreinaire El Vacoubi,Clinique Vetreinaire El Vacoubi,,,clinic,,unknown,Sidi Belyout,Rue Agadir,33.5842827,-7.6197159,,,,,,OSM,https://www.openstreetmap.org/node/5636207808,0.7
+osm_node_5636217539,,,,,pharmacy,,unknown,Maarif,Boulevard Abderrahim Bouabid,33.5592451,-7.6384109,,,,,,OSM,https://www.openstreetmap.org/node/5636217539,0.7
+osm_node_5638347722,Pharmacie de L'opera,Pharmacie de L'opera,,,pharmacy,,unknown,Maarif,Rue Mohamed Bahi,33.580465,-7.6331471,,,,,,OSM,https://www.openstreetmap.org/node/5638347722,0.7
+osm_node_5638347849,,,,,pharmacy,,unknown,Maarif,Boulevard Ibrahim Roudani,33.5846692,-7.6308243,,,,,,OSM,https://www.openstreetmap.org/node/5638347849,0.7
+osm_node_5638347878,Pharmacie du Palmier,Pharmacie du Palmier,,,pharmacy,,unknown,Maarif,Boulevard Mohamed Abdou,33.5825023,-7.6259098,,,,,,OSM,https://www.openstreetmap.org/node/5638347878,0.7
+osm_node_5638347915,Chirurgien Dentiste,Chirurgien Dentiste,,,dentist,,unknown,Maarif,Rue Mohamed Bahi,33.5802427,-7.6330653,,,,,,OSM,https://www.openstreetmap.org/node/5638347915,0.7
+osm_node_5638347977,Pharmacie du Louvre,Pharmacie du Louvre,,,pharmacy,,unknown,Maarif,Rue Al Mortada,33.5824498,-7.6306697,,,,,,OSM,https://www.openstreetmap.org/node/5638347977,0.7
+osm_node_5638416358,Pharmacie Hacha,Pharmacie Hacha,,,pharmacy,,unknown,Al Fida,Rue 5,33.5666766,-7.602578,,,,,,OSM,https://www.openstreetmap.org/node/5638416358,0.7
+osm_node_5638523759,Pharmacie Ghalef,Pharmacie Ghalef,,,pharmacy,,unknown,Maarif,Rue Jabir Al Ansari,33.5773527,-7.6308055,,,,,,OSM,https://www.openstreetmap.org/node/5638523759,0.7
+osm_node_5638647155,Droguerie Al Mal,Droguerie Al Mal,,,pharmacy,,unknown,Maarif,,33.5759608,-7.6318585,,,,,,OSM,https://www.openstreetmap.org/node/5638647155,0.7
+osm_node_5640023693,Pharmacie Kastalani,Pharmacie Kastalani,,,pharmacy,,unknown,Mers Sultan,Rue Daoud el Antaki,33.5737722,-7.6077627,,,,,,OSM,https://www.openstreetmap.org/node/5640023693,0.7
+osm_node_5640032404,Pharmacie Jerrada,Pharmacie Jerrada,,,pharmacy,,unknown,Maarif,Boulevard Abderrahim Bouabid,33.5627318,-7.6429452,,,,,,OSM,https://www.openstreetmap.org/node/5640032404,0.7
+osm_node_5640190802,Pharmacie Aloum,Pharmacie Aloum,,,pharmacy,,unknown,Maarif,Boulevard d'Anoual,33.569402,-7.6285002,,,,,,OSM,https://www.openstreetmap.org/node/5640190802,0.7
+osm_node_5640190813,Para & Pharmacie Benzit,Para & Pharmacie Benzit,,,pharmacy,,unknown,Maarif,,33.5702345,-7.6283842,,,,,,OSM,https://www.openstreetmap.org/node/5640190813,0.7
+osm_node_5640191723,Pharmacie Attissir,Pharmacie Attissir,,,pharmacy,,unknown,Maarif,Zanqat 93,33.5726269,-7.6290178,,,,,,OSM,https://www.openstreetmap.org/node/5640191723,0.7
+osm_node_5640192135,Pharmacie Zaouia,Pharmacie Zaouia,,,pharmacy,,unknown,Maarif,Rue Al Maadane,33.5765622,-7.6278631,,,,,,OSM,https://www.openstreetmap.org/node/5640192135,0.7
+osm_node_5640192186,Clinique Hamdani,Clinique Hamdani,,,clinic,,unknown,Maarif,Zanqat 93,33.5739867,-7.6307733,,,,,,OSM,https://www.openstreetmap.org/node/5640192186,0.7
+osm_node_5640192236,Pharmacie Diamond,Pharmacie Diamond,,,pharmacy,,unknown,Maarif,Rue Abderrahman Zemmouri,33.5755968,-7.6262176,,,,,,OSM,https://www.openstreetmap.org/node/5640192236,0.7
+osm_node_5640407429,Pharmacie Du Gharb,Pharmacie Du Gharb,,,pharmacy,,unknown,Mers Sultan,Rue de Smyrne,33.573266,-7.6032552,,,,,,OSM,https://www.openstreetmap.org/node/5640407429,0.7
+osm_node_5640407443,Pharmacie Hay El Baladia,Pharmacie Hay El Baladia,,,pharmacy,,unknown,Mers Sultan,Rue Moulay Idrissi,33.5745119,-7.6053393,,,,,,OSM,https://www.openstreetmap.org/node/5640407443,0.7
+osm_node_5640459161,,,,,pharmacy,,unknown,Maarif,Boulevard Ghandi,33.5672683,-7.639982,,,,,,OSM,https://www.openstreetmap.org/node/5640459161,0.7
+osm_node_5640584155,Pharmacie Val Fleuri صيدلية ڤال فلوري,Pharmacie Val Fleuri صيدلية ڤال فلوري,Pharmacie Val Fleuri,صيدلية ڤال فلوري,pharmacy,,unknown,Maarif,Avenue Stendhal شارع ستندال,33.5750129,-7.6346567,,,,,,OSM,https://www.openstreetmap.org/node/5640584155,0.7
+osm_node_5640584217,Parapharmacie,Parapharmacie,,,pharmacy,,unknown,Maarif,Rue Ben Jilali Taj Eddine,33.5783835,-7.6373354,,,,,,OSM,https://www.openstreetmap.org/node/5640584217,0.7
+osm_node_5640584425,Centre dentaire orthodonté,Centre dentaire orthodonté,Centre dentaire orthodonté,,dentist,,unknown,Maarif,Boulevard Ibrahim Roudani,33.5796326,-7.6358159,,,,,,OSM,https://www.openstreetmap.org/node/5640584425,0.7
+osm_node_5640584529,Pharmacie Route El Jadda,Pharmacie Route El Jadda,,,pharmacy,,unknown,Maarif,Boulevard Ibrahim Roudani,33.5730001,-7.641533,,,,,,OSM,https://www.openstreetmap.org/node/5640584529,0.7
+osm_node_5640584530,Centre Dentaire,Centre Dentaire,,,dentist,,unknown,Maarif,Boulevard Ibrahim Roudani,33.5734951,-7.6411293,,,,,,OSM,https://www.openstreetmap.org/node/5640584530,0.7
+osm_node_5640584531,Radiologie Socrate,Radiologie Socrate,,,doctor,,unknown,Maarif,Rue Nassih Eddine زنقة نصيح الدين,33.5738704,-7.6409933,,,,,,OSM,https://www.openstreetmap.org/node/5640584531,0.7
+osm_node_5640623465,Pharmacie Bouabid,Pharmacie Bouabid,,,pharmacy,,unknown,Sidi Bernoussi,Boulevard Bensaid Salah Mohamed,33.6116239,-7.5018597,,,,,,OSM,https://www.openstreetmap.org/node/5640623465,0.7
+osm_node_5640623486,Pharmacie Hay Amal,Pharmacie Hay Amal,,,pharmacy,,unknown,Sidi Bernoussi,,33.6025766,-7.5115827,,,,,,OSM,https://www.openstreetmap.org/node/5640623486,0.7
+osm_node_5640623492,Pharmacie Du Maghree Arabe,Pharmacie Du Maghree Arabe,,,pharmacy,,unknown,Sidi Bernoussi,,33.6123063,-7.5072241,,,,,,OSM,https://www.openstreetmap.org/node/5640623492,0.7
+osm_node_5640729789,Pharmacie Arij,Pharmacie Arij,,,pharmacy,,unknown,Ain Chock,Boulevard Dammam,33.5447055,-7.6376867,,,,,,OSM,https://www.openstreetmap.org/node/5640729789,0.7
+osm_node_5640729818,Pharmacie Fleming,Pharmacie Fleming,,,pharmacy,,unknown,Ain Chock,Boulevard de La Mecque,33.5326531,-7.62962,,,,,,OSM,https://www.openstreetmap.org/node/5640729818,0.7
+osm_node_5640731987,Pharmacie Al Hilal,Pharmacie Al Hilal,,,pharmacy,,unknown,Maarif,Rue Bachir Laalej زنقة البشير العلج,33.5724508,-7.6375345,,,,,,OSM,https://www.openstreetmap.org/node/5640731987,0.7
+osm_node_5642020609,Pharmacie L Entente,Pharmacie L Entente,,,pharmacy,,unknown,Sidi Bernoussi,Boulevard Ahmed Ben Bassou,33.6056126,-7.5144956,,,,,,OSM,https://www.openstreetmap.org/node/5642020609,0.7
+osm_node_5642022153,Pharmacie Sabrine,Pharmacie Sabrine,,,pharmacy,,unknown,Sidi Bernoussi,,33.6071305,-7.5123109,,,,,,OSM,https://www.openstreetmap.org/node/5642022153,0.7
+osm_node_5642146152,صيدلية طارق,صيدلية طارق,,,pharmacy,,unknown,Sidi Bernoussi,Boulevard Abou Dhar Al-Ghifari,33.6080715,-7.5152714,,,,,,OSM,https://www.openstreetmap.org/node/5642146152,0.7
+osm_node_5642146157,Pharmacie Ghabab,Pharmacie Ghabab,,,pharmacy,,unknown,Ain Sebaa,Boulevard Abi Der Al-Ghaffari,33.6042666,-7.5235976,,,,,,OSM,https://www.openstreetmap.org/node/5642146157,0.7
+osm_node_5642334627,Pharmacie du Quartier,Pharmacie du Quartier,,,pharmacy,,unknown,Sidi Bernoussi,Boulevard Souhaib Arroumi,33.6062102,-7.5066648,,,,,,OSM,https://www.openstreetmap.org/node/5642334627,0.7
+osm_node_5642334632,Pharmacie Yafa,Pharmacie Yafa,,,pharmacy,,unknown,Sidi Bernoussi,Boulevard Mbarek Ben Boubker Hamadi,33.6121097,-7.4984264,,,,,,OSM,https://www.openstreetmap.org/node/5642334632,0.7
+osm_node_5642334643,,,,,pharmacy,,unknown,Sidi Bernoussi,Boulevard Souhaib Arroumi,33.6076957,-7.5038847,,,,,,OSM,https://www.openstreetmap.org/node/5642334643,0.7
+osm_node_5648126113,Pharmacie Panoramique,Pharmacie Panoramique,,,pharmacy,,unknown,Ain Chock,Boulevard Panoramique,33.5558532,-7.5979806,,,,,,OSM,https://www.openstreetmap.org/node/5648126113,0.7
+osm_node_5648151546,,,,,pharmacy,,unknown,Ain Chock,Boulevard Panoramique,33.5545054,-7.600797,,,,,,OSM,https://www.openstreetmap.org/node/5648151546,0.7
+osm_node_5649658384,Pharmacie Hay Rmila,Pharmacie Hay Rmila,,,pharmacy,,unknown,Ain Chock,Rue 22,33.5580225,-7.5993432,,,,,,OSM,https://www.openstreetmap.org/node/5649658384,0.7
+osm_node_5649732657,Pharmacie Mouad,Pharmacie Mouad,,,pharmacy,,unknown,Ain Chock,Boulevard de Berrechid,33.5527865,-7.5944549,,,,,,OSM,https://www.openstreetmap.org/node/5649732657,0.7
+osm_node_5649803509,Pharmacie de la Commune,Pharmacie de la Commune,,,pharmacy,,unknown,Ain Chock,Boulevard Zagora,33.55473,-7.5963593,,,,,,OSM,https://www.openstreetmap.org/node/5649803509,0.7
+osm_node_5649874861,Cabinet Vétérinaire Val Fleuri,Cabinet Vétérinaire Val Fleuri,,,veterinary,,unknown,Maarif,Rue Ahmed El Kadmiri زنقة أحمد القدميري,33.5750709,-7.6388421,+212 5 22 25 24 72,https://vetvalfleuri.ma/,,,,OSM,https://www.openstreetmap.org/node/5649874861,0.7
+osm_node_5649875043,Parahealth,Parahealth,,,pharmacy,,unknown,Maarif,Rue Racine زنقة راسين,33.5751784,-7.6370672,,,,,,OSM,https://www.openstreetmap.org/node/5649875043,0.7
+osm_node_5650301253,Grande Pharmacie de Liebonne,Grande Pharmacie de Liebonne,,,pharmacy,,unknown,Mers Sultan,Rue Abdeslam Khattabi,33.5752543,-7.6136027,,,,,,OSM,https://www.openstreetmap.org/node/5650301253,0.7
+osm_node_5650301257,Pharmacie Des Facultes,Pharmacie Des Facultes,,,pharmacy,,unknown,Maarif,Avenue Idriss 1er,33.5721987,-7.6190963,,,,,,OSM,https://www.openstreetmap.org/node/5650301257,0.7
+osm_node_5650301263,Pharmacie Al Boudour,Pharmacie Al Boudour,,,pharmacy,,unknown,Maarif,Rue de Sebta زنقة سبتة,33.5794447,-7.6173798,,,,,,OSM,https://www.openstreetmap.org/node/5650301263,0.7
+osm_node_5650331127,Pharmacie Sefrou,Pharmacie Sefrou,,,pharmacy,,unknown,Ain Chock,,33.5438202,-7.5859161,,,,,,OSM,https://www.openstreetmap.org/node/5650331127,0.7
+osm_node_5650331132,,,,,pharmacy,,unknown,Ain Chock,Rue 265,33.5456958,-7.5868911,,,,,,OSM,https://www.openstreetmap.org/node/5650331132,0.7
+osm_node_5650419532,Pharmacie de la Plage,Pharmacie de la Plage,,,pharmacy,,unknown,Ain Sebaa,Boulevard Ahmed Mekouar,33.6177529,-7.5391068,,,,,,OSM,https://www.openstreetmap.org/node/5650419532,0.7
+osm_node_5650492255,Pharmacie des Halles,Pharmacie des Halles,,,pharmacy,,unknown,Roches Noires,Rue Mohammed Ben Radi Slaoui,33.5899022,-7.5961058,,,,,,OSM,https://www.openstreetmap.org/node/5650492255,0.7
+osm_node_5651949871,Pharmacie SoulaÏma,Pharmacie SoulaÏma,,,pharmacy,,unknown,Ain Chock,Boulevard de Fès,33.5435565,-7.6157114,,,,,,OSM,https://www.openstreetmap.org/node/5651949871,0.7
+osm_node_5652020881,Pharmacie Jordins Polo,Pharmacie Jordins Polo,,,pharmacy,,unknown,Ain Chock,Boulevard de l'Atlantide,33.5526591,-7.6183212,,,,,,OSM,https://www.openstreetmap.org/node/5652020881,0.7
+osm_node_5652114777,Para Pharmacie Safir,Para Pharmacie Safir,,,pharmacy,,unknown,Sidi Belyout,Rue Nichakra Rahal,33.5946835,-7.6086337,,,,,,OSM,https://www.openstreetmap.org/node/5652114777,0.7
+osm_node_5652183635,Pharmacie Al Irchad,Pharmacie Al Irchad,,,pharmacy,,unknown,Ain Chock,Hay Yasmina III,33.5390462,-7.5843832,,,,,,OSM,https://www.openstreetmap.org/node/5652183635,0.7
+osm_node_5652195614,Pharmacie du Mechouar,Pharmacie du Mechouar,,,pharmacy,,unknown,Mers Sultan,Rue d'Arcachon,33.5858356,-7.6042986,,,,,,OSM,https://www.openstreetmap.org/node/5652195614,0.7
+osm_node_5652195615,,,,,pharmacy,,unknown,Mers Sultan,Rue Bachir Ibrahimi,33.5876142,-7.6034148,,,,,,OSM,https://www.openstreetmap.org/node/5652195615,0.7
+osm_node_5652211876,Pharmacie des Dalias,Pharmacie des Dalias,,,pharmacy,,unknown,Ain Chock,Boulevard Panoramique,33.5504763,-7.6156577,,,,,,OSM,https://www.openstreetmap.org/node/5652211876,0.7
+osm_node_5652211895,,,,,pharmacy,,unknown,Ain Chock,Boulevard Panoramique,33.5524523,-7.6072799,,,,,,OSM,https://www.openstreetmap.org/node/5652211895,0.7
+osm_node_5652211901,Pharmacie Californie,Pharmacie Californie,,,pharmacy,,unknown,Ain Chock,Boulevard Panoramique,33.5499945,-7.6209672,,,,,,OSM,https://www.openstreetmap.org/node/5652211901,0.7
+osm_node_5652534409,Pharmacie L'Ermitage,Pharmacie L'Ermitage,,,pharmacy,,unknown,Maarif,Avenue De l'Hermitage,33.5659379,-7.6207003,,,,,,OSM,https://www.openstreetmap.org/node/5652534409,0.7
+osm_node_5652534522,Pharmacie Ibork,Pharmacie Ibork,,,pharmacy,,unknown,Maarif,Route de l'Oasis,33.5629073,-7.6282936,,,,,,OSM,https://www.openstreetmap.org/node/5652534522,0.7
+osm_node_5652534523,Pharmacie Les Cygnes,Pharmacie Les Cygnes,,,pharmacy,,unknown,Maarif,Route de l'Oasis,33.5596374,-7.6297139,,,,,,OSM,https://www.openstreetmap.org/node/5652534523,0.7
+osm_node_5652534531,Pharmacie Tontonville,Pharmacie Tontonville,,,pharmacy,,unknown,Maarif,Allée Des Cygnes,33.5660541,-7.6234536,,,,,,OSM,https://www.openstreetmap.org/node/5652534531,0.7
+osm_node_5652580662,Pharmacie Anoual,Pharmacie Anoual,,,pharmacy,,unknown,Maarif,Rue Abou Maachar,33.5688143,-7.6174629,,,,,,OSM,https://www.openstreetmap.org/node/5652580662,0.7
+osm_node_5652589237,Clinique Dentaire El Qods,Clinique Dentaire El Qods,,,clinic,,unknown,Ain Chock,Boulevard al Quds,33.5443087,-7.5830401,,,,,,OSM,https://www.openstreetmap.org/node/5652589237,0.7
+osm_node_5652654432,Radiologie Scanner IRM Imagierie Dentaire,Radiologie Scanner IRM Imagierie Dentaire,,,laboratory,,unknown,Maarif,Boulevard d'Anoual,33.569326,-7.6251568,,,,,,OSM,https://www.openstreetmap.org/node/5652654432,0.7
+osm_node_5652654455,Clinique Hermitage,Clinique Hermitage,,,clinic,,unknown,Maarif,Boulevard d'Anoual,33.5688746,-7.6141718,,,,,,OSM,https://www.openstreetmap.org/node/5652654455,0.7
+osm_node_5652698698,Pharmacie El Mostakbal,Pharmacie El Mostakbal,,,pharmacy,,unknown,Ain Chock,,33.5365344,-7.5929314,,,,,,OSM,https://www.openstreetmap.org/node/5652698698,0.7
+osm_node_5652866406,Pharmacie Al Andalib,Pharmacie Al Andalib,,,pharmacy,,unknown,Ain Chock,Zanqat 33,33.5324166,-7.5862741,,,,,,OSM,https://www.openstreetmap.org/node/5652866406,0.7
+osm_node_5653989645,Pharmacie Rania,Pharmacie Rania,,,pharmacy,,unknown,Ain Chock,Rue 10,33.5307571,-7.6120415,,,,,,OSM,https://www.openstreetmap.org/node/5653989645,0.7
+osm_node_5654105788,,,,,pharmacy,,unknown,Mers Sultan,Boulevard Lamartine,33.5702401,-7.609828,,,,,,OSM,https://www.openstreetmap.org/node/5654105788,0.7
+osm_node_5654105790,Laboratoire Anoual,Laboratoire Anoual,,,laboratory,,unknown,Maarif,Boulevard d'Anoual,33.5691841,-7.6147431,,,,,,OSM,https://www.openstreetmap.org/node/5654105790,0.7
+osm_node_5654105791,,,,,pharmacy,,unknown,Maarif,Boulevard d'Anoual,33.5696479,-7.621973,,,,,,OSM,https://www.openstreetmap.org/node/5654105791,0.7
+osm_node_5654314148,Pharmacie Derb Bouchemtouf,Pharmacie Derb Bouchemtouf,,,pharmacy,,unknown,Mers Sultan,40 Zanqat,33.570016,-7.6073007,,,,,,OSM,https://www.openstreetmap.org/node/5654314148,0.7
+osm_node_5654316241,Pharmacie Annajat,Pharmacie Annajat,,,pharmacy,,unknown,Ain Chock,Avenue Mamar Tichka,33.5338504,-7.5979699,,,,,,OSM,https://www.openstreetmap.org/node/5654316241,0.7
+osm_node_5654320595,Pharmacie TAH,Pharmacie TAH,,,pharmacy,,unknown,Ain Chock,Rue 55,33.5265614,-7.6018001,,,,,,OSM,https://www.openstreetmap.org/node/5654320595,0.7
+osm_node_5654320596,Pharmacie El Baraka (2),Pharmacie El Baraka (2),,,pharmacy,,unknown,Ain Chock,Rue 48,33.5237379,-7.6003417,,,,,,OSM,https://www.openstreetmap.org/node/5654320596,0.7
+osm_node_5654320610,Pharmacie Chriea,Pharmacie Chriea,,,pharmacy,,unknown,Ain Chock,,33.5346519,-7.6060447,,,,,,OSM,https://www.openstreetmap.org/node/5654320610,0.7
+osm_node_5654640826,Laboratoire Bouchentouf,Laboratoire Bouchentouf,,,laboratory,,unknown,Mers Sultan,40 Zanqat,33.5697618,-7.6042329,,,,,,OSM,https://www.openstreetmap.org/node/5654640826,0.7
+osm_node_5654832258,Parapharmacie,Parapharmacie,,,pharmacy,,unknown,Mers Sultan,Boulevard el Fida,33.5688612,-7.6037226,,,,,,OSM,https://www.openstreetmap.org/node/5654832258,0.7
+osm_node_5654904132,,,,,pharmacy,,unknown,Mers Sultan,Rue de Beni M'guild,33.5720101,-7.6060005,,,,,,OSM,https://www.openstreetmap.org/node/5654904132,0.7
+osm_node_5654904137,,,,,pharmacy,,unknown,Mers Sultan,Rue 29,33.5701362,-7.6040693,,,,,,OSM,https://www.openstreetmap.org/node/5654904137,0.7
+osm_node_5655031708,Pharmacie Lumieres,Pharmacie Lumieres,,,pharmacy,,unknown,Ain Chock,Boulevard al Quds,33.538698,-7.6008727,,,,,,OSM,https://www.openstreetmap.org/node/5655031708,0.7
+osm_node_5656492169,Pharmacie Val d'Anfa,Pharmacie Val d'Anfa,,,pharmacy,,unknown,Anfa,Boulevard d'Anfa شارع أنفا,33.5884615,-7.6432986,,,,,,OSM,https://www.openstreetmap.org/node/5656492169,0.7
+osm_node_5656714932,Pharmacie L'Olivier,Pharmacie L'Olivier,,,pharmacy,,unknown,Hay Hassani,Boulevard Ghandi,33.5769119,-7.6536874,,,,,,OSM,https://www.openstreetmap.org/node/5656714932,0.7
+osm_node_5656943129,Pharmacie Pitchou,Pharmacie Pitchou,,,pharmacy,,unknown,Al Fida,,33.5658508,-7.6071055,,,,,,OSM,https://www.openstreetmap.org/node/5656943129,0.7
+osm_node_5656943141,Pharmacie Moumen,Pharmacie Moumen,,,pharmacy,,unknown,Al Fida,Rue 31,33.5632246,-7.6070821,,,,,,OSM,https://www.openstreetmap.org/node/5656943141,0.7
+osm_node_5656943151,Pharmacie El Fida,Pharmacie El Fida,,,pharmacy,,unknown,Mers Sultan,Boulevard el Fida,33.5674957,-7.6059669,,,,,,OSM,https://www.openstreetmap.org/node/5656943151,0.7
+osm_node_5656943161,Cabinet Dentaire,Cabinet Dentaire,,,dentist,,unknown,Mers Sultan,Boulevard el Fida,33.56865,-7.604076,,,,,,OSM,https://www.openstreetmap.org/node/5656943161,0.7
+osm_node_5657020168,Pharmacie Les Sciences,Pharmacie Les Sciences,,,pharmacy,,unknown,Hay Hassani,Boulevard de Bouskoura,33.545318,-7.6598498,,,,,,OSM,https://www.openstreetmap.org/node/5657020168,0.7
+osm_node_5657020217,Pharmacie M,Pharmacie M,,,pharmacy,,unknown,Hay Hassani,Route Al Jamiaa,33.5576503,-7.6449408,,,,,,OSM,https://www.openstreetmap.org/node/5657020217,0.7
+osm_node_5657021376,Centre Dentaire Oxford,Centre Dentaire Oxford,,,dentist,,unknown,Hay Hassani,Boulevard Yacoub El Mansour شارع يعقوب المنصور,33.5716229,-7.6478041,,,,,,OSM,https://www.openstreetmap.org/node/5657021376,0.7
+osm_node_5657021392,Pharmacie Oulmes,Pharmacie Oulmes,,,pharmacy,,unknown,Hay Hassani,,33.572076,-7.6486409,,,,,,OSM,https://www.openstreetmap.org/node/5657021392,0.7
+osm_node_5657167239,Centre Dentaire Liberté,Centre Dentaire Liberté,,,dentist,,unknown,Sidi Belyout,Rue Abou Rakrak,33.5878678,-7.6129688,,,,,,OSM,https://www.openstreetmap.org/node/5657167239,0.7
+osm_node_5657167264,Chirurgienne Dentiste,Chirurgienne Dentiste,,,dentist,,unknown,Sidi Belyout,Rue Hadj Omar Riffi,33.5862412,-7.615073,,,,,,OSM,https://www.openstreetmap.org/node/5657167264,0.7
+osm_node_5657167279,Pharmacie Azerktouni,Pharmacie Azerktouni,,,pharmacy,,unknown,Sidi Belyout,Boulevard de la Résistance,33.5836391,-7.6128348,,,,,,OSM,https://www.openstreetmap.org/node/5657167279,0.7
+osm_node_5657167280,Pharmacie Ben J'Dia,Pharmacie Ben J'Dia,,,pharmacy,,unknown,Sidi Belyout,Rue de Metz,33.5852279,-7.6084761,,,,,,OSM,https://www.openstreetmap.org/node/5657167280,0.7
+osm_node_5657167283,Pharmacie Quincaillerie Khalie,Pharmacie Quincaillerie Khalie,,,pharmacy,,unknown,Sidi Belyout,Boulevard Lahcen Ouidder,33.5852111,-7.6099433,,,,,,OSM,https://www.openstreetmap.org/node/5657167283,0.7
+osm_node_5657167287,,,,,pharmacy,,unknown,Mers Sultan,Boulevard de la Résistance,33.5842972,-7.608574,,,,,,OSM,https://www.openstreetmap.org/node/5657167287,0.7
+osm_node_5657167308,Pharmacie Lamoriciere,Pharmacie Lamoriciere,,,pharmacy,,unknown,Sidi Belyout,Rue Tarrablous,33.5857775,-7.6186109,,,,,,OSM,https://www.openstreetmap.org/node/5657167308,0.7
+osm_node_5657171521,,,,,pharmacy,,unknown,Sidi Belyout,Rue des Anglais,33.5951203,-7.6210892,,,,,,OSM,https://www.openstreetmap.org/node/5657171521,0.7
+osm_node_5657171526,Pharmacie Hatim,Pharmacie Hatim,,,pharmacy,,unknown,Sidi Belyout,Rue Ferhat Hached,33.5895212,-7.6172255,,,,,,OSM,https://www.openstreetmap.org/node/5657171526,0.7
+osm_node_5657171536,,,,,pharmacy,,unknown,Sidi Belyout,Rue Abdelkrim Diouri,33.5924504,-7.6136528,,,,,,OSM,https://www.openstreetmap.org/node/5657171536,0.7
+osm_node_5657171546,Grande Pharmacie de Paris,Grande Pharmacie de Paris,,,pharmacy,,unknown,Sidi Belyout,Rue Allal Ben Abdellah,33.595585,-7.6148357,,,,,,OSM,https://www.openstreetmap.org/node/5657171546,0.7
+osm_node_5657171560,Laboratoire,Laboratoire,,,doctor,,unknown,Sidi Belyout,,33.5927951,-7.607123,,,,,,OSM,https://www.openstreetmap.org/node/5657171560,0.7
+osm_node_5657171561,Grand Pharmacie Du Maroc,Grand Pharmacie Du Maroc,,,pharmacy,,unknown,Sidi Belyout,Rue Ahmed Faris,33.5928275,-7.6070351,,,,,,OSM,https://www.openstreetmap.org/node/5657171561,0.7
+osm_node_5657171564,,,,,pharmacy,,unknown,Sidi Belyout,Boulevard de Khouribga,33.5893755,-7.6080979,,,,,,OSM,https://www.openstreetmap.org/node/5657171564,0.7
+osm_node_5657171574,Majestic Drugstore,Majestic Drugstore,,,pharmacy,,unknown,Sidi Belyout,Avenue Lalla Yacout,33.5911455,-7.6134483,,,,,,OSM,https://www.openstreetmap.org/node/5657171574,0.7
+osm_node_5657171578,Pharmacie de la Liberte,Pharmacie de la Liberte,,,pharmacy,,unknown,Sidi Belyout,Avenue Lalla Yacout,33.5918762,-7.6162505,,,,,,OSM,https://www.openstreetmap.org/node/5657171578,0.7
+osm_node_5657171587,Pharmacie Des Archers,Pharmacie Des Archers,,,pharmacy,,unknown,Sidi Belyout,Avenue Lalla Yacout,33.591922,-7.6157677,,,,,,OSM,https://www.openstreetmap.org/node/5657171587,0.7
+osm_node_5657171589,Pharmacie de la Poste,Pharmacie de la Poste,,,pharmacy,,unknown,Sidi Belyout,Boulevard de Paris,33.5927163,-7.6177713,,,,,,OSM,https://www.openstreetmap.org/node/5657171589,0.7
+osm_node_5657171594,Parapharmacie Para Bio,Parapharmacie Para Bio,,,pharmacy,,unknown,Sidi Belyout,Rue El Fourate,33.5858502,-7.6212287,,,,,,OSM,https://www.openstreetmap.org/node/5657171594,0.7
+osm_node_5657388286,Pharmacie du Maârif,Pharmacie du Maârif,Pharmacie du Maârif,,pharmacy,,unknown,Maarif,Boulevard Ibrahim Roudani,33.5811164,-7.6342629,,,,,,OSM,https://www.openstreetmap.org/node/5657388286,0.7
+osm_node_5664414598,,,,,pharmacy,,unknown,Hay Hassani,Route Haj Fateh,33.5397001,-7.6818808,,,,,,OSM,https://www.openstreetmap.org/node/5664414598,0.7
+osm_node_5664415399,Pharmacie Lausinne,Pharmacie Lausinne,,,pharmacy,,unknown,Hay Hassani,Boulevard Omar Khayam,33.5403126,-7.666436,,,,,,OSM,https://www.openstreetmap.org/node/5664415399,0.7
+osm_node_5664415739,Pharmacie Nadir,Pharmacie Nadir,,,pharmacy,,unknown,Hay Hassani,,33.5534202,-7.6452908,,,,,,OSM,https://www.openstreetmap.org/node/5664415739,0.7
+osm_node_5664725432,Pharmacie El Manal,Pharmacie El Manal,Pharmacie El Manal,,pharmacy,,unknown,Hay Hassani,Boulevard d'Oued Oum Rabia,33.5580571,-7.6808555,,,,,,OSM,https://www.openstreetmap.org/node/5664725432,0.7
+osm_node_5664725435,Centre Dentaire & d'Orthdontie,Centre Dentaire & d'Orthdontie,,,dentist,,unknown,Hay Hassani,Boulevard d'Oued Oum Rabia,33.5569217,-7.6827827,,,,,,OSM,https://www.openstreetmap.org/node/5664725435,0.7
+osm_node_5664725438,Pharmacie Nil,Pharmacie Nil,,,pharmacy,,unknown,Hay Hassani,Boulevard Oued Oum Rbia,33.5563494,-7.683059,,,,,,OSM,https://www.openstreetmap.org/node/5664725438,0.7
+osm_node_5664725440,Karimlab,Karimlab,,,doctor,,unknown,Hay Hassani,Boulevard d'Oued Oum Rabia,33.5560678,-7.6844122,,,,,,OSM,https://www.openstreetmap.org/node/5664725440,0.7
+osm_node_5664725443,Cabinet De Chirurgie Dentaire,Cabinet De Chirurgie Dentaire,,,dentist,,unknown,Hay Hassani,Boulevard d'Oued Oum Rabia,33.5549614,-7.6864211,,,,,,OSM,https://www.openstreetmap.org/node/5664725443,0.7
+osm_node_5664726012,Pharmacie El Kawtar,Pharmacie El Kawtar,,,pharmacy,,unknown,Hay Hassani,Boulevard Oued Sebou,33.5567691,-7.6869334,,,,,,OSM,https://www.openstreetmap.org/node/5664726012,0.7
+osm_node_5664802356,Pharmacie Yas,Pharmacie Yas,,,pharmacy,,unknown,Hay Hassani,,33.5331193,-7.702969,,,,,,OSM,https://www.openstreetmap.org/node/5664802356,0.7
+osm_node_5664802368,Pharmacie Moulay Ahmed,Pharmacie Moulay Ahmed,,,pharmacy,,unknown,Hay Hassani,,33.5342517,-7.7061743,,,,,,OSM,https://www.openstreetmap.org/node/5664802368,0.7
+osm_node_5664802398,Pharmacie Zhour,Pharmacie Zhour,,,pharmacy,,unknown,Hay Hassani,,33.5374354,-7.6970668,,,,,,OSM,https://www.openstreetmap.org/node/5664802398,0.7
+osm_node_5664897380,Pharmacie Loukkos,Pharmacie Loukkos,,,pharmacy,,unknown,Hay Hassani,Boulevard Oued Ziz,33.560361,-7.6821242,,,,,,OSM,https://www.openstreetmap.org/node/5664897380,0.7
+osm_node_5664897385,Pharmacie Dallas,Pharmacie Dallas,,,pharmacy,,unknown,Hay Hassani,Boulevard de l'Oued Bouregreg,33.5631364,-7.6815261,,,,,,OSM,https://www.openstreetmap.org/node/5664897385,0.7
+osm_node_5664898340,Pharmacie Lamiz,Pharmacie Lamiz,,,pharmacy,,unknown,Hay Hassani,Rue 13,33.5620535,-7.6781471,,,,,,OSM,https://www.openstreetmap.org/node/5664898340,0.7
+osm_node_5665038521,Droguerie Generale,Droguerie Generale,,,pharmacy,,unknown,Hay Hassani,Zanqat 5,33.5610723,-7.671272,,,,,,OSM,https://www.openstreetmap.org/node/5665038521,0.7
+osm_node_5665038522,Chirurgien Dentiste,Chirurgien Dentiste,,,dentist,,unknown,Hay Hassani,Boulevard d'Oued Oum Rabia,33.5604286,-7.6734272,,,,,,OSM,https://www.openstreetmap.org/node/5665038522,0.7
+osm_node_5665038598,Pharmacie Abi Regrag,Pharmacie Abi Regrag,,,pharmacy,,unknown,Hay Hassani,Boulevard de l'Oued Bouregreg,33.5644315,-7.6785374,,,,,,OSM,https://www.openstreetmap.org/node/5665038598,0.7
+osm_node_5667589092,Duo Medical,Duo Medical,,,doctor,,unknown,Hay Hassani,,33.5626597,-7.6690384,,,,,,OSM,https://www.openstreetmap.org/node/5667589092,0.7
+osm_node_5667590879,Pharmacie Hay El Hassani,Pharmacie Hay El Hassani,,,pharmacy,,unknown,Hay Hassani,Zanqat 2,33.5662072,-7.6724415,,,,,,OSM,https://www.openstreetmap.org/node/5667590879,0.7
+osm_node_5667590885,Pharmacie Hind,Pharmacie Hind,,,pharmacy,,unknown,Hay Hassani,,33.5641846,-7.6707383,,,,,,OSM,https://www.openstreetmap.org/node/5667590885,0.7
+osm_node_5667590890,Pharmacie Nasri,Pharmacie Nasri,,,pharmacy,,unknown,Hay Hassani,,33.5619808,-7.6723757,,,,,,OSM,https://www.openstreetmap.org/node/5667590890,0.7
+osm_node_5668011940,Pharmacie Fahd,Pharmacie Fahd,,,pharmacy,,unknown,Hay Hassani,Boulevard de l'Oued Bouregreg,33.5691115,-7.6733708,,,,,,OSM,https://www.openstreetmap.org/node/5668011940,0.7
+osm_node_5668012044,Laboratoire Hay Hassani مختبر حي الحسني,Laboratoire Hay Hassani مختبر حي الحسني,Laboratoire Hay Hassani,مختبر حي الحسني,laboratory,,unknown,Hay Hassani,Boulevard Ibnou Sina شارع ابن سينا,33.5695166,-7.6731153,,,,,,OSM,https://www.openstreetmap.org/node/5668012044,0.7
+osm_node_5668012062,Chirurgien Dentiste,Chirurgien Dentiste,,,dentist,,unknown,Hay Hassani,Boulevard de l'Oued Bouregreg,33.5680846,-7.6726802,,,,,,OSM,https://www.openstreetmap.org/node/5668012062,0.7
+osm_node_5670372033,Pharmacie Al Warda,Pharmacie Al Warda,,,pharmacy,,unknown,Hay Hassani,Derb Chadia,33.5726626,-7.6816045,,,,,,OSM,https://www.openstreetmap.org/node/5670372033,0.7
+osm_node_5670372352,Medecin,Medecin,,,pharmacy,,unknown,Hay Hassani,Boulevard Ibn Sina,33.5656954,-7.6825427,,,,,,OSM,https://www.openstreetmap.org/node/5670372352,0.7
+osm_node_5670402408,Pharmacie Nadia,Pharmacie Nadia,,,pharmacy,,unknown,Hay Hassani,Zanqat 14,33.5305497,-7.6697103,,,,,,OSM,https://www.openstreetmap.org/node/5670402408,0.7
+osm_node_5670403194,Pharmacie Kasbat Al Amine,Pharmacie Kasbat Al Amine,,,pharmacy,,unknown,Hay Hassani,,33.5335698,-7.6857653,,,,,,OSM,https://www.openstreetmap.org/node/5670403194,0.7
+osm_node_5670403207,Centre Dentaire,Centre Dentaire,,,dentist,,unknown,Hay Hassani,,33.5394989,-7.6919505,,,,,,OSM,https://www.openstreetmap.org/node/5670403207,0.7
+osm_node_5670602659,Pharmacie Bnou Zohr,Pharmacie Bnou Zohr,,,pharmacy,,unknown,Hay Hassani,,33.5680846,-7.6871111,,,,,,OSM,https://www.openstreetmap.org/node/5670602659,0.7
+osm_node_5670602687,Pharmacie Rajaa,Pharmacie Rajaa,,,pharmacy,,unknown,Hay Hassani,Rue Sidi Al Khadir,33.5699306,-7.6829852,,,,,,OSM,https://www.openstreetmap.org/node/5670602687,0.7
+osm_node_5670602712,Pharmacie Al Hakim,Pharmacie Al Hakim,,,pharmacy,,unknown,Hay Hassani,Rue 64,33.5652596,-7.6941405,,,,,,OSM,https://www.openstreetmap.org/node/5670602712,0.7
+osm_node_5670602730,Pharmacie Asmaa,Pharmacie Asmaa,,,pharmacy,,unknown,Hay Hassani,Rue 14,33.5655691,-7.6910587,,,,,,OSM,https://www.openstreetmap.org/node/5670602730,0.7
+osm_node_5670602735,,,,,pharmacy,,unknown,Hay Hassani,Boulevard d'Afghanistan,33.5683796,-7.6827519,,,,,,OSM,https://www.openstreetmap.org/node/5670602735,0.7
+osm_node_5670651655,Parapharmacie El Kasba,Parapharmacie El Kasba,Parapharmacie El Kasba,,pharmacy,,unknown,Hay Hassani,,33.5301758,-7.6855588,,,,,,OSM,https://www.openstreetmap.org/node/5670651655,0.7
+osm_node_5670651703,Pharmacie Azhar Essalam,Pharmacie Azhar Essalam,,,pharmacy,,unknown,Hay Hassani,,33.5399102,-7.6918378,,,,,,OSM,https://www.openstreetmap.org/node/5670651703,0.7
+osm_node_5670829652,Pharmacie Naima,Pharmacie Naima,,,pharmacy,,unknown,Hay Hassani,Boulevard Sidi Abderrahmane شارع سيدي عبد الرحمان,33.5761779,-7.6728277,,,,,,OSM,https://www.openstreetmap.org/node/5670829652,0.7
+osm_node_5673177167,Avenue Nachi Ouverte,Avenue Nachi Ouverte,,,pharmacy,,unknown,Hay Hassani,Avenue Mohamed Taib Naciri,33.5506506,-7.6704325,,,,,,OSM,https://www.openstreetmap.org/node/5673177167,0.7
+osm_node_5673267571,,,,,pharmacy,,unknown,Hay Hassani,,33.5614383,-7.6701213,,,,,,OSM,https://www.openstreetmap.org/node/5673267571,0.7
+osm_node_5673267616,Pharmacie Tilila,Pharmacie Tilila,,,pharmacy,,unknown,Hay Hassani,Boulevard Sud,33.5464503,-7.6699108,,,,,,OSM,https://www.openstreetmap.org/node/5673267616,0.7
+osm_node_5673267722,,,,,pharmacy,,unknown,Hay Hassani,,33.5569384,-7.6671682,,,,,,OSM,https://www.openstreetmap.org/node/5673267722,0.7
+osm_node_5673410089,Pharmacie Hay Essaada,Pharmacie Hay Essaada,,,pharmacy,,unknown,Ain Chock,,33.5056917,-7.6523946,,,,,,OSM,https://www.openstreetmap.org/node/5673410089,0.7
+osm_node_5673410114,Centre Dentaire Sidi Maârouf,Centre Dentaire Sidi Maârouf,,,dentist,,unknown,Ain Chock,,33.5081328,-7.6539557,,,,,,OSM,https://www.openstreetmap.org/node/5673410114,0.7
+osm_node_5673410692,,,,,pharmacy,,unknown,Hay Hassani,Route d'El Jadida,33.5408894,-7.6588011,,,,,,OSM,https://www.openstreetmap.org/node/5673410692,0.7
+osm_node_5673630773,Pharmacie el Oulfa,Pharmacie el Oulfa,,,pharmacy,,unknown,Hay Hassani,Zanqat 88,33.555504,-7.6768617,,,,,,OSM,https://www.openstreetmap.org/node/5673630773,0.7
+osm_node_5673669943,Pharmacie Ouadoudy,Pharmacie Ouadoudy,,,pharmacy,,unknown,Hay Hassani,,33.5267716,-7.6615148,,,,,,OSM,https://www.openstreetmap.org/node/5673669943,0.7
+osm_node_5673669978,Parapharmacie Yathrib,Parapharmacie Yathrib,,,pharmacy,,unknown,Ain Chock,Boulevard Abu Baker El Kadiri,33.5250655,-7.6506257,,,,,,OSM,https://www.openstreetmap.org/node/5673669978,0.7
+osm_node_5673763779,Pharmacie Salma,Pharmacie Salma,,,pharmacy,,unknown,Hay Hassani,Boulevard Oued Sebou,33.5602051,-7.6731449,,,,,,OSM,https://www.openstreetmap.org/node/5673763779,0.7
+osm_node_5676047839,Pharmacie Morsad,Pharmacie Morsad,,,pharmacy,,unknown,Ain Chock,Route Sidi Massoud,33.5156391,-7.6383841,,,,,,OSM,https://www.openstreetmap.org/node/5676047839,0.7
+osm_node_5676047852,Pharmacie Hay Bouchaa,Pharmacie Hay Bouchaa,,,pharmacy,,unknown,Ain Chock,,33.517588,-7.6406653,,,,,,OSM,https://www.openstreetmap.org/node/5676047852,0.7
+osm_node_5676427658,Pharmacie Lys,Pharmacie Lys,,,pharmacy,,unknown,Hay Hassani,Boulevard Oued Sebou,33.5507059,-7.6833051,,,,,,OSM,https://www.openstreetmap.org/node/5676427658,0.7
+osm_node_5676427667,Medicin Specialiste,Medicin Specialiste,,,doctor,,unknown,Hay Hassani,Boulevard Oued Oum Rbia,33.5553235,-7.6850874,,,,,,OSM,https://www.openstreetmap.org/node/5676427667,0.7
+osm_node_5676427673,Pharmacie Salah Eddine,Pharmacie Salah Eddine,,,pharmacy,,unknown,Hay Hassani,Boulevard Oued Sebou,33.5535554,-7.6853798,,,,,,OSM,https://www.openstreetmap.org/node/5676427673,0.7
+osm_node_5676427693,Paramedical,Paramedical,,,pharmacy,,unknown,Hay Hassani,Zanqat 145,33.5521321,-7.6832957,,,,,,OSM,https://www.openstreetmap.org/node/5676427693,0.7
+osm_node_5676427702,Parapharmacie 2M Solutions,Parapharmacie 2M Solutions,,,pharmacy,,unknown,Hay Hassani,Boulevard Oued Sebou,33.5509133,-7.6835693,,,,,,OSM,https://www.openstreetmap.org/node/5676427702,0.7
+osm_node_5682455521,Pharmacie ADA,Pharmacie ADA,,,pharmacy,,unknown,Sidi Belyout,Boulevard Mohamed Zerktouni,33.5870031,-7.63157,,,,,,OSM,https://www.openstreetmap.org/node/5682455521,0.7
+osm_node_5682462216,Pharmacie Les Arènes صيدلية الميادين,Pharmacie Les Arènes صيدلية الميادين,Pharmacie Les Arènes,صيدلية الميادين,pharmacy,,unknown,Maarif,Rue Jalal Addine Assayouti زنقة جلال الدين السيوطي,33.5891514,-7.6350358,,,,,,OSM,https://www.openstreetmap.org/node/5682462216,0.7
+osm_node_5682503611,Pharmacie Universelle,Pharmacie Universelle,,,pharmacy,,unknown,Maarif,Boulevard Ibrahim Roudani,33.5808158,-7.6346035,,,,,,OSM,https://www.openstreetmap.org/node/5682503611,0.7
+osm_node_5682711362,Pharmacie Chaabi,Pharmacie Chaabi,,,pharmacy,,unknown,Maarif,Rue du Pelvoux,33.5817616,-7.6370624,,,,,,OSM,https://www.openstreetmap.org/node/5682711362,0.7
+osm_node_5682759533,Pharmacie Hyper,Pharmacie Hyper,,,pharmacy,,unknown,Maarif,Rue Ali Abderrazzak زنقة علي عبد الرزاق,33.5858775,-7.6454385,+212 5 22 23 24 02,,,,,OSM,https://www.openstreetmap.org/node/5682759533,0.7
+osm_node_5682882937,Pharmacie Al Atfal,Pharmacie Al Atfal,,,pharmacy,,unknown,Hay Hassani,Route Haj Fateh,33.5525166,-7.6896545,,,,,,OSM,https://www.openstreetmap.org/node/5682882937,0.7
+osm_node_5682978566,Pharmacie Usivera Santi,Pharmacie Usivera Santi,,,pharmacy,,unknown,Maarif,Rue Hadj Al Jilali Al Aoufir,33.5785377,-7.6428232,,,,,,OSM,https://www.openstreetmap.org/node/5682978566,0.7
+osm_node_5682994605,Pharmacie Nouzha,Pharmacie Nouzha,,,pharmacy,,unknown,Hay Hassani,Boulevard Oued Oum Rbia,33.5540466,-7.6881672,,,,,,OSM,https://www.openstreetmap.org/node/5682994605,0.7
+osm_node_5682995977,Pharmacie El Lotf,Pharmacie El Lotf,,,pharmacy,,unknown,Hay Hassani,Boulevard Oued Tensift,33.5534017,-7.6822872,,,,,,OSM,https://www.openstreetmap.org/node/5682995977,0.7
+osm_node_5683053732,Pharmacie Al Mawlid,Pharmacie Al Mawlid,,,pharmacy,,unknown,Maarif,Rue Abou Hassan Assaghir,33.5747609,-7.6481496,,,,,,OSM,https://www.openstreetmap.org/node/5683053732,0.7
+osm_node_5683197332,Pharmacie Ouverte,Pharmacie Ouverte,,,pharmacy,,unknown,Maarif,Rue Mamoune Mohamed,33.5796684,-7.649923,,,,,,OSM,https://www.openstreetmap.org/node/5683197332,0.7
+osm_node_5683229603,Cabinet De Chirurgie Dentaire,Cabinet De Chirurgie Dentaire,,,dentist,,unknown,Hay Hassani,Boulevard Oued Daoura,33.5474417,-7.6818842,,,,,,OSM,https://www.openstreetmap.org/node/5683229603,0.7
+osm_node_5683229614,Droguerie أجزاخانة,Droguerie أجزاخانة,Droguerie,أجزاخانة,pharmacy,,unknown,Hay Hassani,Boulevard Oued Daoura,33.5477647,-7.6826788,,,,,,OSM,https://www.openstreetmap.org/node/5683229614,0.7
+osm_node_5683229619,Pharmacie Al Farah Assalam,Pharmacie Al Farah Assalam,,,pharmacy,,unknown,Hay Hassani,,33.5405021,-7.69531,,,,,,OSM,https://www.openstreetmap.org/node/5683229619,0.7
+osm_node_5683231036,Chirurgien Dentiste,Chirurgien Dentiste,,,dentist,,unknown,Hay Hassani,,33.5417948,-7.6889692,,,,,,OSM,https://www.openstreetmap.org/node/5683231036,0.7
+osm_node_5683231054,Cabinet Dentaire,Cabinet Dentaire,,,dentist,,unknown,Hay Hassani,,33.5459093,-7.6823348,,,,,,OSM,https://www.openstreetmap.org/node/5683231054,0.7
+osm_node_5683231066,Droguerie Chabab,Droguerie Chabab,,,pharmacy,,unknown,Hay Hassani,Boulevard Oued Daoura,33.5471902,-7.6818352,,,,,,OSM,https://www.openstreetmap.org/node/5683231066,0.7
+osm_node_5683246486,Pharmacie Meryem,Pharmacie Meryem,,,pharmacy,,unknown,Maarif,Boulevard Ibn Sina,33.5841989,-7.6507008,,,,,,OSM,https://www.openstreetmap.org/node/5683246486,0.7
+osm_node_5683330431,Pharmacie Zayd,Pharmacie Zayd,,,pharmacy,,unknown,Unknown,Boulevard Annasrine,33.5345926,-7.7315104,,,,,,OSM,https://www.openstreetmap.org/node/5683330431,0.7
+osm_node_5683330460,Pharmacie Chifa,Pharmacie Chifa,,,pharmacy,,unknown,Unknown,,33.5367032,-7.729429,,,,,,OSM,https://www.openstreetmap.org/node/5683330460,0.7
+osm_node_5683330486,Parapharmacie Al Asmae el Housna,Parapharmacie Al Asmae el Housna,,,pharmacy,,unknown,Unknown,,33.5347626,-7.7280007,,,,,,OSM,https://www.openstreetmap.org/node/5683330486,0.7
+osm_node_5683342503,Parapharmacie,Parapharmacie,,,pharmacy,,unknown,Maarif,Boulevard Bir Anzarane,33.5821107,-7.6394758,,,,,,OSM,https://www.openstreetmap.org/node/5683342503,0.7
+osm_node_5683397677,Pharmacie Saad,Pharmacie Saad,,,pharmacy,,unknown,Unknown,Rue al Yassamine,33.5350308,-7.7266824,,,,,,OSM,https://www.openstreetmap.org/node/5683397677,0.7
+osm_node_5683397694,Para Sante,Para Sante,,,pharmacy,,unknown,Unknown,,33.5376064,-7.7245876,,,,,,OSM,https://www.openstreetmap.org/node/5683397694,0.7
+osm_node_5685104541,Pharmacie C.I.L,Pharmacie C.I.L,,,pharmacy,,unknown,Maarif,Boulevard Ibn Sina شارع ابن سينا,33.5791365,-7.6547147,,,,,,OSM,https://www.openstreetmap.org/node/5685104541,0.7
+osm_node_5685148930,Pharmacie Socrate,Pharmacie Socrate,,,pharmacy,,unknown,Maarif,Rue Ibnou Majat,33.5781734,-7.6479355,,,,,,OSM,https://www.openstreetmap.org/node/5685148930,0.7
+osm_node_5685307926,,,,,pharmacy,,unknown,Hay Hassani,,33.5725207,-7.6493289,,,,,,OSM,https://www.openstreetmap.org/node/5685307926,0.7
+osm_node_5685616960,Pharmacie la Santé,Pharmacie la Santé,,,pharmacy,,unknown,Unknown,Boulevard Oued Melouya,33.5303636,-7.7406339,,,,,,OSM,https://www.openstreetmap.org/node/5685616960,0.7
+osm_node_5685625647,Pharmacie Haj Fateh,Pharmacie Haj Fateh,,,pharmacy,,unknown,Hay Hassani,,33.5441891,-7.6782431,,,,,,OSM,https://www.openstreetmap.org/node/5685625647,0.7
+osm_node_5685625722,Sarania Parapharmacie,Sarania Parapharmacie,,,pharmacy,,unknown,Hay Hassani,Route Haj Fateh,33.5503131,-7.6888358,,,,,,OSM,https://www.openstreetmap.org/node/5685625722,0.7
+osm_node_5685664915,Pharmacie de L'orien,Pharmacie de L'orien,,,pharmacy,,unknown,Hay Hassani,Boulevard Yacoub el Mansour,33.5702647,-7.6505077,,,,,,OSM,https://www.openstreetmap.org/node/5685664915,0.7
+osm_node_5685667328,Pharmacie Al Amana,Pharmacie Al Amana,,,pharmacy,,unknown,Hay Hassani,,33.5688902,-7.6528841,,,,,,OSM,https://www.openstreetmap.org/node/5685667328,0.7
+osm_node_5685742314,,,,,pharmacy,,unknown,Hay Hassani,Rue de l'Atlas,33.5763119,-7.6557997,,,,,,OSM,https://www.openstreetmap.org/node/5685742314,0.7
+osm_node_5685795243,Pharmacie Al Motahida,Pharmacie Al Motahida,,,pharmacy,,unknown,Hay Hassani,,33.5482096,-7.6791014,,,,,,OSM,https://www.openstreetmap.org/node/5685795243,0.7
+osm_node_5685795427,Laboratoire D'anal Yber Medicales Doualab,Laboratoire D'anal Yber Medicales Doualab,,,laboratory,,unknown,Hay Hassani,Route Haj Fateh,33.5426421,-7.6780526,,,,,,OSM,https://www.openstreetmap.org/node/5685795427,0.7
+osm_node_5685894047,Pharmacie De La Wilaya,Pharmacie De La Wilaya,,,pharmacy,,unknown,Hay Hassani,Boulevard Moulouya,33.5507344,-7.6793455,,,,,,OSM,https://www.openstreetmap.org/node/5685894047,0.7
+osm_node_5685981518,Pharmacie Soufiane,Pharmacie Soufiane,,,pharmacy,,unknown,Hay Hassani,Zanqat 154,33.5493334,-7.6813611,,,,,,OSM,https://www.openstreetmap.org/node/5685981518,0.7
+osm_node_5686056227,,,,,pharmacy,,unknown,Unknown,,33.5234679,-7.7499372,,,,,,OSM,https://www.openstreetmap.org/node/5686056227,0.7
+osm_node_5686129271,Pharmacie Annasr,Pharmacie Annasr,,,pharmacy,,unknown,Hay Hassani,,33.546723,-7.6759699,,,,,,OSM,https://www.openstreetmap.org/node/5686129271,0.7
+osm_node_5686129286,Pharmacie Al Miza,Pharmacie Al Miza,,,pharmacy,,unknown,Hay Hassani,,33.5434693,-7.6720244,,,,,,OSM,https://www.openstreetmap.org/node/5686129286,0.7
+osm_node_5686129310,Pharmacie Dar Assalam,Pharmacie Dar Assalam,,,pharmacy,,unknown,Hay Hassani,Boulevard HH 48,33.5474138,-7.6729028,,,,,,OSM,https://www.openstreetmap.org/node/5686129310,0.7
+osm_node_5686322684,Pharamcie Er-Rayane,Pharamcie Er-Rayane,,,pharmacy,,unknown,Ain Chock,,33.5308504,-7.6511461,,,,,,OSM,https://www.openstreetmap.org/node/5686322684,0.7
+osm_node_5686322707,Pharmacie El Ouazzani,Pharmacie El Ouazzani,,,pharmacy,,unknown,Ain Chock,Rue 9,33.5278079,-7.6514438,,,,,,OSM,https://www.openstreetmap.org/node/5686322707,0.7
+osm_node_5686322717,Pharmacie Mandarona,Pharmacie Mandarona,,,pharmacy,,unknown,Ain Chock,Boulevard Abu Baker el Kadiri,33.5314513,-7.6483177,,,,,,OSM,https://www.openstreetmap.org/node/5686322717,0.7
+osm_node_5688432009,Pharmacie Rabii Al Moustakbal,Pharmacie Rabii Al Moustakbal,,,pharmacy,,unknown,Ain Chock,,33.5306861,-7.645437,,,,,,OSM,https://www.openstreetmap.org/node/5688432009,0.7
+osm_node_5688433234,Pharmacie Tassnime,Pharmacie Tassnime,,,pharmacy,,unknown,Ain Chock,,33.5279265,-7.6458621,,,,,,OSM,https://www.openstreetmap.org/node/5688433234,0.7
+osm_node_5688433239,,,,,pharmacy,,unknown,Ain Chock,Zanqat 20,33.5256402,-7.6451661,,,,,,OSM,https://www.openstreetmap.org/node/5688433239,0.7
+osm_node_5688433272,Clinique Dentaire Maroc,Clinique Dentaire Maroc,,,clinic,,unknown,Ain Chock,Boulevard al Quds,33.5303088,-7.6436868,,,,,,OSM,https://www.openstreetmap.org/node/5688433272,0.7
+osm_node_5688679153,,,,,pharmacy,,unknown,Ain Chock,Boulevard Abu Baker el Kadiri,33.5333026,-7.6470939,,,,,,OSM,https://www.openstreetmap.org/node/5688679153,0.7
+osm_node_5688679158,Pharmacie Saber,Pharmacie Saber,,,pharmacy,,unknown,Ain Chock,,33.5336413,-7.6483807,,,,,,OSM,https://www.openstreetmap.org/node/5688679158,0.7
+osm_node_5688679204,,,,,doctor,,unknown,Ain Chock,Zanqat 63,33.5385521,-7.6490626,,,,,,OSM,https://www.openstreetmap.org/node/5688679204,0.7
+osm_node_5688679373,Ahmed Ali,Ahmed Ali,,,pharmacy,,unknown,Ain Chock,Zanqat 60,33.5390394,-7.6491002,,,,,,OSM,https://www.openstreetmap.org/node/5688679373,0.7
+osm_node_5688779582,Pharamacie Florida,Pharamacie Florida,,,pharmacy,,unknown,Ain Chock,Boulevard Abu Baker el Kadiri,33.5377271,-7.6442018,,,,,,OSM,https://www.openstreetmap.org/node/5688779582,0.7
+osm_node_5688779593,Pharmacie Les Bureaux,Pharmacie Les Bureaux,,,pharmacy,,unknown,Ain Chock,,33.5399829,-7.6444271,,,,,,OSM,https://www.openstreetmap.org/node/5688779593,0.7
+osm_node_5688915495,La Colline,La Colline,,,dentist,,unknown,Ain Chock,Boulevard Abu Baker el Kadiri,33.5388192,-7.6422814,,,,,,OSM,https://www.openstreetmap.org/node/5688915495,0.7
+osm_node_5692956400,Pharmacie Yacoub El Mansour,Pharmacie Yacoub El Mansour,,,pharmacy,,unknown,Maarif,,33.5753644,-7.6416698,,,,,,OSM,https://www.openstreetmap.org/node/5692956400,0.7
+osm_node_5692956410,Pharmacie Narjis,Pharmacie Narjis,,,pharmacy,,unknown,Maarif,Boulevard Yacoub El Mansour,33.5734403,-7.6449046,,,,,,OSM,https://www.openstreetmap.org/node/5692956410,0.7
+osm_node_5693398794,Pharmacie Sahel,Pharmacie Sahel,,,pharmacy,,unknown,Hay Hassani,Boulevard Abdelhadi Boutaleb,33.5709251,-7.6913604,,,,,,OSM,https://www.openstreetmap.org/node/5693398794,0.7
+osm_node_5699742623,,,,,pharmacy,,unknown,Hay Hassani,Route Sidi Al Khadir,33.5702513,-7.6858887,,,,,,OSM,https://www.openstreetmap.org/node/5699742623,0.7
+osm_node_5699742632,Pharmacie Saad El Kheir,Pharmacie Saad El Kheir,,,pharmacy,,unknown,Hay Hassani,Route Sidi Al Khadir,33.5650261,-7.6829262,,,,,,OSM,https://www.openstreetmap.org/node/5699742632,0.7
+osm_node_5699803527,Pharmacie Lixus,Pharmacie Lixus,,,pharmacy,,unknown,Hay Hassani,,33.5508261,-7.7057344,,,,,,OSM,https://www.openstreetmap.org/node/5699803527,0.7
+osm_node_5699820035,,,,,pharmacy,,unknown,Hay Hassani,Route Sidi Al Khadir,33.5549077,-7.6911727,,,,,,OSM,https://www.openstreetmap.org/node/5699820035,0.7
+osm_node_5699965566,,,,,pharmacy,,unknown,Hay Hassani,,33.5561349,-7.7026793,,,,,,OSM,https://www.openstreetmap.org/node/5699965566,0.7
+osm_node_5699965571,,,,,pharmacy,,unknown,Hay Hassani,Route Oulfa,33.5544339,-7.6998228,,,,,,OSM,https://www.openstreetmap.org/node/5699965571,0.7
+osm_node_5706411110,Pharmacie du Jura صيدلية جورا,Pharmacie du Jura صيدلية جورا,Pharmacie du Jura,صيدلية جورا,pharmacy,,unknown,Maarif,Rue Oussama Ibnou Zaid زنقة أسامة بن زيد,33.5838594,-7.6373593,,,,,,OSM,https://www.openstreetmap.org/node/5706411110,0.7
+osm_node_5834998786,Dr. Hicham Taoussi,Dr. Hicham Taoussi,Dr. Hicham Taoussi,,doctor,,unknown,Hay Hassani,,33.5722043,-7.675018,,,,,,OSM,https://www.openstreetmap.org/node/5834998786,0.7
+osm_node_5839039186,Dr. Hicham Taoussi,Dr. Hicham Taoussi,Dr. Hicham Taoussi,,dentist,,unknown,Hay Hassani,,33.5720787,-7.6748531,,,,,,OSM,https://www.openstreetmap.org/node/5839039186,0.7
+osm_node_6027837362,صيدلية الأزهر 2,صيدلية الأزهر 2,Pharmacie Azhar 2,صيدلية الأزهر 2,pharmacy,,unknown,Hay Hassani,,33.5534606,-7.7047014,,,,,,OSM,https://www.openstreetmap.org/node/6027837362,0.7
+osm_node_6111551886,أمراض القلب,أمراض القلب,Cardiologue,أمراض القلب,clinic,,unknown,Maarif,شارع ابن سينا,33.584284,-7.6506214,+212 5 22 36 97 85,,,,,OSM,https://www.openstreetmap.org/node/6111551886,0.7
+osm_node_6260970493,,,,,pharmacy,,unknown,Sidi Belyout,,33.6000192,-7.637562,,,,,,OSM,https://www.openstreetmap.org/node/6260970493,0.7
+osm_node_6325810985,clinique kindi,clinique kindi,,,clinic,,unknown,Maarif,,33.5844776,-7.650758,,,,,,OSM,https://www.openstreetmap.org/node/6325810985,0.7
+osm_node_6333738485,clinique Elmouahidin,clinique Elmouahidin,,,clinic,,unknown,Hay Mohammadi,,33.5880851,-7.5459223,,,,,,OSM,https://www.openstreetmap.org/node/6333738485,0.7
+osm_node_6333742785,clinique ain saba3,clinique ain saba3,,,clinic,,unknown,Ain Sebaa,,33.6123974,-7.5434849,,,,,,OSM,https://www.openstreetmap.org/node/6333742785,0.7
+osm_node_6362451485,Clinique Andalouss مصحة الاندلس,Clinique Andalouss مصحة الاندلس,Clinique Andalouss,مصحة الاندلس,clinic,,private,Anfa,Boulevard Driss Slaoui شارع إدريس السلاوي,33.5968647,-7.6545628,,,,,,OSM,https://www.openstreetmap.org/node/6362451485,0.7
+osm_node_6411403481,Laboratory,Laboratory,,,hospital,,unknown,Unknown,,33.5354999,-7.7256209,,,,Laboratoire achifae,,OSM,https://www.openstreetmap.org/node/6411403481,0.7
+osm_node_6418215089,Akdital Clinique Ain Berja,Akdital Clinique Ain Berja,,,clinic,,private,Roches Noires,,33.5853946,-7.5964818,,,,Akdital,,OSM,https://www.openstreetmap.org/node/6418215089,0.7
+osm_node_6418248486,clinique firdaous,clinique firdaous,,,clinic,,unknown,Ain Sebaa,,33.6050363,-7.5192692,,,,,,OSM,https://www.openstreetmap.org/node/6418248486,0.7
+osm_node_6429124587,,,,,pharmacy,,unknown,Sidi Belyout,,33.5990643,-7.6196099,,,,,,OSM,https://www.openstreetmap.org/node/6429124587,0.7
+osm_node_6567406904,Pharmacie Lina,Pharmacie Lina,,,pharmacy,,unknown,Ain Chock,,33.5193641,-7.6448467,,,,,,OSM,https://www.openstreetmap.org/node/6567406904,0.7
+osm_node_6593172633,Pharmacie Oum El Kheir,Pharmacie Oum El Kheir,,,pharmacy,,unknown,Ain Chock,,33.5216085,-7.6432172,,,,,,OSM,https://www.openstreetmap.org/node/6593172633,0.7
+osm_node_6593222260,Dispensaire Sidi Maarouf,Dispensaire Sidi Maarouf,,,health_center,,unknown,Ain Chock,,33.5150408,-7.6452096,,,,,,OSM,https://www.openstreetmap.org/node/6593222260,0.7
+osm_node_6726449185,مصحة تعاضدية رجال التعليم - كنوبس,مصحة تعاضدية رجال التعليم - كنوبس,,مصحة تعاضدية رجال التعليم - كنوبس,clinic,,unknown,Sidi Belyout,Boulevard Moulay Hassan Ier,33.5927448,-7.6247862,,,,,,OSM,https://www.openstreetmap.org/node/6726449185,0.7
+osm_node_6770732585,صيدلية لاجيروند,صيدلية لاجيروند,Pharmacie de la Gironde,صيدلية لاجيروند,pharmacy,,unknown,Mers Sultan,rond point boulevard la gironde et rue ifni,33.5838442,-7.599537,+212 5 22 30 06 19,,,,,OSM,https://www.openstreetmap.org/node/6770732585,0.7
+osm_node_6833996011,Pharmacie hay el fath 2 arrahma,Pharmacie hay el fath 2 arrahma,,,pharmacy,,unknown,Unknown,,33.5314403,-7.7181929,,,,,,OSM,https://www.openstreetmap.org/node/6833996011,0.7
+osm_node_6924482385,Dr Badaoui ABDELLATIF Ophtalmo,Dr Badaoui ABDELLATIF Ophtalmo,,,doctor,,unknown,Sidi Belyout,,33.5904747,-7.6146348,,,,,,OSM,https://www.openstreetmap.org/node/6924482385,0.7
+osm_node_7069027385,Dr Badaoui ABDELLATIF Ophtalmo,Dr Badaoui ABDELLATIF Ophtalmo,,,clinic,,unknown,Sidi Belyout,,33.5915471,-7.6156491,,,,,,OSM,https://www.openstreetmap.org/node/7069027385,0.7
+osm_node_7168679411,Hospital CNSS,Hospital CNSS,,,hospital,,unknown,Sidi Bernoussi,,33.6107521,-7.5008035,,,,,,OSM,https://www.openstreetmap.org/node/7168679411,0.7
+osm_node_7168801050,,,,,pharmacy,,unknown,Sidi Bernoussi,,33.6146857,-7.5000712,,,,,,OSM,https://www.openstreetmap.org/node/7168801050,0.7
+osm_node_7168801051,,,,,pharmacy,,unknown,Sidi Bernoussi,,33.6152352,-7.4970564,,,,,,OSM,https://www.openstreetmap.org/node/7168801051,0.7
+osm_node_7168861987,,,,,pharmacy,,unknown,Sidi Bernoussi,,33.6094992,-7.5068041,,,,,,OSM,https://www.openstreetmap.org/node/7168861987,0.7
+osm_node_7168971480,,,,,dentist,,unknown,Sidi Bernoussi,,33.6148357,-7.4970033,,,,,,OSM,https://www.openstreetmap.org/node/7168971480,0.7
+osm_node_7168971481,,,,,dentist,,unknown,Sidi Bernoussi,,33.614237,-7.4961102,,,,,,OSM,https://www.openstreetmap.org/node/7168971481,0.7
+osm_node_7168974695,,,,,pharmacy,,unknown,Sidi Bernoussi,,33.6177818,-7.479982,,,,,,OSM,https://www.openstreetmap.org/node/7168974695,0.7
+osm_node_7524700585,صيدلية حي النصر 2,صيدلية حي النصر 2,pharmacie hay ennacer 2,صيدلية حي النصر 2,pharmacy,,unknown,Sbata,9,33.5341105,-7.5570706,+212 5 22 38 97 30,,,,,OSM,https://www.openstreetmap.org/node/7524700585,0.7
+osm_node_7527681285,Pharmacie Bab Al Baida صيدلية باب البيضاء,Pharmacie Bab Al Baida صيدلية باب البيضاء,,,pharmacy,,unknown,Unknown,,33.4787307,-7.6588,,,,,,OSM,https://www.openstreetmap.org/node/7527681285,0.7
+osm_node_7703022485,طبيب جراحي للأسنان,طبيب جراحي للأسنان,Médecin dentiste orthodontiste,طبيب جراحي للأسنان,dentist,,unknown,Hay Hassani,57,33.5480247,-7.6831265,+212 5 22 69 04 10,,Mo-Su 10:00-17:00,,,OSM,https://www.openstreetmap.org/node/7703022485,0.7
+osm_node_7728916299,Urgences,Urgences,,,hospital,general,private,Unknown,Bd Attawhid,33.549182,-7.4852956,+212 5 22 33 17 77,,,Dr Benkhouja,,OSM,https://www.openstreetmap.org/node/7728916299,0.7
+osm_node_8360839017,,,,,doctor,,unknown,Ain Chock,,33.5529015,-7.6035338,,,,,,OSM,https://www.openstreetmap.org/node/8360839017,0.7
+osm_node_8462048562,Pharmacie Dyar Ismail صيدلية ديار إسماعيل,Pharmacie Dyar Ismail صيدلية ديار إسماعيل,,,pharmacy,,unknown,Unknown,,33.4536189,-7.4989284,,,,,,OSM,https://www.openstreetmap.org/node/8462048562,0.7
+osm_node_8462078321,Pharmacie Kasbah Mediouna صيدلية قصبة مديونة,Pharmacie Kasbah Mediouna صيدلية قصبة مديونة,,,pharmacy,,unknown,Unknown,,33.4629668,-7.5212014,,,,,,OSM,https://www.openstreetmap.org/node/8462078321,0.7
+osm_node_8462104857,Pharmacie Mediouna صيدلية مديونة,Pharmacie Mediouna صيدلية مديونة,,,pharmacy,,unknown,Unknown,Hassan II,33.4536375,-7.5153314,,,,,,OSM,https://www.openstreetmap.org/node/8462104857,0.7
+osm_node_8462123072,Pharmacie Jnane Mediouna صيدلية جنان مديونة,Pharmacie Jnane Mediouna صيدلية جنان مديونة,,,pharmacy,,unknown,Unknown,,33.4558395,-7.507549,,,,,,OSM,https://www.openstreetmap.org/node/8462123072,0.7
+osm_node_8462156235,Pharmacie Zohour صيدلية زهور,Pharmacie Zohour صيدلية زهور,,,pharmacy,,unknown,Unknown,,33.4609958,-7.504889,,,,,,OSM,https://www.openstreetmap.org/node/8462156235,0.7
+osm_node_8518289342,Pharmacie Youssef صيدلية يوسف,Pharmacie Youssef صيدلية يوسف,,,pharmacy,,unknown,Unknown,,33.5424012,-7.479469,,,,,,OSM,https://www.openstreetmap.org/node/8518289342,0.7
+osm_node_8518353023,Pharmacie Hay Alia صيدلية حي علياء,Pharmacie Hay Alia صيدلية حي علياء,,,pharmacy,,unknown,Unknown,,33.5445419,-7.4870704,,,,,,OSM,https://www.openstreetmap.org/node/8518353023,0.7
+osm_node_8518414895,Pharmacie Le Jasmin صيدلية الياسمين,Pharmacie Le Jasmin صيدلية الياسمين,,,pharmacy,,unknown,Unknown,,33.5450802,-7.4822458,,,,,,OSM,https://www.openstreetmap.org/node/8518414895,0.7
+osm_node_8518420986,Pharmacie Bouchama صيدلية بوشامة,Pharmacie Bouchama صيدلية بوشامة,,,pharmacy,,unknown,Unknown,,33.5488153,-7.4817686,,,,,,OSM,https://www.openstreetmap.org/node/8518420986,0.7
+osm_node_8518446482,Pharmacie Alliance صيدلية أليانس,Pharmacie Alliance صيدلية أليانس,,,pharmacy,,unknown,Unknown,Avenue Al Masjid,33.549637,-7.4872239,,,,,,OSM,https://www.openstreetmap.org/node/8518446482,0.7
+osm_node_8518446483,Pharmacie Bakri صيدلية بكري,Pharmacie Bakri صيدلية بكري,,,pharmacy,,unknown,Unknown,,33.5500583,-7.4837862,,,,,,OSM,https://www.openstreetmap.org/node/8518446483,0.7
+osm_node_8518493453,Pharmacie Zine Essalam صيدلية زين السلام,Pharmacie Zine Essalam صيدلية زين السلام,,,pharmacy,,unknown,Unknown,,33.5528826,-7.4751169,,,,,,OSM,https://www.openstreetmap.org/node/8518493453,0.7
+osm_node_8518569659,Pharmacie Jnane Essafia صيدلية جنان الصافية,Pharmacie Jnane Essafia صيدلية جنان الصافية,,,pharmacy,,unknown,Unknown,,33.5560088,-7.4724584,,,,,,OSM,https://www.openstreetmap.org/node/8518569659,0.7
+osm_node_8518573790,Pharmacie Messaoudi صيدلية المسعودي,Pharmacie Messaoudi صيدلية المسعودي,,,pharmacy,,unknown,Unknown,,33.5447985,-7.4653683,,,,,,OSM,https://www.openstreetmap.org/node/8518573790,0.7
+osm_node_8518574931,Pharmacie La Permanence صيدلية الدوام,Pharmacie La Permanence صيدلية الدوام,,,pharmacy,,unknown,Unknown,Boulevard Okba Bnou Nafie,33.5480164,-7.4570364,,,,,,OSM,https://www.openstreetmap.org/node/8518574931,0.7
+osm_node_8518600698,Pharmacie Souk Sebt صيدلية سوق السبت,Pharmacie Souk Sebt صيدلية سوق السبت,,,pharmacy,,unknown,Unknown,Boulevard Okba Bnou Nafie,33.5549773,-7.4802272,,,,,,OSM,https://www.openstreetmap.org/node/8518600698,0.7
+osm_node_8518601494,Pharmacie Shems El Madina صيدلية شمس المدينة,Pharmacie Shems El Madina صيدلية شمس المدينة,,,pharmacy,,unknown,Unknown,,33.5515188,-7.4639495,,,,,,OSM,https://www.openstreetmap.org/node/8518601494,0.7
+osm_node_8520662584,Pharmacie Sami صيدلية سامي,Pharmacie Sami صيدلية سامي,,,pharmacy,,unknown,Unknown,,33.5621879,-7.4846857,,,,,,OSM,https://www.openstreetmap.org/node/8520662584,0.7
+osm_node_8521024284,Pharmacie Zenata صيدلية زناتة,Pharmacie Zenata صيدلية زناتة,,,pharmacy,,unknown,Unknown,,33.6339426,-7.4500004,,,,,,OSM,https://www.openstreetmap.org/node/8521024284,0.7
+osm_node_8521046199,Pharmacie Siècle صيدلية القرن,Pharmacie Siècle صيدلية القرن,,,pharmacy,,unknown,Unknown,,33.6332131,-7.4581042,,,,,,OSM,https://www.openstreetmap.org/node/8521046199,0.7
+osm_node_8521077220,Pharmacie El Ezz صيدلية العز,Pharmacie El Ezz صيدلية العز,,,pharmacy,,unknown,Unknown,Boulevard de Palestine,33.6317087,-7.4563667,,,,,,OSM,https://www.openstreetmap.org/node/8521077220,0.7
+osm_node_8521315809,Pharmacie Zahra صيدلية زهرة,Pharmacie Zahra صيدلية زهرة,,,pharmacy,,unknown,Unknown,,33.6362342,-7.4505974,,,,,,OSM,https://www.openstreetmap.org/node/8521315809,0.7
+osm_node_8521339816,Pharmacie Aït Taleb صيدلية أيت الطالب,Pharmacie Aït Taleb صيدلية أيت الطالب,,,pharmacy,,unknown,Unknown,,33.6362382,-7.4531351,,,,,,OSM,https://www.openstreetmap.org/node/8521339816,0.7
+osm_node_8521346288,Pharmacie Zaynab صيدلية زينب,Pharmacie Zaynab صيدلية زينب,,,pharmacy,,unknown,Unknown,,33.6372947,-7.4601645,,,,,,OSM,https://www.openstreetmap.org/node/8521346288,0.7
+osm_node_8521423756,Pharmacie Ain Harrouda صيدلية عين حرودة,Pharmacie Ain Harrouda صيدلية عين حرودة,,,pharmacy,,unknown,Unknown,Avenue Ibn Rochd,33.6405941,-7.4509547,,,,,,OSM,https://www.openstreetmap.org/node/8521423756,0.7
+osm_node_8521423835,Pharmacie Rim صيدلية ريم,Pharmacie Rim صيدلية ريم,,,pharmacy,,unknown,Unknown,Avenue Ibn Battouta,33.638872,-7.4525694,,,,,,OSM,https://www.openstreetmap.org/node/8521423835,0.7
+osm_node_8521425159,Pharmacie Moustaid صيدلية مستعيد,Pharmacie Moustaid صيدلية مستعيد,,,pharmacy,,unknown,Unknown,,33.6389782,-7.4551621,,,,,,OSM,https://www.openstreetmap.org/node/8521425159,0.7
+osm_node_8521708641,Pharmacie Km 15 صيدلية كلم,Pharmacie Km 15 صيدلية كلم,,,pharmacy,,unknown,Unknown,,33.6330076,-7.4705889,,,,,,OSM,https://www.openstreetmap.org/node/8521708641,0.7
+osm_node_8576270352,Pharmacie La Glita صيدلية لاغليتا,Pharmacie La Glita صيدلية لاغليتا,,,pharmacy,,unknown,Unknown,,33.4511321,-7.659022,,,,,,OSM,https://www.openstreetmap.org/node/8576270352,0.7
+osm_node_8576285445,Pharmacie Tlet Bouskoura صيدلية ثلاثاء بوسكورة,Pharmacie Tlet Bouskoura صيدلية ثلاثاء بوسكورة,,,pharmacy,,unknown,Unknown,,33.4509888,-7.6488376,,,,,,OSM,https://www.openstreetmap.org/node/8576285445,0.7
+osm_node_8576303736,Pharmacie El Masjid صيدلية المسجد,Pharmacie El Masjid صيدلية المسجد,,,pharmacy,,unknown,Unknown,,33.4522741,-7.6509632,,,,,,OSM,https://www.openstreetmap.org/node/8576303736,0.7
+osm_node_8576314443,Pharmacie Ryad Bouskoura صيدلية رياض بوسكورة,Pharmacie Ryad Bouskoura صيدلية رياض بوسكورة,,صيدلية رياض بوسكورة,pharmacy,,unknown,Unknown,,33.4576144,-7.6652104,,,Mo-Su 09:00-21:00,,,OSM,https://www.openstreetmap.org/node/8576314443,0.7
+osm_node_8576324234,Pharmacie Maria صيدلية ماريا,Pharmacie Maria صيدلية ماريا,,,pharmacy,,unknown,Unknown,,33.4547158,-7.6498989,,,,,,OSM,https://www.openstreetmap.org/node/8576324234,0.7
+osm_node_8576334704,Pharmacie Annakhil صيدلية النخيل,Pharmacie Annakhil صيدلية النخيل,,,pharmacy,,unknown,Unknown,,33.4596685,-7.6527878,,,,,,OSM,https://www.openstreetmap.org/node/8576334704,0.7
+osm_node_8576344805,Pharmacie Chorafae صيدلية الشرفاء,Pharmacie Chorafae صيدلية الشرفاء,,,pharmacy,,unknown,Unknown,,33.4575681,-7.6504165,,,,,,OSM,https://www.openstreetmap.org/node/8576344805,0.7
+osm_node_8576359685,Pharmacie Al Hassanaine صيدلية الحسنين,Pharmacie Al Hassanaine صيدلية الحسنين,,,pharmacy,,unknown,Unknown,,33.4592818,-7.656905,,,,,,OSM,https://www.openstreetmap.org/node/8576359685,0.7
+osm_node_8576384471,Pharmacie La Mère صيدلية الأم,Pharmacie La Mère صيدلية الأم,,,pharmacy,,unknown,Unknown,,33.4600987,-7.6605442,,,,,,OSM,https://www.openstreetmap.org/node/8576384471,0.7
+osm_node_8579024022,Pharmacie Al Kawtar صيدلية الكوثر,Pharmacie Al Kawtar صيدلية الكوثر,,,pharmacy,,unknown,Unknown,,33.4623118,-7.6638025,,,,,,OSM,https://www.openstreetmap.org/node/8579024022,0.7
+osm_node_8579030793,Pharmacie Prestige Bouskoura صيدلية بريستيج بوسكورة,Pharmacie Prestige Bouskoura صيدلية بريستيج بوسكورة,,,pharmacy,,unknown,Unknown,,33.4715831,-7.6670902,,,,,,OSM,https://www.openstreetmap.org/node/8579030793,0.7
+osm_node_8579036939,Pharmacie Flora صيدلية فلورا,Pharmacie Flora صيدلية فلورا,,,pharmacy,,unknown,Unknown,,33.462767,-7.6681919,,,,,,OSM,https://www.openstreetmap.org/node/8579036939,0.7
+osm_node_8579037711,Pharmacie Al Wakil صيدلية الوكيل,Pharmacie Al Wakil صيدلية الوكيل,,,pharmacy,,unknown,Unknown,,33.4680563,-7.6609776,,,,,,OSM,https://www.openstreetmap.org/node/8579037711,0.7
+osm_node_8579064377,Pharmacie Assamad صيدلية الصمد,Pharmacie Assamad صيدلية الصمد,,,pharmacy,,unknown,Unknown,,33.4659259,-7.6698384,,,,,,OSM,https://www.openstreetmap.org/node/8579064377,0.7
+osm_node_8579078772,Pharmacie Kenz Bouskoura صيدلية كنز بوسكورة,Pharmacie Kenz Bouskoura صيدلية كنز بوسكورة,,,pharmacy,,unknown,Unknown,,33.4644174,-7.6575566,,,,,,OSM,https://www.openstreetmap.org/node/8579078772,0.7
+osm_node_8579089214,Pharmacie Najat صيدلية نجاة,Pharmacie Najat صيدلية نجاة,,,pharmacy,,unknown,Unknown,,33.4683996,-7.651666,,,,,,OSM,https://www.openstreetmap.org/node/8579089214,0.7
+osm_node_8579095762,Pharmacie Ibn Rochd صيدلية ابن رشد,Pharmacie Ibn Rochd صيدلية ابن رشد,,,pharmacy,,unknown,Unknown,,33.463491,-7.6538305,,,,,,OSM,https://www.openstreetmap.org/node/8579095762,0.7
+osm_node_8579096714,Pharmacie Principale Bouskoura صيدلية بوسكورة الرئيسية,Pharmacie Principale Bouskoura صيدلية بوسكورة الرئيسية,,,pharmacy,,unknown,Unknown,,33.464761,-7.6502431,,,,,,OSM,https://www.openstreetmap.org/node/8579096714,0.7
+osm_node_8579106343,Pharmacie Dyar Al Andalous صيدلية ديار الأندلس,Pharmacie Dyar Al Andalous صيدلية ديار الأندلس,,,pharmacy,,unknown,Unknown,,33.4605822,-7.6478776,,,,,,OSM,https://www.openstreetmap.org/node/8579106343,0.7
+osm_node_8579116854,Pharmacie Andalous Bouskoura صيدلية أندلس بوسكورة,Pharmacie Andalous Bouskoura صيدلية أندلس بوسكورة,,,pharmacy,,unknown,Unknown,,33.4651739,-7.6452378,,,,,,OSM,https://www.openstreetmap.org/node/8579116854,0.7
+osm_node_8579129549,Pharmacie Zemmama صيدلية زمامة,Pharmacie Zemmama صيدلية زمامة,,,pharmacy,,unknown,Unknown,,33.4607975,-7.6445349,,,,,,OSM,https://www.openstreetmap.org/node/8579129549,0.7
+osm_node_8579147014,Pharmacie Eden Bouskoura صيدلية اذن بوسكورة,Pharmacie Eden Bouskoura صيدلية اذن بوسكورة,,,pharmacy,,unknown,Unknown,,33.4732133,-7.64153,,,,,,OSM,https://www.openstreetmap.org/node/8579147014,0.7
+osm_node_8579173346,Pharmacie Chaimae صيدلية شيماء,Pharmacie Chaimae صيدلية شيماء,,,pharmacy,,unknown,Unknown,,33.4786894,-7.6635032,,,,,,OSM,https://www.openstreetmap.org/node/8579173346,0.7
+osm_node_8579192607,Pharmacie Gaila صيدلية كايلة,Pharmacie Gaila صيدلية كايلة,,,pharmacy,,unknown,Unknown,,33.4828641,-7.6555344,,,,,,OSM,https://www.openstreetmap.org/node/8579192607,0.7
+osm_node_8579196087,Pharmacie Golf City صيدلية كولف سيتي,Pharmacie Golf City صيدلية كولف سيتي,,,pharmacy,,unknown,Unknown,,33.475405,-7.606799,,,,,,OSM,https://www.openstreetmap.org/node/8579196087,0.7
+osm_node_8579220022,Pharmacie La Ville Verte صيدلية المدينة الخضراء,Pharmacie La Ville Verte صيدلية المدينة الخضراء,,,pharmacy,,unknown,Unknown,,33.493491,-7.6026241,,,,,,OSM,https://www.openstreetmap.org/node/8579220022,0.7
+osm_node_8579264339,Pharmacie Boujaadia صيدلية بوجعيدية,Pharmacie Boujaadia صيدلية بوجعيدية,,,pharmacy,,unknown,Unknown,,33.452407,-7.6347608,,,,,,OSM,https://www.openstreetmap.org/node/8579264339,0.7
+osm_node_8579297453,Pharmacie Al Joud صيدلية الجود,Pharmacie Al Joud صيدلية الجود,,,pharmacy,,unknown,Unknown,,33.4855909,-7.6727376,,,,,,OSM,https://www.openstreetmap.org/node/8579297453,0.7
+osm_node_8579298870,c3000548,c3000548,sM 0548,,pharmacy,,unknown,Unknown,,33.4812004,-7.6667034,,,,,,OSM,https://www.openstreetmap.org/node/8579298870,0.7
+osm_node_8579327381,Pharmacie Maraya صيدلية مرايا,Pharmacie Maraya صيدلية مرايا,,,pharmacy,,unknown,Unknown,,33.4683806,-7.6912108,,,,,,OSM,https://www.openstreetmap.org/node/8579327381,0.7
+osm_node_8579337346,Pharmacie El Mzabyine صيدلية المزابيين,Pharmacie El Mzabyine صيدلية المزابيين,,,pharmacy,,unknown,Unknown,,33.5146151,-7.5904222,,,,,,OSM,https://www.openstreetmap.org/node/8579337346,0.7
+osm_node_8579380565,Pharmacie Kadri صيدلية كدري,Pharmacie Kadri صيدلية كدري,,,pharmacy,,unknown,Unknown,,33.4530438,-7.7098775,,,,,,OSM,https://www.openstreetmap.org/node/8579380565,0.7
+osm_node_8579398805,Pharmacie Kamil Bouskoura صيدلية كامل بوسكورة,Pharmacie Kamil Bouskoura صيدلية كامل بوسكورة,,,pharmacy,,unknown,Unknown,,33.4520102,-7.6672632,,,,,,OSM,https://www.openstreetmap.org/node/8579398805,0.7
+osm_node_8755743387,Pharmacie Laymoune,Pharmacie Laymoune,,,pharmacy,,unknown,Hay Hassani,Lotissement Allaimoune 1,33.5445452,-7.6645793,,,"Mo-Fr 09:00-13:00,15:00-20:30",,,OSM,https://www.openstreetmap.org/node/8755743387,0.7
+osm_node_8758665516,Para & Pharmacie Vélodrome,Para & Pharmacie Vélodrome,,,pharmacy,,unknown,Anfa,Rue Aïn Harrouda زنقة عين حرودة,33.5914391,-7.6409462,,,,,,OSM,https://www.openstreetmap.org/node/8758665516,0.7
+osm_node_8758981926,Pharmacie Taha Houssine,Pharmacie Taha Houssine,,,pharmacy,,unknown,Al Fida,Rue 30,33.5632216,-7.5910097,,,,,,OSM,https://www.openstreetmap.org/node/8758981926,0.7
+osm_node_8993820341,Doctor Ali Al-Maklufi الطبيب علي المخلوفي,Doctor Ali Al-Maklufi الطبيب علي المخلوفي,,الطبيب علي المخلوفي,doctor,pulmonology,unknown,Hay Hassani,,33.5764429,-7.6739674,,,,,,OSM,https://www.openstreetmap.org/node/8993820341,0.7
+osm_node_9492461444,مركز الترويض مباركة,مركز الترويض مباركة,,,unknown,kinesitherapy,unknown,Sidi Bernoussi,,33.6141212,-7.5010126,+212 5 22 73 28 68,,,Sobhi Meryam,,OSM,https://www.openstreetmap.org/node/9492461444,0.7
+osm_node_9613551606,Clinical Les Fleurs,Clinical Les Fleurs,,,hospital,,unknown,Maarif,,33.5815871,-7.6220232,,,,,,OSM,https://www.openstreetmap.org/node/9613551606,0.7
+osm_node_9613551608,Parapharmacie Ibn Rochd,Parapharmacie Ibn Rochd,,,pharmacy,,unknown,Maarif,,33.5808565,-7.6224722,,,,,,OSM,https://www.openstreetmap.org/node/9613551608,0.7
+osm_node_9620605646,Docteur Scheherazade Maaroufi,Docteur Scheherazade Maaroufi,,,doctor,ophthalmology,unknown,Maarif,,33.5796062,-7.6215976,,,,,,OSM,https://www.openstreetmap.org/node/9620605646,0.7
+osm_node_9620605652,Docteur Mohamed Ajouby,Docteur Mohamed Ajouby,,,doctor,,unknown,Maarif,Rue Abou Bakr Mohamed Ibn Zouhair زنقة أبو بكر محمد ابن زهير,33.5790282,-7.6233403,,,,,,OSM,https://www.openstreetmap.org/node/9620605652,0.7
+osm_node_9620619562,Cabinet D'Hépato-gastro-entérologie Dr KABBAJ Loubna,Cabinet D'Hépato-gastro-entérologie Dr KABBAJ Loubna,,,doctor,,unknown,Maarif,,33.5774498,-7.6245297,,,,,,OSM,https://www.openstreetmap.org/node/9620619562,0.7
+osm_node_9620628033,Centre De Pathologie Spécialisée De Casa,Centre De Pathologie Spécialisée De Casa,,,laboratory,,unknown,Maarif,,33.5823293,-7.6220882,,,,,,OSM,https://www.openstreetmap.org/node/9620628033,0.7
+osm_node_9620628034,centre de dialyse wardani,centre de dialyse wardani,,,unknown,,unknown,Maarif,,33.5820266,-7.622092,,,,,,OSM,https://www.openstreetmap.org/node/9620628034,0.7
+osm_node_9620684483,Radiologie du Centre الفحص بالأشعة المركز,Radiologie du Centre الفحص بالأشعة المركز,Radiologie du Centre,الفحص بالأشعة المركز,doctor,radiology,unknown,Maarif,Rue Abou Bakr Mohamed Ibn Zouhair زنقة أبو بكر محمد ابن زهير,33.5788928,-7.6224969,,,,,,OSM,https://www.openstreetmap.org/node/9620684483,0.7
+osm_node_9620684506,Cabinet Dr Mohamed Bennani,Cabinet Dr Mohamed Bennani,,,doctor,,unknown,Maarif,Rue des Hôpitaux زنقة المستشفيات,33.5796019,-7.621718,,,,,,OSM,https://www.openstreetmap.org/node/9620684506,0.7
+osm_node_9620684507,Pr Hassoun Jalal (Chirurgien Orthopédique),Pr Hassoun Jalal (Chirurgien Orthopédique),,,doctor,,unknown,Maarif,Rue des Hôpitaux زنقة المستشفيات,33.5793412,-7.6215493,,,,,,OSM,https://www.openstreetmap.org/node/9620684507,0.7
+osm_node_9620684508,Cabinet Professeur Aichane Abdelaziz,Cabinet Professeur Aichane Abdelaziz,,,doctor,,unknown,Maarif,Rue des Hôpitaux زنقة المستشفيات,33.5795119,-7.6215777,,,,,,OSM,https://www.openstreetmap.org/node/9620684508,0.7
+osm_node_9620684513,Laboratoire Morizgo,Laboratoire Morizgo,,,laboratory,,unknown,Maarif,,33.5789156,-7.6214594,,,,,,OSM,https://www.openstreetmap.org/node/9620684513,0.7
+osm_node_9620697118,Pharmacie Morizgo صيدلية موريزڭو,Pharmacie Morizgo صيدلية موريزڭو,Morizgo,صيدلية موريزڭو,pharmacy,,unknown,Maarif,Rue des Hôpitaux زنقة المستشفيات,33.5787665,-7.6214335,,,,,,OSM,https://www.openstreetmap.org/node/9620697118,0.7
+osm_node_9620715113,Cabinet d'Urologie Zerktouni Professeur Saad Benjelloun,Cabinet d'Urologie Zerktouni Professeur Saad Benjelloun,,,doctor,urology,unknown,Maarif,,33.5830309,-7.6223349,,,,,,OSM,https://www.openstreetmap.org/node/9620715113,0.7
+osm_node_9620715115,CABINET MEKOUAR NAJY DOCTEUR GYNECOLOGUE,CABINET MEKOUAR NAJY DOCTEUR GYNECOLOGUE,,,doctor,gynaecology,unknown,Maarif,,33.5830812,-7.622239,,,,,,OSM,https://www.openstreetmap.org/node/9620715115,0.7
+osm_node_9620715116,residence les fleurs,residence les fleurs,,,doctor,,unknown,Maarif,,33.5829672,-7.6222323,,,,,,OSM,https://www.openstreetmap.org/node/9620715116,0.7
+osm_node_9620754117,Professeur Mohamed Bougrine - Pneumologue Allergologue Adultes et Enfants,Professeur Mohamed Bougrine - Pneumologue Allergologue Adultes et Enfants,,,doctor,,unknown,Maarif,,33.5829807,-7.6223543,,,,,,OSM,https://www.openstreetmap.org/node/9620754117,0.7
+osm_node_9620754118,RADIOLOGIE ZERKTOUNI 59,RADIOLOGIE ZERKTOUNI 59,,,doctor,radiology,unknown,Maarif,,33.5829438,-7.622357,,,,,,OSM,https://www.openstreetmap.org/node/9620754118,0.7
+osm_node_9620754122,Professeur Omar Bennani - Gynécologue Obstétricien,Professeur Omar Bennani - Gynécologue Obstétricien,,,doctor,gynaecology,unknown,Maarif,,33.5819578,-7.6222947,,,,,,OSM,https://www.openstreetmap.org/node/9620754122,0.7
+osm_node_9620906367,Laboratoire Casa PATH,Laboratoire Casa PATH,,,laboratory,,unknown,Maarif,,33.5826516,-7.6199816,,,,,,OSM,https://www.openstreetmap.org/node/9620906367,0.7
+osm_node_9620906368,Cabinet médical d'Esthétique et de Greffe capillaire du Docteur Alami Mohamed,Cabinet médical d'Esthétique et de Greffe capillaire du Docteur Alami Mohamed,Cabinet médical d'Esthétique et de Greffe capillaire du Docteur Alami Mohamed,,doctor,surgery,unknown,Maarif,,33.5821019,-7.6199548,,,,,,OSM,https://www.openstreetmap.org/node/9620906368,0.7
+osm_node_9620906371,,,,,unknown,,unknown,Maarif,,33.5826583,-7.6199132,,,,,,OSM,https://www.openstreetmap.org/node/9620906371,0.7
+osm_node_9621212153,Pharmacie Les Lilas صيدلية ليلج,Pharmacie Les Lilas صيدلية ليلج,,,pharmacy,,unknown,Maarif,,33.5791919,-7.6240387,,,,,,OSM,https://www.openstreetmap.org/node/9621212153,0.7
+osm_node_9621212177,"Cabinet de Neurologie, Docteur Tarik Benhsain","Cabinet de Neurologie, Docteur Tarik Benhsain","Cabinet de Neurologie, Docteur Tarik Benhsain",,doctor,,unknown,Maarif,,33.5793709,-7.623998,,,,,,OSM,https://www.openstreetmap.org/node/9621212177,0.7
+osm_node_9621212180,Sag Maroc | Studies À L'étranger,Sag Maroc | Studies À L'étranger,,,unknown,,unknown,Maarif,,33.5794914,-7.6243459,,,,,,OSM,https://www.openstreetmap.org/node/9621212180,0.7
+osm_node_9621212185,Abdelaziz Janah,Abdelaziz Janah,,,doctor,,unknown,Maarif,,33.5795437,-7.6241591,,,,,,OSM,https://www.openstreetmap.org/node/9621212185,0.7
+osm_node_9621212191,"Cabinet de Gastroentérologie, Docteur Kharbachi Fatima Zahra","Cabinet de Gastroentérologie, Docteur Kharbachi Fatima Zahra","Cabinet de Gastroentérologie, Docteur Kharbachi Fatima Zahra",,doctor,,unknown,Maarif,,33.579362,-7.6238919,,,,,,OSM,https://www.openstreetmap.org/node/9621212191,0.7
+osm_node_10114292126,Pharmacie Jawad,Pharmacie Jawad,,صيدلية جواد,pharmacy,,unknown,Moulay Rachid,,33.5712168,-7.5594241,,,Mo-Sa 09:00-20:30,,,OSM,https://www.openstreetmap.org/node/10114292126,0.7
+osm_node_10130973456,Pharmacie & Parapharmacie Centrale de Bouskoura,Pharmacie & Parapharmacie Centrale de Bouskoura,,,pharmacy,,unknown,Unknown,,33.4929542,-7.6488068,+212 6 63 01 31 67,,,,,OSM,https://www.openstreetmap.org/node/10130973456,0.7
+osm_node_10140178417,صيدلية التوحيد,صيدلية التوحيد,,,pharmacy,,unknown,Moulay Rachid,,33.5709384,-7.5512541,,,,,,OSM,https://www.openstreetmap.org/node/10140178417,0.7
+osm_node_10158073004,Clinique Veterinaire Casablanca,Clinique Veterinaire Casablanca,,,clinic,,unknown,Maarif,,33.5812349,-7.615805,,,,,,OSM,https://www.openstreetmap.org/node/10158073004,0.7
+osm_node_10292847533,Pharmacie Lina,Pharmacie Lina,,,pharmacy,,unknown,Unknown,,33.5791635,-7.6032787,,,,,,OSM,https://www.openstreetmap.org/node/10292847533,0.7
+osm_node_10541977575,Pharmacie Moncef,Pharmacie Moncef,,,pharmacy,,unknown,Ain Sebaa,,33.6085175,-7.536803,,,,,,OSM,https://www.openstreetmap.org/node/10541977575,0.7
+osm_node_10811340905,Para & Pharmacie Ziraoui صيدلية الزيراوي,Para & Pharmacie Ziraoui صيدلية الزيراوي,Para & Pharmacie Ziraoui,صيدلية الزيراوي,pharmacy,,unknown,Sidi Belyout,Boulevard Ziraoui شارع الزيراوي,33.5955386,-7.6325736,,,,,,OSM,https://www.openstreetmap.org/node/10811340905,0.7
+osm_node_10885806827,pharmacie anbar,pharmacie anbar,,,pharmacy,,unknown,Al Fida,bd Aba Chouaïb Doukali ang. rue 62 n°3 derb Sidi Maarouf V Casablanca,33.5617131,-7.5987122,,,,,,OSM,https://www.openstreetmap.org/node/10885806827,0.7
+osm_node_10885836998,Pharmacie Nisrine,Pharmacie Nisrine,,,pharmacy,,unknown,Sidi Othmane,avenue du Dix Mars 1982 (Sidi Othman) bloc 50 n°80 Hay sidi othmane Casablanca,33.5664666,-7.572924,,,,,,OSM,https://www.openstreetmap.org/node/10885836998,0.7
+osm_node_10899491806,cabinet dentaire sirajeddine,cabinet dentaire sirajeddine,cabinet dentaire sirajeddine,,doctor,,unknown,Ain Chock,Boulevard Panoramique,33.5544616,-7.6008895,+212 5 22 87 09 43,,Su-Sa 09:00-19:30,,,OSM,https://www.openstreetmap.org/node/10899491806,0.7
+osm_node_11045850259,Kiné oum & co,Kiné oum & co,,,hospital,physiotherapy,unknown,Sbata,Rue 18 زنقة,33.5403113,-7.5509901,+212 6 73 24 03 66,,,,,OSM,https://www.openstreetmap.org/node/11045850259,0.7
+osm_node_11125457650,Dr Farissi Chaimaa,Dr Farissi Chaimaa,,,doctor,allergology,unknown,Hay Hassani,,33.5658072,-7.6766819,,,,,,OSM,https://www.openstreetmap.org/node/11125457650,0.7
+osm_node_11214370265,مستشفى مولاي الحسن,مستشفى مولاي الحسن,,,hospital,,unknown,Sidi Belyout,,33.6046028,-7.6340318,,,,,,OSM,https://www.openstreetmap.org/node/11214370265,0.7
+osm_node_11214434952,Pharmacy assim,Pharmacy assim,,,pharmacy,,unknown,Mers Sultan,,33.5749092,-7.6026912,,,,,,OSM,https://www.openstreetmap.org/node/11214434952,0.7
+osm_node_11216914617,FHARMACIE DERB TOLBA,FHARMACIE DERB TOLBA,,,pharmacy,,unknown,Al Fida,,33.5708542,-7.5975232,,,,,,OSM,https://www.openstreetmap.org/node/11216914617,0.7
+osm_node_11216926671,Pharmacy mdiouna,Pharmacy mdiouna,,,pharmacy,,unknown,Al Fida,,33.5691338,-7.5958052,,,,,,OSM,https://www.openstreetmap.org/node/11216926671,0.7
+osm_node_11216926703,Para Godza,Para Godza,,,pharmacy,,unknown,Mers Sultan,,33.5701332,-7.6016622,,,,,,OSM,https://www.openstreetmap.org/node/11216926703,0.7
+osm_node_11220959594,Pharmacy & Para Chawi,Pharmacy & Para Chawi,,,pharmacy,,unknown,Mers Sultan,,33.5718536,-7.598381,,,,,,OSM,https://www.openstreetmap.org/node/11220959594,0.7
+osm_node_11222390834,Pharmacy 15 Ramadan,Pharmacy 15 Ramadan,,,pharmacy,,unknown,Sidi Belyout,,33.5870056,-7.6080818,,,,,,OSM,https://www.openstreetmap.org/node/11222390834,0.7
+osm_node_11410285779,,,,,pharmacy,,unknown,Sidi Belyout,,33.594167,-7.6113267,,,,,,OSM,https://www.openstreetmap.org/node/11410285779,0.7
+osm_node_11410363080,,,,,pharmacy,,unknown,Sidi Belyout,,33.6039137,-7.6335898,,,,,,OSM,https://www.openstreetmap.org/node/11410363080,0.7
+osm_node_11410366969,,,,,pharmacy,,unknown,Anfa,,33.5951866,-7.6688003,,,,,,OSM,https://www.openstreetmap.org/node/11410366969,0.7
+osm_node_11413680775,,,,,pharmacy,,unknown,Mers Sultan,,33.5764674,-7.6040215,,,,,,OSM,https://www.openstreetmap.org/node/11413680775,0.7
+osm_node_11413680778,,,,,pharmacy,,unknown,Sidi Belyout,,33.5859544,-7.6165399,,,,,,OSM,https://www.openstreetmap.org/node/11413680778,0.7
+osm_node_11413680869,,,,,dentist,,unknown,Sidi Belyout,,33.5850778,-7.6125815,,,,,,OSM,https://www.openstreetmap.org/node/11413680869,0.7
+osm_node_11413681073,,,,,pharmacy,,unknown,Unknown,,33.579046,-7.6059801,,,,,,OSM,https://www.openstreetmap.org/node/11413681073,0.7
+osm_node_11414762973,,,,,pharmacy,,unknown,Sidi Belyout,,33.5900961,-7.6142756,,,,,,OSM,https://www.openstreetmap.org/node/11414762973,0.7
+osm_node_11415332070,,,,,dentist,,unknown,Sidi Belyout,,33.5904503,-7.6144787,,,,,,OSM,https://www.openstreetmap.org/node/11415332070,0.7
+osm_node_11446085961,Polyclinique Atlas مصحة اطلس,Polyclinique Atlas مصحة اطلس,Polyclinique Atlas,مصحة اطلس,clinic,,unknown,Sidi Belyout,,33.5901639,-7.6287525,,,,,,OSM,https://www.openstreetmap.org/node/11446085961,0.7
+osm_node_11526116971,,,,,doctor,,unknown,Unknown,,33.5519432,-7.4820281,,,,,,OSM,https://www.openstreetmap.org/node/11526116971,0.7
+osm_node_11630506172,,,,,pharmacy,,unknown,Hay Hassani,,33.5392196,-7.6788441,,,,,,OSM,https://www.openstreetmap.org/node/11630506172,0.7
+osm_node_11717363586,Hammam populaire,Hammam populaire,,,unknown,,unknown,Ain Chock,,33.5383163,-7.5885862,,,,,,OSM,https://www.openstreetmap.org/node/11717363586,0.7
+osm_node_11955305816,Pharmacie wato صيدلية واطو,Pharmacie wato صيدلية واطو,,,pharmacy,,unknown,Maarif,,33.5745662,-7.6303973,,,,,,OSM,https://www.openstreetmap.org/node/11955305816,0.7
+osm_node_12113852725,Pharmacie Kheops,Pharmacie Kheops,,,pharmacy,,unknown,Maarif,Rue Ibnou Yaala Al Ifrani زنقة ابن يعلى الإفراني,33.5886829,-7.6383703,,,,,,OSM,https://www.openstreetmap.org/node/12113852725,0.7
+osm_node_12114310199,,,,,pharmacy,,unknown,Hay Hassani,,33.5632692,-7.663828,,,,,,OSM,https://www.openstreetmap.org/node/12114310199,0.7
+osm_node_12114838935,,,,,pharmacy,,unknown,Hay Hassani,,33.5675059,-7.6572414,,,,,,OSM,https://www.openstreetmap.org/node/12114838935,0.7
+osm_node_12115596700,Centre Kinesithérapie Racine,Centre Kinesithérapie Racine,,,unknown,,unknown,Maarif,Rue Oumayma Essayeh زنقة أميمة السايح,33.5882063,-7.6389708,+212 5 22 36 83 35,,,,,OSM,https://www.openstreetmap.org/node/12115596700,0.7
+osm_node_12146121300,Pharmacie du Complexe Sportif,Pharmacie du Complexe Sportif,,,pharmacy,,unknown,Maarif,Rue Mamoun Mohamed زنقة مامون محمد,33.5795302,-7.6496175,,,,,,OSM,https://www.openstreetmap.org/node/12146121300,0.7
+osm_node_12146127501,Laboratoire du Complexe Sportif,Laboratoire du Complexe Sportif,,,laboratory,,unknown,Maarif,Rue Mamoun Mohamed زنقة مامون محمد,33.5795516,-7.6495747,,,,,,OSM,https://www.openstreetmap.org/node/12146127501,0.7
+osm_node_12314471214,Perfect Telemarketing,Perfect Telemarketing,,,unknown,,unknown,Maarif,Rue Abdelmjid Benjelloun,33.5806668,-7.6423552,,,,,,OSM,https://www.openstreetmap.org/node/12314471214,0.7
+osm_node_12315489277,Pharmacie des Champions - صيدلية الأبطال,Pharmacie des Champions - صيدلية الأبطال,,,pharmacy,,unknown,Maarif,Rue Brahim Nakhai زنقة إبراهيم النخعي,33.5816075,-7.6436672,,,,,,OSM,https://www.openstreetmap.org/node/12315489277,0.7
+osm_node_12339570777,Pharmacie El Masjd El Habib,Pharmacie El Masjd El Habib,,صيدلية المسجد الحبيب,pharmacy,,unknown,Hay Hassani,,33.5361868,-7.693273,,,,,,OSM,https://www.openstreetmap.org/node/12339570777,0.7
+osm_node_12339570778,Pharmacie woroud saada,Pharmacie woroud saada,,صيدلية ورود السعادة,pharmacy,,unknown,Hay Hassani,,33.5341553,-7.6903995,,,,,,OSM,https://www.openstreetmap.org/node/12339570778,0.7
+osm_node_12434362906,,,,,pharmacy,,unknown,Hay Hassani,,33.5685766,-7.6674865,,,,,,OSM,https://www.openstreetmap.org/node/12434362906,0.7
+osm_node_12506546432,Laboratoire Bir Anzarane,Laboratoire Bir Anzarane,,مختبر بير انزران,laboratory,,unknown,Maarif,,33.5813823,-7.6390909,,,,,,OSM,https://www.openstreetmap.org/node/12506546432,0.7
+osm_node_12731568288,Pharmacie du Phare,Pharmacie du Phare,,,pharmacy,,unknown,Anfa,Avenue Docteur Mohamed Sijelmassi شارع الدكتور محمد السجلماسي,33.5932456,-7.6432234,,,,,,OSM,https://www.openstreetmap.org/node/12731568288,0.7
+osm_node_12853071688,Pharmacie Danton,Pharmacie Danton,,صيدلية دانطون,pharmacy,,unknown,Maarif,Boulevard Bir Anzarane شارع بئر أنزران,33.5803173,-7.6375599,,,,,,OSM,https://www.openstreetmap.org/node/12853071688,0.7
+osm_node_12893747995,Pharmacie Dune d'Anfa,Pharmacie Dune d'Anfa,,,pharmacy,,unknown,Anfa,Boulevard Driss Slaoui شارع إدريس السلاوي,33.5917909,-7.6544565,,,,,,OSM,https://www.openstreetmap.org/node/12893747995,0.7
+osm_node_12915145679,Clinique Longchamps مصحة لونشون,Clinique Longchamps مصحة لونشون,Clinique Longchamps,مصحة لونشون,clinic,,private,Hay Hassani,Boulevard Ghandi شارع غاندي,33.5817672,-7.6608672,,https://cliniquelongchamps.ma/,,Akdital,,OSM,https://www.openstreetmap.org/node/12915145679,0.7
+osm_node_12915229816,Clinique Ghandi مصحة غاندي,Clinique Ghandi مصحة غاندي,Clinique Ghandi,مصحة غاندي,clinic,,private,Hay Hassani,Boulevard Ghandi شارع غاندي,33.579757,-7.6570106,+212522940770/74,https://www.ghandiclinic.com/,,,,OSM,https://www.openstreetmap.org/node/12915229816,0.7
+osm_node_12915652612,Hôpital Privé International de Casablanca المستشفى الخاص الدولي للدار البيضاء,Hôpital Privé International de Casablanca المستشفى الخاص الدولي للدار البيضاء,Hôpital Privé International de Casablanca,المستشفى الخاص الدولي للدار البيضاء,hospital,,private,Maarif,,33.5819777,-7.6403102,,,,,,OSM,https://www.openstreetmap.org/node/12915652612,0.7
+osm_node_12918791927,Clinique Maghreb مصحة المغرب,Clinique Maghreb مصحة المغرب,Clinique Maghreb,مصحة المغرب,clinic,,private,Maarif,Rue El Kadi Iass زنقة القاضي إياس,33.5850575,-7.6427795,+212 6 62 33 40 85,,,,,OSM,https://www.openstreetmap.org/node/12918791927,0.7
+osm_node_12918804675,Clinique Al Massira مصحة المسيرة,Clinique Al Massira مصحة المسيرة,Clinique Al Massira,مصحة المسيرة,clinic,,private,Anfa,Rue Ahmed El Mokri زنقة أحمد المقري,33.5906505,-7.6386542,,https://cliniquealmassira.com/,,,,OSM,https://www.openstreetmap.org/node/12918804675,0.7
+osm_node_12918804676,Clinique Les Iris مصحة السوسن,Clinique Les Iris مصحة السوسن,Clinique Les Iris,مصحة السوسن,clinic,,private,Maarif,Place du Nid d'Iris,33.5883375,-7.6364928,,,,,,OSM,https://www.openstreetmap.org/node/12918804676,0.7
+osm_node_13003878511,Laboratoire Roma d'Analyses Médicales,Laboratoire Roma d'Analyses Médicales,Laboratoire Rome d'Analyses Médicales,مختبر روما للتحليلات الطبية,laboratory,biology;biochemistry;haematology;mycologie;microbiologie;parasitologie;hormonologie;virologie;immunologie;auto-immunité;biologie_de_la_reproduction;biologie_spécialisée,unknown,Mers Sultan,Angle Bd 2 Mars et Rue de Rome,33.5711466,-7.6129492,+212 5 22 28 51 60,,Mo-Fr 07:30-18:30,,,OSM,https://www.openstreetmap.org/node/13003878511,0.7
+osm_node_13006074098,Akdital oasis,Akdital oasis,,,hospital,emergency;radiology;intensive,private,Maarif,,33.5606808,-7.6293283,,,,Clininique Akdital,,OSM,https://www.openstreetmap.org/node/13006074098,0.7
+osm_node_13083670610,Clinique Racine مصحة راسين,Clinique Racine مصحة راسين,Clinique Racine,مصحة راسين,clinic,trauma;orthopaedics;gynaecology;surgery,unknown,Maarif,Boulevard Al Massira Al Khadra شارع المسيرة الخضراء,33.5869814,-7.6369396,,,,,,OSM,https://www.openstreetmap.org/node/13083670610,0.7
+osm_node_13093077991,Casa Radiologie,Casa Radiologie,,,doctor,radiology,unknown,Maarif,,33.5772271,-7.6250615,,,,,,OSM,https://www.openstreetmap.org/node/13093077991,0.7
+osm_node_13093077997,,,,,pharmacy,,unknown,Maarif,,33.5784386,-7.6248457,,,,,,OSM,https://www.openstreetmap.org/node/13093077997,0.7
+osm_node_13093078000,LIAB (Laboratoire International d'Analyses Biomedicales),LIAB (Laboratoire International d'Analyses Biomedicales),,,laboratory,biology,unknown,Maarif,,33.5796115,-7.6245893,,,,,,OSM,https://www.openstreetmap.org/node/13093078000,0.7
+osm_node_13094807894,Pharmacie Ain Sebaa صيدلية عين السبع,Pharmacie Ain Sebaa صيدلية عين السبع,Pharmacie Ain Sebaa,صيدلية عين السبع,pharmacy,,unknown,Ain Sebaa,,33.6061517,-7.539421,,,,,,OSM,https://www.openstreetmap.org/node/13094807894,0.7
+osm_node_13095048467,Clinique Le Parc,Clinique Le Parc,,,clinic,,unknown,Maarif,Allée Chant des Oiseaux,33.5636438,-7.6150157,,,,,,OSM,https://www.openstreetmap.org/node/13095048467,0.7
+osm_node_13096438032,Pharmacie Cinem Anfa,Pharmacie Cinem Anfa,,,pharmacy,,unknown,Hay Hassani,Boulevard Sidi Abderrahmane شارع سيدي عبد الرحمان,33.5743409,-7.6710815,,,,,,OSM,https://www.openstreetmap.org/node/13096438032,0.7
+osm_node_13100989610,Clinique Rachidi,Clinique Rachidi,,,clinic,,unknown,Sidi Belyout,,33.5932871,-7.6280126,,,,,,OSM,https://www.openstreetmap.org/node/13100989610,0.7
+osm_node_13107907393,Best Way Medical,Best Way Medical,,,clinic,,unknown,Maarif,,33.5754734,-7.6378886,,,,,,OSM,https://www.openstreetmap.org/node/13107907393,0.7
+osm_node_13109460330,Clinique Orl Beausejour,Clinique Orl Beausejour,,,clinic,,unknown,Maarif,,33.5686395,-7.6434901,,,,,,OSM,https://www.openstreetmap.org/node/13109460330,0.7
+osm_node_13138070012,,,,,pharmacy,,unknown,Ain Chock,Boulevard Tétouan,33.5340268,-7.6359191,,,,,,OSM,https://www.openstreetmap.org/node/13138070012,0.7
+osm_node_13141654008,Clinique Val d'Anfa مصحة ڤال أنفا,Clinique Val d'Anfa مصحة ڤال أنفا,Clinique Val d'Anfa,مصحة ڤال أنفا,clinic,,private,Anfa,Boulevard Franklin Roosevelt شارع فرانكلين روزفلت,33.5898915,-7.6531133,,,,,,OSM,https://www.openstreetmap.org/node/13141654008,0.7
+osm_node_13158416142,Pharmacie & Para Care Oasis,Pharmacie & Para Care Oasis,,,pharmacy,,unknown,Maarif,Route de l'Oasis,33.5550878,-7.6318495,,,,,,OSM,https://www.openstreetmap.org/node/13158416142,0.7
+osm_node_13179386468,Oasis Dental Clinic,Oasis Dental Clinic,,,clinic,,unknown,Maarif,Boulevard Abderrahim Bouabid شارع عبد الرحيم بوعبيد,33.5599317,-7.6395277,,,,,,OSM,https://www.openstreetmap.org/node/13179386468,0.7
+osm_node_13179386469,Clinique Attal,Clinique Attal,,,hospital,,unknown,Maarif,Boulevard Abderrahim Bouabid,33.55864,-7.637683,,,,,,OSM,https://www.openstreetmap.org/node/13179386469,0.7
+osm_node_13181367146,Operation Smile,Operation Smile,,,dentist,,unknown,Al Fida,,33.560066,-7.6108446,,,,,,OSM,https://www.openstreetmap.org/node/13181367146,0.7
+osm_node_13186921892,Clinique Maarif مصحة المعاريف,Clinique Maarif مصحة المعاريف,Clinique Maarif,مصحة المعاريف,clinic,,unknown,Maarif,Rue Montaigne,33.5760462,-7.6355313,,,,,,OSM,https://www.openstreetmap.org/node/13186921892,0.7
+osm_node_13189704489,Pharmacie Aymane,Pharmacie Aymane,,,pharmacy,,unknown,Maarif,Rue Henri Murger,33.5745137,-7.6368484,,,,,,OSM,https://www.openstreetmap.org/node/13189704489,0.7
+osm_node_13199193013,Pharmacie Al Ourjouane صيدلية الأرجوان,Pharmacie Al Ourjouane صيدلية الأرجوان,Pharmacie Al Ourjouane,صيدلية الأرجوان,pharmacy,,unknown,Hay Hassani,Rue Al Ourjouane زنقة الأرجوان,33.5670034,-7.6530453,,,,,,OSM,https://www.openstreetmap.org/node/13199193013,0.7
+osm_node_13202548447,Cabinet Vétérinaire Moulay Youssef عيادة بيطرية مولاي يوسف,Cabinet Vétérinaire Moulay Youssef عيادة بيطرية مولاي يوسف,Cabinet Vétérinaire Moulay Youssef,عيادة بيطرية مولاي يوسف,veterinary,,unknown,Sidi Belyout,Avenue Hassan Souktani شارع حسن السكتاني,33.5924122,-7.6302219,,,,,,OSM,https://www.openstreetmap.org/node/13202548447,0.7
+osm_node_13203028404,Pharmacie de l'Oasis,Pharmacie de l'Oasis,,,pharmacy,,unknown,Maarif,Boulevard Abderrahim Bouabid,33.5564078,-7.6340383,,,,,,OSM,https://www.openstreetmap.org/node/13203028404,0.7
+osm_node_13205221671,Clinique Socrate,Clinique Socrate,,,hospital,,unknown,Maarif,Rue Ibnou Majat,33.5788058,-7.6472013,,,,,,OSM,https://www.openstreetmap.org/node/13205221671,0.7
+osm_node_13241612241,CENTRE DENTAIRE LEGHTAS - Dentiste Casablanca - Cabinet Dr LEGHTAS Akram,CENTRE DENTAIRE LEGHTAS - Dentiste Casablanca - Cabinet Dr LEGHTAS Akram,,,dentist,dentist;dental_oral_maxillo_facial_surgery;dentistry;orthodontics,unknown,Ain Chock,"Immeuble OASIS PARK OFFICE, Etage 1, Bureau 1, Boulevard Fès, angle Rue Al Hoceima",33.5437311,-7.6138633,,,,,,OSM,https://www.openstreetmap.org/node/13241612241,0.7
+osm_node_13250146399,Clinique Dentaire Ghandi,Clinique Dentaire Ghandi,,,clinic,,unknown,Maarif,Boulevard Ghandi شارع غاندي,33.5684034,-7.642,,,,,,OSM,https://www.openstreetmap.org/node/13250146399,0.7
+osm_node_13261125353,Hôpital Privé de Casablanca Aîn Sebaâ,Hôpital Privé de Casablanca Aîn Sebaâ,,,hospital,,unknown,Ain Sebaa,,33.6123849,-7.5301441,,,,,,OSM,https://www.openstreetmap.org/node/13261125353,0.7
+osm_node_13322008019,,,,,pharmacy,,unknown,Anfa,Boulevard Abdelhadi Boutaleb شارع عبد الهادي بوطالب,33.5766722,-7.675367,,,,,,OSM,https://www.openstreetmap.org/node/13322008019,0.7
+osm_node_13322119094,Clinique Yasmine,Clinique Yasmine,,,clinic,,unknown,Hay Hassani,Boulevard Sidi Abderrahmane شارع سيدي عبد الرحمان,33.5758186,-7.6719778,,,,,,OSM,https://www.openstreetmap.org/node/13322119094,0.7
+osm_node_13361976201,Pharmacie fatma,Pharmacie fatma,,,pharmacy,,unknown,Hay Hassani,,33.5539146,-7.6745104,,,24/7,,,OSM,https://www.openstreetmap.org/node/13361976201,0.7
+osm_node_13731447128,Dr Lamia El Yandouzi,Dr Lamia El Yandouzi,,,doctor,general;endocrinology;nutrition,unknown,Sidi Belyout,Rue Chaouia,33.5948377,-7.6129379,+212 5 22 54 08 84,https://sites.google.com/view/dr-lamia-el-yandouzi/accueil,Mo-Fr 09:00-17:00; Sa 09:00-13:00,,,OSM,https://www.openstreetmap.org/node/13731447128,0.7
+osm_way_150779200,Centre Hospitalier Universitaire Ibn Rochd المركز الإستشفائي الجامعي إبن رشد,Centre Hospitalier Universitaire Ibn Rochd المركز الإستشفائي الجامعي إبن رشد,Centre Hospitalier Universitaire Ibn Rochd,المركز الإستشفائي الجامعي إبن رشد,hospital,,public,Maarif,,33.5789091,-7.6215532,,https://chuibnrochd.ma/,,,,OSM,https://www.openstreetmap.org/way/150779200,0.7
+osm_way_222801907,pharmacie lysere,pharmacie lysere,,,pharmacy,,unknown,Maarif,,33.5579434,-7.6215994,,,,,,OSM,https://www.openstreetmap.org/way/222801907,0.7
+osm_way_222802375,Pharmaice Al Amne,Pharmaice Al Amne,,,pharmacy,,unknown,Maarif,Rue du Golo,33.5561984,-7.6173977,,,,,,OSM,https://www.openstreetmap.org/way/222802375,0.7
+osm_way_222803371,,,,,hospital,,unknown,Maarif,,33.5577301,-7.6238544,,,,,,OSM,https://www.openstreetmap.org/way/222803371,0.7
+osm_way_222803714,Clinique Dar Salam,Clinique Dar Salam,,,clinic,,unknown,Maarif,Allee de L'Iton,33.5624747,-7.6184759,,,,,,OSM,https://www.openstreetmap.org/way/222803714,0.7
+osm_way_229704511,Polyclinique CNSS Ziraoui,Polyclinique CNSS Ziraoui,,,hospital,,public,Sidi Belyout,,33.594349,-7.6356322,+212 5 22 20 38 61,,,CNSS,,OSM,https://www.openstreetmap.org/way/229704511,0.7
+osm_way_230222308,Clinic Lina,Clinic Lina,,,clinic,,unknown,Ain Chock,,33.5198072,-7.6516183,,,,,,OSM,https://www.openstreetmap.org/way/230222308,0.7
+osm_way_243430553,Clinique Le Littoral,Clinique Le Littoral,,,hospital,,unknown,Anfa,,33.5812437,-7.6751812,,,,,,OSM,https://www.openstreetmap.org/way/243430553,0.7
+osm_way_243430554,,,,,pharmacy,,unknown,Anfa,,33.5819813,-7.6753431,,,,,,OSM,https://www.openstreetmap.org/way/243430554,0.7
+osm_way_243845507,Clinic Guess,Clinic Guess,,,clinic,,unknown,Anfa,,33.5810498,-7.6754435,,,,,,OSM,https://www.openstreetmap.org/way/243845507,0.7
+osm_way_243915764,Clinique Sidi Othmane,Clinique Sidi Othmane,,,clinic,,unknown,Sidi Othmane,,33.5597854,-7.5615636,,,,,,OSM,https://www.openstreetmap.org/way/243915764,0.7
+osm_way_250426643,Hopital 20 Aout,Hopital 20 Aout,,,hospital,,unknown,Maarif,,33.5751376,-7.6210168,,,,,,OSM,https://www.openstreetmap.org/way/250426643,0.7
+osm_way_263202099,al joulane,al joulane,,,pharmacy,,unknown,Sbata,,33.5461206,-7.5641194,,,"08:30-12:30,15:30-20:00",,,OSM,https://www.openstreetmap.org/way/263202099,0.7
+osm_way_264643479,Hopital 20 Aout,Hopital 20 Aout,,,hospital,,unknown,Maarif,,33.57463,-7.619676,,,,,,OSM,https://www.openstreetmap.org/way/264643479,0.7
+osm_way_286685403,Polyclinique de la Sécurité sociale,Polyclinique de la Sécurité sociale,,,hospital,,unknown,Maarif,,33.5708495,-7.6229618,,,,,,OSM,https://www.openstreetmap.org/way/286685403,0.7
+osm_way_299269975,Clinique El Amine,Clinique El Amine,,,hospital,,unknown,Maarif,,33.5704148,-7.6204878,,,,,,OSM,https://www.openstreetmap.org/way/299269975,0.7
+osm_way_397657657,Hôpital du Cheikh Khalifa Ben Zayd Al-Nahyan,Hôpital du Cheikh Khalifa Ben Zayd Al-Nahyan,,,hospital,,unknown,Hay Hassani,Avenue Mohamed Taib Naciri,33.5523764,-7.6683106,,,,,,OSM,https://www.openstreetmap.org/way/397657657,0.7
+osm_way_414875894,,,,,dentist,,unknown,Anfa,,33.5874262,-7.6482181,,,,,,OSM,https://www.openstreetmap.org/way/414875894,0.7
+osm_way_417421845,Radiologie Anoual,Radiologie Anoual,,,clinic,,unknown,Maarif,Boulevard d'Anoual,33.5693976,-7.6171309,,,,,,OSM,https://www.openstreetmap.org/way/417421845,0.7
+osm_way_417891308,Clinical Abbadi,Clinical Abbadi,,,clinic,,unknown,Hay Hassani,,33.5696597,-7.6616345,,,,,,OSM,https://www.openstreetmap.org/way/417891308,0.7
+osm_way_417891311,Clinique CIL,Clinique CIL,,,clinic,,unknown,Hay Hassani,,33.5691431,-7.6608343,,,,,,OSM,https://www.openstreetmap.org/way/417891311,0.7
+osm_way_417903112,Polyclinique Dentaire Casablanca,Polyclinique Dentaire Casablanca,,,clinic,,unknown,Maarif,Boulevard Modibo Keita,33.5607381,-7.6247833,,,,,,OSM,https://www.openstreetmap.org/way/417903112,0.7
+osm_way_417976084,International Clinic,International Clinic,,,clinic,,unknown,Maarif,Boulevard d'Anoual,33.5694473,-7.6187558,,,,,,OSM,https://www.openstreetmap.org/way/417976084,0.7
+osm_way_417976143,Centre de Biologie Médicale,Centre de Biologie Médicale,,,laboratory,,unknown,Maarif,Boulevard d'Anoual,33.5694709,-7.6198503,,,,,,OSM,https://www.openstreetmap.org/way/417976143,0.7
+osm_way_417985673,Clinique Riviera,Clinique Riviera,,,clinic,,unknown,Maarif,Boulevard Ghandi,33.5666985,-7.6388828,,,,,,OSM,https://www.openstreetmap.org/way/417985673,0.7
+osm_way_418788892,Cinique Al Karim Medecine Physique,Cinique Al Karim Medecine Physique,,,clinic,,unknown,Maarif,Boulevard Modibo Keita,33.5616321,-7.6173404,,,,,,OSM,https://www.openstreetmap.org/way/418788892,0.7
+osm_way_418789138,,,,,pharmacy,,unknown,Maarif,Boulevard Modibo Keita,33.5617115,-7.617121,,,,,,OSM,https://www.openstreetmap.org/way/418789138,0.7
+osm_way_419338731,Cooper Pharma Sociêtê Marocaine de Coopération Pharmaceutique,Cooper Pharma Sociêtê Marocaine de Coopération Pharmaceutique,,,laboratory,,unknown,Sidi Belyout,Rue Magellan,33.5906985,-7.6043681,,,,,,OSM,https://www.openstreetmap.org/way/419338731,0.7
+osm_way_419547624,Pharmacie Bab Taddart,Pharmacie Bab Taddart,,,pharmacy,,unknown,Maarif,Route de Taddart,33.5597518,-7.6263099,,,,,,OSM,https://www.openstreetmap.org/way/419547624,0.7
+osm_way_419563014,Ophtalmo Clinique de Casablanca,Ophtalmo Clinique de Casablanca,,,clinic,,unknown,Maarif,Rue des Papillons,33.5630286,-7.6358004,,,,,,OSM,https://www.openstreetmap.org/way/419563014,0.7
+osm_way_419563090,Cinique Multidisciplinaire,Cinique Multidisciplinaire,,,clinic,,unknown,Maarif,Rue Rostand,33.5631417,-7.6354938,,,,,,OSM,https://www.openstreetmap.org/way/419563090,0.7
+osm_way_419563911,Clinique Cardiologique Casa Oasis,Clinique Cardiologique Casa Oasis,,,clinic,cardiology,unknown,Maarif,Rue de Franceville,33.5626114,-7.6301797,,,,,,OSM,https://www.openstreetmap.org/way/419563911,0.7
+osm_way_419590839,Clinique Dentaire Lahlou,Clinique Dentaire Lahlou,,,clinic,,unknown,Maarif,,33.5617594,-7.6376552,,,,,,OSM,https://www.openstreetmap.org/way/419590839,0.7
+osm_way_420122924,Clinique Californie,Clinique Californie,,,hospital,,unknown,Ain Chock,Boulevard Panoramique,33.546665,-7.6308526,,,,,,OSM,https://www.openstreetmap.org/way/420122924,0.7
+osm_way_424324240,Hôpital Sekkat,Hôpital Sekkat,,,hospital,,unknown,Ain Chock,,33.5460467,-7.5885967,,,,,,OSM,https://www.openstreetmap.org/way/424324240,0.7
+osm_way_424324809,,,,,hospital,,unknown,Ain Chock,,33.5404957,-7.5976591,,,,,,OSM,https://www.openstreetmap.org/way/424324809,0.7
+osm_way_425094826,Centre de Santé Derb el Kheir,Centre de Santé Derb el Kheir,,,hospital,,unknown,Ain Chock,,33.5498334,-7.5913748,,,,,,OSM,https://www.openstreetmap.org/way/425094826,0.7
+osm_way_430965117,Polyclinique ِCNSS Sidi Bernoussi,Polyclinique ِCNSS Sidi Bernoussi,,Polyclinique ِCNSS Sidi Bernoussi,hospital,,unknown,Sidi Bernoussi,Boulevard Bensaid Salah Mohamed,33.6107521,-7.5007966,,,,,,OSM,https://www.openstreetmap.org/way/430965117,0.7
+osm_way_435627815,Centre d'Hemodialyse 2 Mars,Centre d'Hemodialyse 2 Mars,,,clinic,,unknown,Ain Chock,,33.5521591,-7.6037655,,,,,,OSM,https://www.openstreetmap.org/way/435627815,0.7
+osm_way_483556369,Clinique Ain Chock,Clinique Ain Chock,,,clinic,,unknown,Ain Chock,Avenue 2 Mars,33.5491556,-7.6025524,,,,,,OSM,https://www.openstreetmap.org/way/483556369,0.7
+osm_way_483562437,Ajial Hôpital Pédiatrique,Ajial Hôpital Pédiatrique,,,hospital,,unknown,Ain Chock,Boulevard Panoramique,33.5521,-7.6082648,,,,,,OSM,https://www.openstreetmap.org/way/483562437,0.7
+osm_way_519061847,Centre Hospitalier Préfectoral de Ben M'Sick,Centre Hospitalier Préfectoral de Ben M'Sick,,,hospital,,unknown,Ben M'Sick,,33.5523382,-7.5779945,,,,,,OSM,https://www.openstreetmap.org/way/519061847,0.7
+osm_way_520555721,,,,,hospital,,unknown,Sidi Moumen,,33.5805795,-7.544044,,,,,,OSM,https://www.openstreetmap.org/way/520555721,0.7
+osm_way_521476354,Polyclinique CNSS Hay Hassani مصحة الضمان الإجتماعي الحي الحسني,Polyclinique CNSS Hay Hassani مصحة الضمان الإجتماعي الحي الحسني,Polyclinique CNSS Hay Hassani,مصحة الضمان الإجتماعي الحي الحسني,hospital,,public,Hay Hassani,Boulevard d'Oued Oum Rabia,33.5669922,-7.6685901,,,,CNSS,,OSM,https://www.openstreetmap.org/way/521476354,0.7
+osm_way_547647911,,,,,clinic,,unknown,Sidi Moumen,,33.5753462,-7.5249302,,,,,,OSM,https://www.openstreetmap.org/way/547647911,0.7
+osm_way_584981985,Clinique Adoha,Clinique Adoha,,,clinic,,unknown,Ain Sebaa,Boulevard de Makro,33.597025,-7.5220535,,,,,,OSM,https://www.openstreetmap.org/way/584981985,0.7
+osm_way_586890451,Hôpital général de Casablanca Azhar-Bernoussi,Hôpital général de Casablanca Azhar-Bernoussi,,,hospital,,unknown,Sidi Moumen,,33.599247,-7.4834913,,,,,,OSM,https://www.openstreetmap.org/way/586890451,0.7
+osm_way_588459084,Al-Amal,Al-Amal,,,pharmacy,,unknown,Hay Mohammadi,Boulevard Ibn Zair Abdessalam,33.5845373,-7.562482,,,,,,OSM,https://www.openstreetmap.org/way/588459084,0.7
+osm_way_588466957,Parapharmacie,Parapharmacie,,,pharmacy,,unknown,Ain Sebaa,Route de Rabat,33.6042897,-7.5297001,,,,,,OSM,https://www.openstreetmap.org/way/588466957,0.7
+osm_way_588508365,Pharmacie Central,Pharmacie Central,,,pharmacy,,unknown,Sidi Belyout,Rue Hommane Al Fatwaki,33.5923667,-7.6091624,,,,,,OSM,https://www.openstreetmap.org/way/588508365,0.7
+osm_way_588780140,Place Ahmed Mekouar,Place Ahmed Mekouar,,,pharmacy,,unknown,Ain Sebaa,Boulevard de la Gare,33.612772,-7.5317453,,,,,,OSM,https://www.openstreetmap.org/way/588780140,0.7
+osm_way_589327214,Pharmacie Choura,Pharmacie Choura,,,pharmacy,,unknown,Ain Sebaa,Boulevard Ibn Al Ouannane,33.595657,-7.5610861,,,,,,OSM,https://www.openstreetmap.org/way/589327214,0.7
+osm_way_589906164,Clinique Al Amal,Clinique Al Amal,,مصحة الأمل,hospital,,unknown,Moulay Rachid,Boulevard des Forces Auxiliaires,33.5725535,-7.5531631,,,,,,OSM,https://www.openstreetmap.org/way/589906164,0.7
+osm_way_590233958,,,,,pharmacy,,unknown,Hay Mohammadi,Boulevard Okba Bnou Nafie,33.5828745,-7.5682548,,,,,,OSM,https://www.openstreetmap.org/way/590233958,0.7
+osm_way_590233959,,,,,pharmacy,,unknown,Sidi Moumen,Boulevard Okba Bnou Nafie,33.5760287,-7.5442647,,,,,,OSM,https://www.openstreetmap.org/way/590233959,0.7
+osm_way_590292157,D'analyses Medicales Atlas,D'analyses Medicales Atlas,,,laboratory,,unknown,Maarif,Boulevard Abdelmoumen,33.5790768,-7.6254289,,,,,,OSM,https://www.openstreetmap.org/way/590292157,0.7
+osm_way_590579792,Complexe Medico-Social Al Wouroud,Complexe Medico-Social Al Wouroud,,,clinic,,unknown,Al Fida,,33.5604256,-7.6095217,,,,,,OSM,https://www.openstreetmap.org/way/590579792,0.7
+osm_way_590579795,Radiologie,Radiologie,,,doctor,radiology,unknown,Al Fida,Avenue 2 Mars,33.5573891,-7.6072043,,,,,,OSM,https://www.openstreetmap.org/way/590579795,0.7
+osm_way_590579797,Traumedic,Traumedic,,,pharmacy,,unknown,Al Fida,Rue de l'Hérault,33.557548,-7.6104928,,,,,,OSM,https://www.openstreetmap.org/way/590579797,0.7
+osm_way_590579798,Centre Kinesitherapie Bouafi Amine,Centre Kinesitherapie Bouafi Amine,,,clinic,,unknown,Al Fida,Rue de l'Hérault,33.5574386,-7.6105914,,,,,,OSM,https://www.openstreetmap.org/way/590579798,0.7
+osm_way_590882610,Pharmacie Ghziwat,Pharmacie Ghziwat,,,pharmacy,,unknown,Ain Chock,,33.5420687,-7.6345011,,,,,,OSM,https://www.openstreetmap.org/way/590882610,0.7
+osm_way_591075715,,,,,pharmacy,,unknown,Maarif,Rue Mohamed Al Hayani,33.5664743,-7.6283433,,,,,,OSM,https://www.openstreetmap.org/way/591075715,0.7
+osm_way_592116442,Clinique Les Crêtes,Clinique Les Crêtes,,,hospital,,unknown,Ain Chock,Boulevard Panoramique,33.5495136,-7.624092,,,,,,OSM,https://www.openstreetmap.org/way/592116442,0.7
+osm_way_592132673,,,,,hospital,,unknown,Ain Chock,Boulevard de l'Atlantide,33.5543489,-7.6110289,,,,,,OSM,https://www.openstreetmap.org/way/592132673,0.7
+osm_way_592408154,Pharmacie Menara,Pharmacie Menara,,,pharmacy,,unknown,Mers Sultan,Rue 1,33.5683974,-7.6098351,,,,,,OSM,https://www.openstreetmap.org/way/592408154,0.7
+osm_way_592464380,Para & Pharmacie,Para & Pharmacie,,,pharmacy,,unknown,Ain Chock,Rue 2,33.529637,-7.5966943,,,,,,OSM,https://www.openstreetmap.org/way/592464380,0.7
+osm_way_592518724,Imara Dental Center,Imara Dental Center,,,dentist,,unknown,Ain Chock,Boulevard al Quds,33.5382033,-7.6018358,,,,,,OSM,https://www.openstreetmap.org/way/592518724,0.7
+osm_way_594720511,Laboratoire D'Analyses Médicales,Laboratoire D'Analyses Médicales,,,laboratory,,unknown,Hay Hassani,Route Sidi Al Khadir,33.5665493,-7.6838113,,,,,,OSM,https://www.openstreetmap.org/way/594720511,0.7
+osm_way_597025876,,,,,clinic,,unknown,Hay Hassani,Rue Chkaf,33.5723399,-7.6671777,,,,,,OSM,https://www.openstreetmap.org/way/597025876,0.7
+osm_way_663295171,Clinique Green Town,Clinique Green Town,,,hospital,,unknown,Unknown,,33.4943367,-7.5960642,,,,,,OSM,https://www.openstreetmap.org/way/663295171,0.7
+osm_way_666984284,,,,,pharmacy,,unknown,Maarif,,33.5521537,-7.6401432,,,Mo-Fr 08:00-17:00,,,OSM,https://www.openstreetmap.org/way/666984284,0.7
+osm_way_684386202,hopital d'errahma,hopital d'errahma,,,hospital,general;paediatrics,unknown,Unknown,,33.531623,-7.7326766,,,,,,OSM,https://www.openstreetmap.org/way/684386202,0.7
+osm_way_789173050,Clinique Mersultan,Clinique Mersultan,,,hospital,,unknown,Mers Sultan,,33.5806851,-7.6138098,,,,,,OSM,https://www.openstreetmap.org/way/789173050,0.7
+osm_way_789173399,hopital hassani,hopital hassani,,,hospital,,unknown,Hay Hassani,,33.5584555,-7.6873549,,,,,,OSM,https://www.openstreetmap.org/way/789173399,0.7
+osm_way_789230597,ATLANTIC CLINIC CASABLANCA,ATLANTIC CLINIC CASABLANCA,,,hospital,,unknown,Roches Noires,Boulevard Bahmad,33.5912926,-7.5903533,,https://www.atlanticclinic.ma/,24/7,,,OSM,https://www.openstreetmap.org/way/789230597,0.7
+osm_way_789265751,Clinique Al Mouahhidine,Clinique Al Mouahhidine,,,hospital,,unknown,Roches Noires,,33.580238,-7.5666464,,,,,,OSM,https://www.openstreetmap.org/way/789265751,0.7
+osm_way_789272394,Clinique Taha مصحة طه,Clinique Taha مصحة طه,Clinique Taha,مصحة طه,hospital,,unknown,Maarif,,33.5559122,-7.625772,,,,,,OSM,https://www.openstreetmap.org/way/789272394,0.7
+osm_way_789296014,مستشفى اهل الغلام الأزهر,مستشفى اهل الغلام الأزهر,,مستشفى اهل الغلام الأزهر,hospital,,unknown,Sidi Moumen,,33.5984149,-7.4889641,,,,,,OSM,https://www.openstreetmap.org/way/789296014,0.7
+osm_way_789799038,Hôpital AL mansour,Hôpital AL mansour,,,hospital,,unknown,Sidi Bernoussi,,33.6075203,-7.5031634,,,,,,OSM,https://www.openstreetmap.org/way/789799038,0.7
+osm_way_945426156,Infirmerie du Lycée Lyautey,Infirmerie du Lycée Lyautey,,,radiology,,unknown,Sidi Belyout,,33.5961484,-7.6345664,,,,Lycée Lyautey,,OSM,https://www.openstreetmap.org/way/945426156,0.7
+osm_way_945426158,Centre d'Information et d'Orientation,Centre d'Information et d'Orientation,,,unknown,,unknown,Sidi Belyout,,33.5960821,-7.6351221,,,,Lycée Lyautey,,OSM,https://www.openstreetmap.org/way/945426158,0.7
+osm_way_1001376627,Clinique Jerrada Oasis,Clinique Jerrada Oasis,Clinique jerrada oasis,,clinic,,unknown,Maarif,Boulevard Abderrahim Bouabid,33.5563984,-7.6323525,,,,,,OSM,https://www.openstreetmap.org/way/1001376627,0.7
+osm_way_1105206341,,,,,hospital,general;vaccination,unknown,Moulay Rachid,,33.5750419,-7.5537357,,,,,,OSM,https://www.openstreetmap.org/way/1105206341,0.7
+osm_way_1106827597,,,,,hospital,,unknown,Moulay Rachid,,33.5725016,-7.5469397,,,,,,OSM,https://www.openstreetmap.org/way/1106827597,0.7
+osm_way_1112300053,Hôpital Bouafi,Hôpital Bouafi,,,hospital,,unknown,Al Fida,,33.5592237,-7.6098386,,,,,,OSM,https://www.openstreetmap.org/way/1112300053,0.7
+osm_way_1116899132,Centre De Rééducation Noor,Centre De Rééducation Noor,,,unknown,,unknown,Unknown,,33.4777605,-7.6391348,,,,,,OSM,https://www.openstreetmap.org/way/1116899132,0.7
+osm_way_1117680958,CENTRE DENTAIRE FEHMOUN,CENTRE DENTAIRE FEHMOUN,,,dentist,,unknown,Hay Hassani,,33.5724623,-7.6734745,,,,,,OSM,https://www.openstreetmap.org/way/1117680958,0.7
+osm_way_1359775532,Hôpital Moulay Youssef مستشفى مولاي يوسف,Hôpital Moulay Youssef مستشفى مولاي يوسف,Hôpital Moulay Youssef,مستشفى مولاي يوسف,hospital,,unknown,Sidi Belyout,Boulevard Moulay Youssef شارع مولاي يوسف,33.6026902,-7.6323317,,,,Ministère de la Santé,,OSM,https://www.openstreetmap.org/way/1359775532,0.7
+osm_way_1365494534,Hôpital Mohammed V مستشفى محمد الخامس,Hôpital Mohammed V مستشفى محمد الخامس,,,hospital,,unknown,Hay Mohammadi,Boulevard Abdelkhalek Torres,33.5893427,-7.5515381,,,,,,OSM,https://www.openstreetmap.org/way/1365494534,0.7
+osm_way_1389315700,Institut Pasteur معهد باستور,Institut Pasteur معهد باستور,Institut Pasteur,معهد باستور,hospital,,unknown,Maarif,,33.5739616,-7.623506,,,,,,OSM,https://www.openstreetmap.org/way/1389315700,0.7
+osm_way_1428866219,,,,,unknown,,unknown,Sidi Moumen,,33.5827345,-7.4828949,,,,,,OSM,https://www.openstreetmap.org/way/1428866219,0.7

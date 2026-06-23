@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="Invest Search">
+  <defs>
+    <linearGradient id="bg" x1="31" x2="161" y1="20" y2="172" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7cf2c5"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+    <filter id="shadow" x="10" y="8" width="172" height="176" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="9" stdDeviation="9" flood-color="#042f2e" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <rect x="16" y="16" width="160" height="160" rx="42" fill="url(#bg)" filter="url(#shadow)"/>
+  <path d="M54 121.5 83.7 91.8l21.2 21.2L143 74.8" fill="none" stroke="#052e22" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M118 74.8h25v25" fill="none" stroke="#052e22" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="52" y="57" width="15" height="15" rx="4" fill="#052e22" opacity=".72"/>
+  <rect x="78" y="57" width="15" height="15" rx="4" fill="#052e22" opacity=".72"/>
+  <rect x="52" y="83" width="15" height="15" rx="4" fill="#052e22" opacity=".34"/>
+  <rect x="78" y="83" width="15" height="15" rx="4" fill="#052e22" opacity=".34"/>
+</svg>

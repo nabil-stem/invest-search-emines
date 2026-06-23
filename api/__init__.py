@@ -1,0 +1,1 @@
+"""Invest Search API package."""

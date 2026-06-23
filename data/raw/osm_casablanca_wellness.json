@@ -1,0 +1,2420 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-21T16:44:40Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1746921502,
+      "lat": 33.5963077,
+      "lon": -7.6282618,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2383572052,
+      "lat": 33.511482,
+      "lon": -7.6485843,
+      "tags": {
+        "name": "salon younes",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2714832031,
+      "lat": 33.591351,
+      "lon": -7.635103,
+      "tags": {
+        "name": "Au premier",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2902579701,
+      "lat": 33.5727913,
+      "lon": -7.6203653,
+      "tags": {
+        "name": "Topara",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2903251741,
+      "lat": 33.5723557,
+      "lon": -7.6573646,
+      "tags": {
+        "name": "Au 9 Art et Beauté",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2903614168,
+      "lat": 33.5731871,
+      "lon": -7.6567208,
+      "tags": {
+        "name": "Axe Optic",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2903614172,
+      "lat": 33.5734016,
+      "lon": -7.6563561,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Lady Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2903614194,
+      "lat": 33.5707623,
+      "lon": -7.6513564,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Gymnasia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2903614195,
+      "lat": 33.5707579,
+      "lon": -7.6512491,
+      "tags": {
+        "name": "Gola",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2903627414,
+      "lat": 33.5707112,
+      "lon": -7.6262212,
+      "tags": {
+        "brand": "City Club",
+        "brand:wikidata": "Q135911738",
+        "leisure": "fitness_centre",
+        "name": "City Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2903627420,
+      "lat": 33.5692205,
+      "lon": -7.625784,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Sport plus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2935936901,
+      "lat": 33.583878,
+      "lon": -7.615435,
+      "tags": {
+        "name": "Casa Sun",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3091356733,
+      "lat": 33.5879758,
+      "lon": -7.6423673,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "20100",
+        "addr:street": "Rue Ibn Yakdane",
+        "name": "Angel",
+        "phone": "+212 5 22 39 58 17",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3091401742,
+      "lat": 33.5868547,
+      "lon": -7.6411616,
+      "tags": {
+        "name": "Lucie Saint Clair",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3199803561,
+      "lat": 33.5933612,
+      "lon": -7.6242125,
+      "tags": {
+        "addr:street": "Rue Jean-Jacques Rousseau",
+        "name": "Optique Rousseau",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3207894468,
+      "lat": 33.5948782,
+      "lon": -7.6269251,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Cabinet de réeducation et de réadaptation physique"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3207902461,
+      "lat": 33.593723,
+      "lon": -7.6272456,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Biocorp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3228678354,
+      "lat": 33.5856362,
+      "lon": -7.5827098,
+      "tags": {
+        "name": "Salon de Coiffure Monalisa",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3505973417,
+      "lat": 33.5941896,
+      "lon": -7.6184618,
+      "tags": {
+        "name": "opticien",
+        "name:it": "Ottico",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3506012441,
+      "lat": 33.593873,
+      "lon": -7.618331,
+      "tags": {
+        "name": "oscar (vente de produits de beauté)",
+        "name:it": "Oscar",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3981494274,
+      "lat": 33.6006532,
+      "lon": -7.6334953,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "New life fitness",
+        "sport": "multi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3984259307,
+      "lat": 33.6005811,
+      "lon": -7.6359695,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3984259309,
+      "lat": 33.6013747,
+      "lon": -7.6334609,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4106115791,
+      "lat": 33.5921093,
+      "lon": -7.5951004,
+      "tags": {
+        "addr:street": "Boulevards Mohammed 5",
+        "name": "Bijerch",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4193871790,
+      "lat": 33.5948845,
+      "lon": -7.6175066,
+      "tags": {
+        "name": "Salon VIP",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4193873618,
+      "lat": 33.5949244,
+      "lon": -7.6172763,
+      "tags": {
+        "name": "Option d'optique",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4193931680,
+      "lat": 33.5951284,
+      "lon": -7.6150056,
+      "tags": {
+        "beauty": "cosmetics",
+        "brand": "Yves Rocher",
+        "brand:fr": "Yves Rocher",
+        "brand:wikidata": "Q1477321",
+        "brand:wikipedia": "fr:Groupe Rocher",
+        "name": "Yves Rocher",
+        "name:fr": "Yves Rocher",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225325203,
+      "lat": 33.5867519,
+      "lon": -7.6118585,
+      "tags": {
+        "addr:street": "Boulevard de la Liberté",
+        "name": "Chez Jaid",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225325204,
+      "lat": 33.5872946,
+      "lon": -7.6124748,
+      "tags": {
+        "addr:street": "Rue de Balaabak",
+        "name": "Coiffure Abderrahim",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225325217,
+      "lat": 33.5864994,
+      "lon": -7.6116963,
+      "tags": {
+        "addr:street": "Boulevard de la Liberté",
+        "name": "Le Grand Casa",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225325259,
+      "lat": 33.585817,
+      "lon": -7.612097,
+      "tags": {
+        "addr:street": "Boulevard d'Alsace",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4446776590,
+      "lat": 33.5946408,
+      "lon": -7.6412953,
+      "tags": {
+        "name:en": "Moroccan Legacy",
+        "name:ro": "Moroccan Legacy",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4547898090,
+      "lat": 33.5465499,
+      "lon": -7.6024994,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Club Nabil جمعية نبيل",
+        "name:ar": "جمعية نبيل",
+        "name:fr": "Club Nabil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4694201589,
+      "lat": 33.5933779,
+      "lon": -7.6054521,
+      "tags": {
+        "brand": "City Club",
+        "brand:wikidata": "Q135911738",
+        "leisure": "fitness_centre",
+        "name": "City Club",
+        "name:fr": "City club mohamed 5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4954539021,
+      "lat": 33.5905697,
+      "lon": -7.6326716,
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:postcode": "20600",
+        "addr:street": "Rue Najib Mahfoud زنقة نجيب محفوظ",
+        "internet_access": "wlan",
+        "name": "Noor نور",
+        "name:ar": "نور",
+        "name:fr": "Noor",
+        "opening_hours": "Tu-Su 09:30-18:30",
+        "phone": "+212 5 22 26 23 52",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5083556788,
+      "lat": 33.557439,
+      "lon": -7.669176,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:suburb": "Résidence Al Firdaous",
+        "leisure": "fitness_centre",
+        "name": "Complexe Sportif Al Firdaouss",
+        "phone": "+212 522 93 15 39",
+        "website": "http://www.csfcasa.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5111051021,
+      "lat": 33.5615291,
+      "lon": -7.6119479,
+      "tags": {
+        "addr:street": "Boulevard Modibo Keita",
+        "leisure": "fitness_centre",
+        "name": "Casaforme",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5243518535,
+      "lat": 33.5505314,
+      "lon": -7.6804977,
+      "tags": {
+        "name": "sarrasins",
+        "name:fr": "sarrasins",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5420577825,
+      "lat": 33.6074748,
+      "lon": -7.5403507,
+      "tags": {
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5420577826,
+      "lat": 33.6075391,
+      "lon": -7.5396487,
+      "tags": {
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5420613421,
+      "lat": 33.607896,
+      "lon": -7.5411524,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5579516426,
+      "lat": 33.5751331,
+      "lon": -7.6155907,
+      "tags": {
+        "addr:street": "Avenue 2 Mars",
+        "name": "Maison d'Opticia",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5579637829,
+      "lat": 33.5717765,
+      "lon": -7.6138312,
+      "tags": {
+        "addr:street": "Avenue 2 Mars",
+        "name": "Lens Optic",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5582923418,
+      "lat": 33.5398745,
+      "lon": -7.5999648,
+      "tags": {
+        "addr:street": "Avenue 2 Mars",
+        "name": "Notroptic",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5589450914,
+      "lat": 33.5708647,
+      "lon": -7.5874744,
+      "tags": {
+        "addr:street": "Rue 54",
+        "name": "Youre Style",
+        "shop": "hairdresser",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5633168166,
+      "lat": 33.5889573,
+      "lon": -7.618669,
+      "tags": {
+        "addr:street": "Avenue Mers Sultan",
+        "name": "Mail Optic",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5636182869,
+      "lat": 33.5672085,
+      "lon": -7.6264831,
+      "tags": {
+        "addr:street": "Boulevard Abdelmoumen",
+        "name": "Guessous Optic",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5636182900,
+      "lat": 33.5773209,
+      "lon": -7.6258649,
+      "tags": {
+        "addr:street": "Boulevard Abdelmoumen",
+        "name": "Gam'Optic",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5636182962,
+      "lat": 33.5567808,
+      "lon": -7.6254009,
+      "tags": {
+        "addr:street": "Boulevard Taddart",
+        "name": "New Vision",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5636207691,
+      "lat": 33.5873863,
+      "lon": -7.6182354,
+      "tags": {
+        "addr:street": "Rue Mostafa Al Maani",
+        "name": "Optique Optemetrie Miri",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5636207693,
+      "lat": 33.5874757,
+      "lon": -7.6195885,
+      "tags": {
+        "addr:street": "Rue Omarslaoui",
+        "name": "Alpha Optic",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5636207745,
+      "lat": 33.5866501,
+      "lon": -7.621503,
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "name": "Prim Optic",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5636207806,
+      "lat": 33.5835721,
+      "lon": -7.6196972,
+      "tags": {
+        "addr:street": "Rue Agadir",
+        "name": "La Lanette",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5636207823,
+      "lat": 33.5847173,
+      "lon": -7.6215559,
+      "tags": {
+        "addr:street": "Rue Mostafa Al Maani",
+        "name": "Opti Plus",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5638347871,
+      "lat": 33.5817901,
+      "lon": -7.6261096,
+      "tags": {
+        "addr:street": "Rue Ibn Khalqane",
+        "name": "Phénix Optique",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5649874867,
+      "lat": 33.5744051,
+      "lon": -7.6373472,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:street": "Rue Racine زنقة راسين",
+        "name": "Musée de l'Optique",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657167265,
+      "lat": 33.5862289,
+      "lon": -7.6149845,
+      "tags": {
+        "addr:street": "Rue Hadj Omar Riffi",
+        "name": "Soft Optical",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657167271,
+      "lat": 33.5846491,
+      "lon": -7.6159447,
+      "tags": {
+        "addr:street": "Rue Zerhoune",
+        "name": "Optic Lux",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657167278,
+      "lat": 33.584038,
+      "lon": -7.6141101,
+      "tags": {
+        "addr:street": "Rue de Suippes",
+        "leisure": "fitness_centre",
+        "name": "Gym Club",
+        "name:fr": "Gym Club",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657167307,
+      "lat": 33.5857194,
+      "lon": -7.6187946,
+      "tags": {
+        "addr:street": "Rue Tarrablous",
+        "name": "Optique Hoidou",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657171563,
+      "lat": 33.5894095,
+      "lon": -7.6079531,
+      "tags": {
+        "addr:street": "Boulevard de Khouribga",
+        "name": "Nabiha Optic",
+        "shop": "optician",
+        "source": "KaartGroundSurvey2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5664725431,
+      "lat": 33.5581186,
+      "lon": -7.680649,
+      "tags": {
+        "addr:street": "Boulevard d'Oued Oum Rabia",
+        "name": "Tahiri Optic",
+        "shop": "optician",
+        "source": "KaartGroundSurvey2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5664725436,
+      "lat": 33.556887,
+      "lon": -7.6827908,
+      "tags": {
+        "addr:street": "Boulevard d'Oued Oum Rabia",
+        "name": "Ophtalmologie",
+        "shop": "optician",
+        "source": "KaartGroundSurvey2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5664725439,
+      "lat": 33.5560689,
+      "lon": -7.6834895,
+      "tags": {
+        "addr:street": "Boulevard Oued Oum Rabia",
+        "name": "Optic",
+        "shop": "optician",
+        "source": "KaartGroundSurvey2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5664725448,
+      "lat": 33.5570697,
+      "lon": -7.6828296,
+      "tags": {
+        "addr:street": "Rue 48",
+        "name": "Ophtalmologie",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5685795288,
+      "lat": 33.5421721,
+      "lon": -7.6770803,
+      "tags": {
+        "name": "Optic Free Vision",
+        "shop": "optician",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6411421121,
+      "lat": 33.536808,
+      "lon": -7.7264502,
+      "tags": {
+        "name": "Opticien Errahma",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6525264994,
+      "lat": 33.6119676,
+      "lon": -7.5307385,
+      "tags": {
+        "addr:street": "Boulevard de la Gare",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6567406903,
+      "lat": 33.5193395,
+      "lon": -7.6446398,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Gymnaze Zamzam (Sport & Hammam)",
+        "sport": "fitness;swimming;gymnastics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6585808985,
+      "lat": 33.5381309,
+      "lon": -7.648052,
+      "tags": {
+        "name:en": "British Style",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6593172836,
+      "lat": 33.5140932,
+      "lon": -7.654435,
+      "tags": {
+        "name": "Optique Al Hamd",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6670464386,
+      "lat": 33.5698486,
+      "lon": -7.539567,
+      "tags": {
+        "name": "مسجد الامام مالك",
+        "name:ar": "مسجد الامام مالك",
+        "name:en": "Imam malik",
+        "name:fr": "Imam malik",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098401585,
+      "lat": 33.5533219,
+      "lon": -7.7045851,
+      "tags": {
+        "name:en": "Barber King",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7168971472,
+      "lat": 33.615508,
+      "lon": -7.4969551,
+      "tags": {
+        "leisure": "fitness_centre",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7169432318,
+      "lat": 33.6105871,
+      "lon": -7.4996239,
+      "tags": {
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7563521212,
+      "lat": 33.5918094,
+      "lon": -7.6368295,
+      "tags": {
+        "addr:street": "Boulevard Mohamed Zerktouni شارع محمد الزرقطوني",
+        "branch": "Zerktouni",
+        "brand": "City Club",
+        "brand:wikidata": "Q135911738",
+        "check_date": "2025-08-23",
+        "leisure": "fitness_centre",
+        "name": "City Club",
+        "phone": "+212 5 22 64 70 00",
+        "website": "https://cityclub.fitness/les-clubs/city-club-zarktouni/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7630113985,
+      "lat": 33.5836411,
+      "lon": -7.5257101,
+      "tags": {
+        "addr:postcode": "20600",
+        "addr:street": "rue 2 Lot al Houda N124",
+        "email": "parfumerie.abudhabi@gmail.com",
+        "name": "عطور ابو ظبي",
+        "name:ar": "عطور ابو ظبي",
+        "name:fr": "Parfumerie Abudhabi",
+        "opening_hours": "Mo-Su 10:00-22:30",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8188539825,
+      "lat": 33.5865449,
+      "lon": -7.6079158,
+      "tags": {
+        "contact:facebook": "https://www.facebook.com/Chater.parfumerie",
+        "contact:instagram": "https://www.instagram.com/parfumeriechater/",
+        "name": "Parfumerie Chatér",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8500950913,
+      "lat": 33.5860795,
+      "lon": -7.6127352,
+      "tags": {
+        "contact:instagram": "https://www.instagram.com/le_barberon_star/",
+        "name": "Le Barberon Star",
+        "phone": "+212 6 15 70 78 92; +212 6 36 47 77 73",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8756483706,
+      "lat": 33.5604933,
+      "lon": -7.6479668,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Raja Club Athletic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8758568668,
+      "lat": 33.5796944,
+      "lon": -7.6801845,
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:street": "Lotissement Ouba",
+        "building": "big_house",
+        "fee": "yes",
+        "leisure": "sports_centre",
+        "name": "Casa Crossfit",
+        "sport": "crossfit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9052826518,
+      "lat": 33.57627,
+      "lon": -7.6462637,
+      "tags": {
+        "addr:housenumber": "18",
+        "addr:postcode": "20000",
+        "addr:street": "Espace Ibnou Katir",
+        "name:en": "The Gentlemn’s",
+        "name:fr": "The Gentlemen’s",
+        "opening_hours": "Mo-Su 09:30-07:30",
+        "phone": "+212 5 22 98 58 40",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9259498719,
+      "lat": 33.5751756,
+      "lon": -7.6456373,
+      "tags": {
+        "name:fr": "Coiffure Bingo",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9259498720,
+      "lat": 33.57496,
+      "lon": -7.6454741,
+      "tags": {
+        "name:fr": "Zen",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9259605518,
+      "lat": 33.5752507,
+      "lon": -7.6468755,
+      "tags": {
+        "name:fr": "Total Look",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9260468117,
+      "lat": 33.575523,
+      "lon": -7.646413,
+      "tags": {
+        "name:fr": "Abdel Ghani",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9620906372,
+      "lat": 33.5826371,
+      "lon": -7.6198185,
+      "tags": {
+        "branch": "Zerktouni",
+        "brand": "Anytime Fitness",
+        "brand:wikidata": "Q4778364",
+        "leisure": "fitness_centre",
+        "name": "Anytime Fitness",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9820636435,
+      "lat": 33.5672405,
+      "lon": -7.6386537,
+      "tags": {
+        "name": "Estheslim Minceur & Anti-âge",
+        "shop": "beauty",
+        "website": "https://estheslim.business.site"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10129002758,
+      "lat": 33.5963597,
+      "lon": -7.6280482,
+      "tags": {
+        "name": "Amira Salon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10292837472,
+      "lat": 33.5910209,
+      "lon": -7.6325293,
+      "tags": {
+        "contact:instagram": "https://instagram/anwar_vip_barber",
+        "male": "only",
+        "name": "Anwar Barber Lounge",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+212 520 020 305",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10293840417,
+      "lat": 33.593528,
+      "lon": -7.6417122,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Rue Jabal Abou Billal",
+        "beauty": "spa",
+        "level": "0",
+        "name": "Effervosens",
+        "phone": "+212 5 22 26 47 15",
+        "shop": "beauty",
+        "website": "https://effervosens.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10293840513,
+      "lat": 33.5856789,
+      "lon": -7.6426021,
+      "tags": {
+        "addr:street": "Rue Abou Hayane Al Gharnati زنقة أبو حيان الغرناطي",
+        "check_date": "2024-12-18",
+        "name": "Esthecare",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10657554005,
+      "lat": 33.5905189,
+      "lon": -7.6344021,
+      "tags": {
+        "name:fr": "SPA ONLY COIFFURE",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10789710887,
+      "lat": 33.5986802,
+      "lon": -7.6369146,
+      "tags": {
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11214425247,
+      "lat": 33.5673981,
+      "lon": -7.6062012,
+      "tags": {
+        "name": "الحلاق كريم",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11217016124,
+      "lat": 33.5762024,
+      "lon": -7.564899,
+      "tags": {
+        "amenity": "parking_space",
+        "name": "موقف السيارات"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11218752151,
+      "lat": 33.5885735,
+      "lon": -7.612102,
+      "tags": {
+        "amenity": "parking_space",
+        "name": "موقف السيارات"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11219562747,
+      "lat": 33.5640144,
+      "lon": -7.5990052,
+      "tags": {
+        "amenity": "parking_space",
+        "name": "موقف السيارات"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11221900755,
+      "lat": 33.5972328,
+      "lon": -7.6244531,
+      "tags": {
+        "amenity": "parking_space",
+        "name": "موقف السيارات"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11221913240,
+      "lat": 33.5947876,
+      "lon": -7.6224322,
+      "tags": {
+        "amenity": "parking_space",
+        "name": "موقف السيارات"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11410285773,
+      "lat": 33.5918491,
+      "lon": -7.6147677,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11410362900,
+      "lat": 33.5936486,
+      "lon": -7.6162301,
+      "tags": {
+        "name:en": "Salon Belfakih",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11413664284,
+      "lat": 33.5924201,
+      "lon": -7.6157298,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11418086125,
+      "lat": 33.5918727,
+      "lon": -7.6288711,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "جمعية بيلير",
+        "name:ar": "جمعية بيلير",
+        "name:fr": "Association Bel air",
+        "opening_hours": "Mo-Fr 08:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11418152119,
+      "lat": 33.5894594,
+      "lon": -7.6280169,
+      "tags": {
+        "name": "Source Zen",
+        "opening_hours": "PH,Mo-Su 08:00-22:00",
+        "shop": "massage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11446076178,
+      "lat": 33.5892429,
+      "lon": -7.6281034,
+      "tags": {
+        "name": "SPA carita",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11446225453,
+      "lat": 33.5893925,
+      "lon": -7.6281752,
+      "tags": {
+        "female": "yes",
+        "name": "Carita",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11449695526,
+      "lat": 33.589048,
+      "lon": -7.6309556,
+      "tags": {
+        "name": "Centre dream PH",
+        "shop": "massage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11630482009,
+      "lat": 33.5401904,
+      "lon": -7.6802663,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12113426692,
+      "lat": 33.588274,
+      "lon": -7.638418,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:postcode": "20100",
+        "addr:street": "Rue Turgot",
+        "check_date": "2024-10-03",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNwsYGd3sXHoTx0buU5lvqq_OPZpLmeDeYuVlnW=s1360-w1360-h1020",
+        "mobile": "+212 6 68 40 65 58",
+        "name": "Ô Comptoir des Dames",
+        "phone": "+212 5 20 40 52 70",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12113618487,
+      "lat": 33.588541,
+      "lon": -7.6402761,
+      "tags": {
+        "addr:street": "Urban Square",
+        "brand": "Fitness Park",
+        "brand:wikidata": "Q102351191",
+        "check_date": "2024-11-08",
+        "leisure": "fitness_centre",
+        "name": "Fitness Park",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12123301308,
+      "lat": 33.5960486,
+      "lon": -7.6405102,
+      "tags": {
+        "check_date": "2025-06-16",
+        "hairdresser": "barber",
+        "male": "yes",
+        "mapillary": "1182802818854206",
+        "name": "Coiffure Badr",
+        "payment:cash": "yes",
+        "payment:others": "no",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12163132578,
+      "lat": 33.5712612,
+      "lon": -7.6459067,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:street": "Rue des Asphodelle زنقة أصفوديل",
+        "amenity": "coworking_space",
+        "check_date": "2024-09-08",
+        "fee": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "Syllabus Coworking",
+        "official_name": "Syllabus coworking",
+        "opening_hours": "24/7",
+        "phone": "+212 7 73 17 28 93",
+        "website": "https://syllabuscoworking.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12300088801,
+      "lat": 33.5801693,
+      "lon": -7.6415637,
+      "tags": {
+        "addr:street": "Rue Al Mansour Al Abidi زنقة المنصور العابدي",
+        "check_date": "2024-10-29",
+        "female": "yes",
+        "name": "Lady Hairstyle",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12300088842,
+      "lat": 33.5813103,
+      "lon": -7.6403656,
+      "tags": {
+        "addr:street": "Rue Ibn Jilali Tajeddine زنقة إبن الجيلالي تاج الدين",
+        "check_date": "2024-10-29",
+        "name": "Oxygene",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12313025706,
+      "lat": 33.5801252,
+      "lon": -7.6426235,
+      "tags": {
+        "addr:street": "Rue Brahim Nakhai زنقة إبراهيم النخعي",
+        "check_date": "2024-11-03",
+        "name": "Karppes Center",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12315492617,
+      "lat": 33.5816836,
+      "lon": -7.6422699,
+      "tags": {
+        "addr:street": "Rue Al Fourate زنقة الفرات",
+        "check_date": "2024-11-05",
+        "hairdresser": "barber",
+        "name": "حلاقة الإدريسي",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12315492618,
+      "lat": 33.5817247,
+      "lon": -7.6423223,
+      "tags": {
+        "addr:street": "Rue Al Fourate زنقة الفرات",
+        "check_date": "2024-11-05",
+        "hairdresser": "barber",
+        "name": "Coiffeur Driss El Abdi",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12320323710,
+      "lat": 33.5822629,
+      "lon": -7.6408962,
+      "tags": {
+        "addr:street": "Rue Abou Ishak Chirazi",
+        "check_date": "2024-11-07",
+        "name": "Coiffeur Skandar",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12320338581,
+      "lat": 33.5816735,
+      "lon": -7.6405583,
+      "tags": {
+        "addr:street": "Rue Ibn Jilali Tajeddine زنقة إبن الجيلالي تاج الدين",
+        "check_date": "2024-11-07",
+        "name": "NICE",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12320338585,
+      "lat": 33.5818841,
+      "lon": -7.640668,
+      "tags": {
+        "addr:street": "Rue Ibn Jilali Tajeddine زنقة إبن الجيلالي تاج الدين",
+        "check_date": "2024-11-07",
+        "name": "Previa Maroc",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12323348627,
+      "lat": 33.5810601,
+      "lon": -7.6398341,
+      "tags": {
+        "addr:street": "Rue Abou Ghaleb Chiane",
+        "check_date": "2024-11-08",
+        "hairdresser": "barber",
+        "name": "Coiffure Cannes",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12324111894,
+      "lat": 33.5867878,
+      "lon": -7.6443464,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:street": "Rue Ali Abderrazzak زنقة علي عبد الرزاق",
+        "branch": "Anfa",
+        "brand": "Anytime Fitness",
+        "brand:wikidata": "Q4778364",
+        "check_date": "2026-04-23",
+        "leisure": "fitness_centre",
+        "name": "Anytime Fitness",
+        "opening_hours": "24/7",
+        "phone": "+212 6 64 91 29 35",
+        "website": "https://www.anytimefitness.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12334570405,
+      "lat": 33.5799275,
+      "lon": -7.6405671,
+      "tags": {
+        "addr:street": "Rue Al Fourate زنقة الفرات",
+        "name": "Optical Discount",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12497880550,
+      "lat": 33.5810808,
+      "lon": -7.6395864,
+      "tags": {
+        "addr:street": "Rue Abou Ghaleb Chiane",
+        "name": "A CORPS PARFAIT",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12497880551,
+      "lat": 33.5810551,
+      "lon": -7.6394034,
+      "tags": {
+        "addr:street": "Rue Abou Ghaleb Chiane",
+        "leisure": "fitness_centre",
+        "name": "GO FITNESS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12506546431,
+      "lat": 33.5814196,
+      "lon": -7.6391544,
+      "tags": {
+        "addr:housenumber": "119",
+        "addr:street": "Boulevard Bir Anzarane شارع بئر أنزران",
+        "name": "OPTIQUE BIR ANZARANE",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12526429702,
+      "lat": 33.5807395,
+      "lon": -7.6381831,
+      "tags": {
+        "addr:street": "Rue Bussang",
+        "name": "TAK OPTIC",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12915342606,
+      "lat": 33.5901585,
+      "lon": -7.6768856,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Unique Fitness Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13067980594,
+      "lat": 33.5850738,
+      "lon": -7.6383308,
+      "tags": {
+        "hairdresser": "barber",
+        "name": "Fresh Fade Barbershop",
+        "phone": "+212 6 33 64 06 34",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13092969224,
+      "lat": 33.5866623,
+      "lon": -7.6383139,
+      "tags": {
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13109298255,
+      "lat": 33.5725428,
+      "lon": -7.6371134,
+      "tags": {
+        "addr:street": "Rue Stéphane Mallarmé",
+        "branch": "Val Fleuri",
+        "leisure": "fitness_centre",
+        "name": "City Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13203532063,
+      "lat": 33.586585,
+      "lon": -7.63435,
+      "tags": {
+        "brand": "MAC Cosmetics",
+        "brand:wikidata": "Q2624442",
+        "name": "MAC Cosmetics",
+        "shop": "cosmetics",
+        "short_name": "M·A·C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13203557635,
+      "lat": 33.5865324,
+      "lon": -7.6368948,
+      "tags": {
+        "name": "Concept Coiffure",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13284675501,
+      "lat": 33.5412646,
+      "lon": -7.6832145,
+      "tags": {
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "Ronnie Gym",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13321724980,
+      "lat": 33.5727893,
+      "lon": -7.686831,
+      "tags": {
+        "addr:street": "Boulevard Abdelhadi Boutaleb شارع عبد الهادي بوطالب",
+        "leisure": "fitness_centre",
+        "name": "La Corniche"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13321924953,
+      "lat": 33.5749696,
+      "lon": -7.6822047,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "MegaFit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13363479059,
+      "lat": 33.5859218,
+      "lon": -7.6455622,
+      "tags": {
+        "addr:street": "Boulevard Bir Anzarane شارع بئر أنزران",
+        "name": "L'Atelier de Coiffure",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13733924889,
+      "lat": 33.5354409,
+      "lon": -7.6099126,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:housenumber": "511",
+        "addr:postcode": "20500",
+        "addr:street": "Boulevard Al Quds شارع القدس",
+        "name": "Flourish Soap",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+212 7 81 00 62 68",
+        "shop": "cosmetics",
+        "website": "https://www.flourishsoap.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13824724387,
+      "lat": 33.5752453,
+      "lon": -7.6472235,
+      "tags": {
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13824724388,
+      "lat": 33.5748191,
+      "lon": -7.6482152,
+      "tags": {
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13824724390,
+      "lat": 33.5751853,
+      "lon": -7.6486694,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13853481766,
+      "lat": 33.5822555,
+      "lon": -7.6384512,
+      "tags": {
+        "name": "Optic 2002",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13853743588,
+      "lat": 33.5765384,
+      "lon": -7.6377008,
+      "tags": {
+        "name": "Vision For All",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13853903231,
+      "lat": 33.5869015,
+      "lon": -7.6358246,
+      "tags": {
+        "name": "Faces",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13858983289,
+      "lat": 33.5875763,
+      "lon": -7.6361405,
+      "tags": {
+        "name": "Galerie Optic",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13861018497,
+      "lat": 33.5880937,
+      "lon": -7.6400345,
+      "tags": {
+        "name": "Matuvue",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13905848515,
+      "lat": 33.5839903,
+      "lon": -7.6407401,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Armor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13921186537,
+      "lat": 33.5865573,
+      "lon": -7.6346229,
+      "tags": {
+        "name": "Mia Makeup",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13921186542,
+      "lat": 33.5863787,
+      "lon": -7.6343505,
+      "tags": {
+        "name": "Lynx Optique",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13921222748,
+      "lat": 33.5857315,
+      "lon": -7.6377562,
+      "tags": {
+        "name": "Pleine Vue Optique",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13921272146,
+      "lat": 33.5875953,
+      "lon": -7.640381,
+      "tags": {
+        "name": "avril",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13921293028,
+      "lat": 33.5898769,
+      "lon": -7.6402138,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Unique Fitness Clubs"
+      }
+    },
+    {
+      "type": "way",
+      "id": 57899274,
+      "center": {
+        "lat": 33.5972558,
+        "lon": -7.6778211
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Miami",
+        "source": "Yahoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 105623007,
+      "center": {
+        "lat": 33.5974071,
+        "lon": -7.6244796
+      },
+      "tags": {
+        "amenity": "parking_space",
+        "name": "موقف السيارات"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129539668,
+      "center": {
+        "lat": 33.5952677,
+        "lon": -7.678942
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Sunbeach club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168411360,
+      "center": {
+        "lat": 33.5984204,
+        "lon": -7.6349726
+      },
+      "tags": {
+        "barrier": "wall",
+        "check_date": "2025-06-05",
+        "designation": "Beaulieu - Annexe Lycée Lyautey",
+        "leisure": "sports_centre",
+        "name": "Beaulieu - Annexe Lycée Lyautey",
+        "operator": "Lycée Lyautey",
+        "operator:type": "private",
+        "sport": "volleyball;soccer;basketball;running;swimming;beachvolleyball"
+      }
+    },
+    {
+      "type": "way",
+      "id": 214289475,
+      "center": {
+        "lat": 33.5636915,
+        "lon": -7.6510464
+      },
+      "tags": {
+        "check_date": "2025-06-14",
+        "contact:facebook": "https://www.facebook.com/cafcgeneral/",
+        "contact:instagram": "https://www.instagram.com/cafc_officiel",
+        "email": "communication@cafc.ma",
+        "leisure": "sports_centre",
+        "name": "Cercle Amical Français de Casablanca",
+        "phone": "+212 5 22 25 50 05",
+        "short_name": "CAFC",
+        "sport": "soccer;tennis;basketball;swimming;padel;running",
+        "website": "https://cafc.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244038193,
+      "center": {
+        "lat": 33.5585131,
+        "lon": -7.5580431
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "leisure": "sports_centre",
+        "name": "Annexe sportif - Lycée Idriss Alharti",
+        "operator:type": "public",
+        "sport": "multi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262518178,
+      "center": {
+        "lat": 33.5442077,
+        "lon": -7.5519462
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Club Sidi Othmane",
+        "sport": "equestrian",
+        "surface": "grass"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428061725,
+      "center": {
+        "lat": 33.5672347,
+        "lon": -7.5351475
+      },
+      "tags": {
+        "leisure": "sports_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 477554778,
+      "center": {
+        "lat": 33.5649887,
+        "lon": -7.5765503
+      },
+      "tags": {
+        "leisure": "sports_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 519768868,
+      "center": {
+        "lat": 33.5208741,
+        "lon": -7.6586478
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Salle Couverte Ennasin",
+        "sport": "soccer;basketball;karate"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550520145,
+      "center": {
+        "lat": 33.5954643,
+        "lon": -7.6220016
+      },
+      "tags": {
+        "leisure": "sports_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550655460,
+      "center": {
+        "lat": 33.5652157,
+        "lon": -7.5988632
+      },
+      "tags": {
+        "amenity": "parking_space",
+        "name": "موقف السيارات"
+      }
+    },
+    {
+      "type": "way",
+      "id": 575232477,
+      "center": {
+        "lat": 33.5485807,
+        "lon": -7.5671516
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Centre Omnisports Sbata"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588233023,
+      "center": {
+        "lat": 33.5586159,
+        "lon": -7.6472939
+      },
+      "tags": {
+        "addr:street": "Boulevard de Bouskoura شارع بوسكورة",
+        "check_date": "2025-06-14",
+        "leisure": "sports_centre",
+        "name": "Complexe Sportif Haj Mohamed Benjelloun",
+        "operator": "Wydad Athletic Club",
+        "operator:type": "private",
+        "wikidata": "Q2990459",
+        "wikipedia": "fr:Complexe Mohamed Benjelloun"
+      }
+    },
+    {
+      "type": "way",
+      "id": 702102294,
+      "center": {
+        "lat": 33.5244593,
+        "lon": -7.6449076
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Centre Socio-Sportif Sidi Maarouf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1041070801,
+      "center": {
+        "lat": 33.5506479,
+        "lon": -7.7218875
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Moundir Tennis Academy",
+        "sport": "tennis;swimming"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1041951031,
+      "center": {
+        "lat": 33.4860052,
+        "lon": -7.7175936
+      },
+      "tags": {
+        "check_date": "2025-03-02",
+        "leisure": "sports_centre",
+        "name": "Académie Raja Club Athletic أكاديمية نادي الرجاء الرياضي",
+        "name:ar": "أكاديمية نادي الرجاء الرياضي",
+        "name:fr": "Académie Raja Club Athletic",
+        "operator": "Raja Club Athletic",
+        "operator:type": "private",
+        "sport": "soccer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117678278,
+      "center": {
+        "lat": 33.5945128,
+        "lon": -7.6218993
+      },
+      "tags": {
+        "amenity": "parking_space",
+        "name": "موقف السيارات"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1152560570,
+      "center": {
+        "lat": 33.6239907,
+        "lon": -7.5270356
+      },
+      "tags": {
+        "leisure": "sports_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1217642432,
+      "center": {
+        "lat": 33.5838112,
+        "lon": -7.5641629
+      },
+      "tags": {
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Sport Center Hay Mohammadi",
+        "sport": "basketball;volleyball"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308317550,
+      "center": {
+        "lat": 33.5821543,
+        "lon": -7.6492149
+      },
+      "tags": {
+        "addr:street": "Rue Socrate زنقة سقراط",
+        "check_date": "2025-04-02",
+        "leisure": "sports_centre",
+        "name": "Ginga Foot",
+        "operator": "Ginga Foot",
+        "operator:type": "private",
+        "sport": "soccer;basketball",
+        "website": "https://gingasport.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308347213,
+      "center": {
+        "lat": 33.5806582,
+        "lon": -7.6453155
+      },
+      "tags": {
+        "addr:street": "Rue Caid Al Achtar زنقة القيد الأشطر",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Piscine Olympique ⴰⵙⵓⵛⴼ ⵓⵍⴰⵎⴱⵉ المسبح الأولمبي",
+        "name:ar": "المسبح الأولمبي",
+        "name:fr": "Piscine Olympique",
+        "name:zgh": "ⴰⵙⵓⵛⴼ ⵓⵍⴰⵎⴱⵉ",
+        "sport": "swimming"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308525671,
+      "center": {
+        "lat": 33.5596265,
+        "lon": -7.6495402
+      },
+      "tags": {
+        "check_date": "2025-09-20",
+        "leisure": "sports_centre",
+        "name": "Racing Universitaire de Casablanca",
+        "short_name": "RUC",
+        "sport": "tennis;rugby_union"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317026777,
+      "center": {
+        "lat": 33.4918391,
+        "lon": -7.5333431
+      },
+      "tags": {
+        "leisure": "sports_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319116030,
+      "center": {
+        "lat": 33.5993623,
+        "lon": -7.5633359
+      },
+      "tags": {
+        "leisure": "sports_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319643501,
+      "center": {
+        "lat": 33.5713176,
+        "lon": -7.5661712
+      },
+      "tags": {
+        "leisure": "sports_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1326094808,
+      "center": {
+        "lat": 33.5583833,
+        "lon": -7.6503917
+      },
+      "tags": {
+        "check_date": "2024-10-19",
+        "leisure": "sports_centre",
+        "name": "Étoile de la Jeunesse Sportive نجم الشباب الرياضي",
+        "name:ar": "نجم الشباب الرياضي",
+        "name:fr": "Étoile de la Jeunesse Sportive",
+        "operator": "Étoile de la Jeunesse Sportive",
+        "operator:type": "private",
+        "sport": "soccer",
+        "wikidata": "Q3592480",
+        "wikipedia": "fr:Étoile jeunesse sportive de Casablanca (football)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1342707522,
+      "center": {
+        "lat": 33.5776283,
+        "lon": -7.6885492
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "leisure": "sports_centre",
+        "name": "Oceanic Club de Casablanca",
+        "phone": "+212 5 22 79 76 26",
+        "short_name": "OCC",
+        "sport": "tennis;soccer;padel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1349867151,
+      "center": {
+        "lat": 33.5947479,
+        "lon": -7.6533461
+      },
+      "tags": {
+        "addr:street": "Boulevard de Bourgogne شارع بوركون",
+        "check_date": "2025-01-09",
+        "leisure": "sports_centre",
+        "mapillary": "1123269164819425",
+        "name": "Bank of Africa Club",
+        "operator": "Bank of Africa",
+        "operator:type": "private",
+        "sport": "tennis;soccer;padel;basketball;swimming"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1361144247,
+      "center": {
+        "lat": 33.5496802,
+        "lon": -7.6373355
+      },
+      "tags": {
+        "check_date": "2025-02-19",
+        "leisure": "sports_centre",
+        "name": "City Foot 5",
+        "sport": "soccer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1361144248,
+      "center": {
+        "lat": 33.5489714,
+        "lon": -7.6373996
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "City Ball",
+        "sport": "padel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1361187524,
+      "center": {
+        "lat": 33.5597583,
+        "lon": -7.646323
+      },
+      "tags": {
+        "check_date": "2025-06-14",
+        "leisure": "sports_centre",
+        "name": "Club Olympique de Casablanca",
+        "operator": "Club Olympique de Casablanca",
+        "operator:type": "private",
+        "short_name": "COC",
+        "sport": "tennis;volleyball;padel;rugby_union"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1362742082,
+      "center": {
+        "lat": 33.5598193,
+        "lon": -7.6407447
+      },
+      "tags": {
+        "addr:street": "Rue Azema",
+        "check_date": "2025-09-29",
+        "leisure": "sports_centre",
+        "name": "Club Socio-Sportif Bank Al-Maghrib",
+        "operator": "Bank Al-Maghrib",
+        "operator:type": "public",
+        "sport": "tennis;soccer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1362744612,
+      "center": {
+        "lat": 33.5652488,
+        "lon": -7.6433905
+      },
+      "tags": {
+        "addr:housenumber": "365",
+        "addr:street": "Route Al Jamiaa",
+        "check_date": "2025-02-25",
+        "leisure": "sports_centre",
+        "name": "Stade Olympique Casablancais",
+        "operator:type": "private",
+        "short_name": "SOC",
+        "sport": "tennis;soccer;padel;basketball;volleyball"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1362746901,
+      "center": {
+        "lat": 33.5569891,
+        "lon": -7.6377077
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Napht Club",
+        "sport": "basketball;tennis;soccer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1364347759,
+      "center": {
+        "lat": 33.5974873,
+        "lon": -7.6682183
+      },
+      "tags": {
+        "addr:street": "Boulevard de la Corniche شارع الكورنيش",
+        "check_date": "2025-04-24",
+        "email": "info@pleinciel.ma",
+        "fax": "+212 5 22 79 78 79",
+        "leisure": "sports_centre",
+        "name": "Plein Ciel Paradise",
+        "operator:type": "private",
+        "phone": "+212 5 22 79 79 79",
+        "sport": "soccer;tennis;padel;swimming",
+        "website": "https://www.clubparadise.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1368230241,
+      "center": {
+        "lat": 33.5844288,
+        "lon": -7.641593
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:street": "Rue Chaikh Zarrouk",
+        "check_date": "2025-03-17",
+        "leisure": "sports_centre",
+        "mapillary": "789535785036604",
+        "name": "Boule Sportive Maarifienne الكرة الرياضية المعاريفية",
+        "name:ar": "الكرة الرياضية المعاريفية",
+        "name:fr": "Boule Sportive Maarifienne",
+        "operator": "Boule Sportive Maarifienne",
+        "operator:type": "private",
+        "sport": "petanque"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1370374650,
+      "center": {
+        "lat": 33.5889573,
+        "lon": -7.6219004
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "La Casablancaise",
+        "wikidata": "Q20726076",
+        "wikipedia": "fr:La Casablancaise"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372712391,
+      "center": {
+        "lat": 33.5737514,
+        "lon": -7.6634453
+      },
+      "tags": {
+        "check_date": "2025-08-23",
+        "leisure": "sports_centre",
+        "name": "Club de la Banque Populaire",
+        "operator": "Banque Populaire",
+        "sport": "tennis;soccer;basketball;swimming"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1373564255,
+      "center": {
+        "lat": 33.580414,
+        "lon": -7.6455504
+      },
+      "tags": {
+        "check_date": "2025-04-01",
+        "leisure": "sports_centre",
+        "name": "Complexe Sportif Mohammed V المركب الرياضي محمد الخامس",
+        "name:ar": "المركب الرياضي محمد الخامس",
+        "name:fr": "Complexe Sportif Mohammed V"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1373564259,
+      "center": {
+        "lat": 33.57931,
+        "lon": -7.6454788
+      },
+      "tags": {
+        "boules": "petanque",
+        "leisure": "sports_centre",
+        "name": "Association Sportive Casablancaise",
+        "sport": "boules"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1374538268,
+      "center": {
+        "lat": 33.5955471,
+        "lon": -7.6438165
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Centre d'Accueil Bourgogne"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1379138485,
+      "center": {
+        "lat": 33.5384032,
+        "lon": -7.6852207
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "sport": "swimming"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1422141867,
+      "center": {
+        "lat": 33.6083711,
+        "lon": -7.6506235
+      },
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Atlantique Football Club"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 20146703,
+      "center": {
+        "lat": 33.5560636,
+        "lon": -7.648169
+      },
+      "tags": {
+        "check_date": "2024-10-19",
+        "leisure": "sports_centre",
+        "name": "Complexe Al Amal مركب الأمل",
+        "name:ar": "مركب الأمل",
+        "name:fr": "Complexe Al Amal",
+        "sport": "tennis",
+        "type": "multipolygon",
+        "website": "https://www.casablancacity.ma/fr/article/214/complexe-al-amal",
+        "wikidata": "Q15211418",
+        "wikipedia": "en:Complexe Al Amal"
+      }
+    }
+  ]
+}

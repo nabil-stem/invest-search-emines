@@ -1,0 +1,65 @@
+﻿sector,sector_label_fr,area_id,area_name,prefecture,providers_count,providers_per_100k,competition_level,average_confidence,population_est,population_density,purchasing_power_proxy,population_score,density_score,purchasing_power_score,demand_score,low_competition_score,supply_gap,sector_opportunity_score,risk_score,scoring_status,weights_version,assigned_pois_sector,total_pois_sector
+education,éducation,casablanca_hay_hassani,Hay Hassani,Hay Hassani,77,14.325341529165092,Modérée,0.65,537509,13203.4,50,97.1,30.3,40.0,60.4,82.4,82.4,65.2,52.7,scored,sector_weights_v1,484,519
+education,éducation,casablanca_sidi_moumen,Sidi Moumen,Sidi Bernoussi,35,6.346984185128835,Modérée,0.65,551443,21402.0,30,100.0,57.0,0.0,54.2,97.0,97.0,60.6,45.8,scored,sector_weights_v1,484,519
+education,éducation,casablanca_ain_chock,Ain Chock,Ain Chock,56,14.945010368100942,Modérée,0.65,374707,9500.2,55,63.6,18.2,50.0,47.5,81.3,81.3,58.5,47.8,scored,sector_weights_v1,484,519
+education,éducation,casablanca_moulay_rachid,Moulay Rachid,Moulay Rachid,17,6.934841049363831,Modérée,0.65,245139,34585.1,35,36.9,100.0,10.0,43.3,96.0,96.0,53.4,41.4,scored,sector_weights_v1,484,519
+education,éducation,casablanca_sidi_othmane,Sidi Othmane,Moulay Rachid,10,4.71934080247671,Faible,0.65,211894,33870.5,35,30.0,97.7,10.0,39.9,100.0,100.0,52.4,40.0,scored,sector_weights_v1,484,519
+education,éducation,casablanca_sidi_belyout,Sidi Belyout,Casablanca-Anfa,43,31.09317830130013,Élevée,0.65,138294,13519.8,70,14.9,31.3,80.0,41.8,51.8,51.8,50.3,41.4,scored,sector_weights_v1,484,519
+education,éducation,casablanca_roches_noires,Roches Noires,Ain Sebaa-Hay Mohammadi,6,5.72655690765927,Faible,0.65,104775,14243.5,50,7.9,33.7,40.0,25.6,98.2,98.2,48.0,38.3,scored,sector_weights_v1,484,519
+education,éducation,casablanca_mers_sultan,Mers Sultan,Al Fida-Mers Sultan,18,18.341332192094885,Modérée,0.65,98139,26559.9,50,6.6,73.8,40.0,35.1,75.1,75.1,47.0,39.9,scored,sector_weights_v1,484,519
+education,éducation,casablanca_al_fida,Al Fida,Al Fida-Mers Sultan,21,16.67553381560036,Modérée,0.65,125933,33166.4,40,12.3,95.4,20.0,35.8,78.1,78.1,45.6,43.1,scored,sector_weights_v1,484,519
+education,éducation,casablanca_ben_msick,Ben M'Sick,Ben M'Sick,12,11.362345188046813,Modérée,0.65,105612,33958.8,35,8.1,98.0,10.0,31.2,87.9,87.9,44.3,42.5,scored,sector_weights_v1,484,519
+education,éducation,casablanca_ain_sebaa,Ain Sebaa,Ain Sebaa-Hay Mohammadi,21,13.476397053161177,Modérée,0.65,155828,10014.0,45,18.5,19.9,30.0,22.9,84.0,84.0,42.5,44.7,scored,sector_weights_v1,484,519
+education,éducation,casablanca_hay_mohammadi,Hay Mohammadi,Ain Sebaa-Hay Mohammadi,9,8.634584388671426,Modérée,0.65,104232,25055.8,35,7.8,68.9,10.0,23.8,92.8,92.8,41.9,43.2,scored,sector_weights_v1,484,519
+education,éducation,casablanca_anfa,Anfa,Casablanca-Anfa,34,51.35796501616266,Élevée,0.65,66202,3914.3,80,0.0,0.0,100.0,35.0,14.7,14.7,40.0,37.7,scored,sector_weights_v1,484,519
+education,éducation,casablanca_maarif,Maarif,Casablanca-Anfa,83,59.42621483650631,Élevée,0.65,139669,11263.6,75,15.1,24.0,90.0,43.5,0.0,0.0,40.0,52.3,scored,sector_weights_v1,484,519
+education,éducation,casablanca_sidi_bernoussi,Sidi Bernoussi,Sidi Bernoussi,27,17.428462615947687,Modérée,0.65,154919,12279.6,40,18.3,27.3,20.0,21.1,76.8,76.8,38.6,48.2,scored,sector_weights_v1,484,519
+education,éducation,casablanca_sbata,Sbata,Ben M'Sick,15,14.757969303423849,Modérée,0.65,101640,14183.6,40,7.3,33.5,20.0,18.3,81.7,81.7,37.9,45.1,scored,sector_weights_v1,484,519
+food,restauration,casablanca_hay_hassani,Hay Hassani,Hay Hassani,120,22.325207577919628,Modérée,0.72,537509,13203.4,50,97.1,30.3,40.0,60.4,94.7,94.7,66.6,33.1,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_sidi_moumen,Sidi Moumen,Sidi Bernoussi,18,3.2641632952091153,Faible,0.72,551443,21402.0,30,100.0,57.0,0.0,54.2,100.0,100.0,62.9,34.4,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_moulay_rachid,Moulay Rachid,Moulay Rachid,15,6.118977396497497,Faible,0.72,245139,34585.1,35,36.9,100.0,10.0,43.3,99.2,99.2,61.7,35.4,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_ain_chock,Ain Chock,Ain Chock,88,23.48501629273005,Modérée,0.72,374707,9500.2,55,63.6,18.2,50.0,47.5,94.4,94.4,60.9,33.2,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_sidi_othmane,Sidi Othmane,Moulay Rachid,13,6.135143043219722,Faible,0.72,211894,33870.5,35,30.0,97.7,10.0,39.9,99.2,99.2,60.0,36.1,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_al_fida,Al Fida,Al Fida-Mers Sultan,15,11.911095582571685,Faible,0.72,125933,33166.4,40,12.3,95.4,20.0,35.8,97.6,97.6,58.6,35.9,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_mers_sultan,Mers Sultan,Al Fida-Mers Sultan,27,27.511998288142326,Modérée,0.7199999999999999,98139,26559.9,50,6.6,73.8,40.0,35.1,93.3,93.3,57.8,34.2,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_ben_msick,Ben M'Sick,Ben M'Sick,7,6.628034693027308,Faible,0.72,105612,33958.8,35,8.1,98.0,10.0,31.2,99.1,99.1,56.1,37.7,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_maarif,Maarif,Casablanca-Anfa,220,157.51526824134203,Élevée,0.72,139669,11263.6,75,15.1,24.0,90.0,43.5,57.5,57.5,54.0,35.6,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_hay_mohammadi,Hay Mohammadi,Ain Sebaa-Hay Mohammadi,13,12.47217745030317,Faible,0.72,104232,25055.8,35,7.8,68.9,10.0,23.8,97.5,97.5,50.4,39.6,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_anfa,Anfa,Casablanca-Anfa,101,152.56336666565966,Élevée,0.72,66202,3914.3,80,0.0,0.0,100.0,35.0,58.8,58.8,49.9,30.6,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_roches_noires,Roches Noires,Ain Sebaa-Hay Mohammadi,59,56.31114292531616,Modérée,0.72,104775,14243.5,50,7.9,33.7,40.0,25.6,85.4,85.4,48.7,37.8,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_ain_sebaa,Ain Sebaa,Ain Sebaa-Hay Mohammadi,56,35.93705880842981,Modérée,0.72,155828,10014.0,45,18.5,19.9,30.0,22.9,91.0,91.0,47.0,39.5,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_sbata,Sbata,Ben M'Sick,12,11.80637544273908,Faible,0.7200000000000001,101640,14183.6,40,7.3,33.5,20.0,18.3,97.6,97.6,46.6,39.6,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_sidi_bernoussi,Sidi Bernoussi,Sidi Bernoussi,42,27.11094184702974,Modérée,0.72,154919,12279.6,40,18.3,27.3,20.0,21.1,93.4,93.4,46.3,40.4,scored,sector_weights_v1,1312,1362
+food,restauration,casablanca_sidi_belyout,Sidi Belyout,Casablanca-Anfa,506,365.88716791762477,Élevée,0.72,138294,13519.8,70,14.9,31.3,80.0,41.8,0.0,0.0,37.8,51.0,scored,sector_weights_v1,1312,1362
+retail,commerce de détail,casablanca_hay_hassani,Hay Hassani,Hay Hassani,134,24.929815128676914,Modérée,0.62,537509,13203.4,50,97.1,30.3,40.0,60.4,92.0,92.0,61.5,40.3,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_ain_chock,Ain Chock,Ain Chock,92,24.55251703330869,Modérée,0.62,374707,9500.2,55,63.6,18.2,50.0,47.5,92.1,92.1,57.2,39.2,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_moulay_rachid,Moulay Rachid,Moulay Rachid,16,6.526909222930665,Faible,0.62,245139,34585.1,35,36.9,100.0,10.0,43.3,99.0,99.0,56.3,40.0,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_sidi_moumen,Sidi Moumen,Sidi Bernoussi,21,3.808190511077301,Faible,0.62,551443,21402.0,30,100.0,57.0,0.0,54.2,100.0,100.0,55.7,39.1,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_sidi_othmane,Sidi Othmane,Moulay Rachid,17,8.022879364210407,Faible,0.62,211894,33870.5,35,30.0,97.7,10.0,39.9,98.4,98.4,54.7,40.8,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_al_fida,Al Fida,Al Fida-Mers Sultan,14,11.117022543733572,Faible,0.62,125933,33166.4,40,12.3,95.4,20.0,35.8,97.2,97.2,54.4,40.3,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_mers_sultan,Mers Sultan,Al Fida-Mers Sultan,29,29.54992408726398,Modérée,0.62,98139,26559.9,50,6.6,73.8,40.0,35.1,90.2,90.2,54.4,39.1,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_anfa,Anfa,Casablanca-Anfa,68,102.71593003232532,Élevée,0.62,66202,3914.3,80,0.0,0.0,100.0,35.0,62.5,62.5,53.2,34.4,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_ben_msick,Ben M'Sick,Ben M'Sick,4,3.7874483960156047,Faible,0.62,105612,33958.8,35,8.1,98.0,10.0,31.2,100.0,100.0,51.6,41.9,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_roches_noires,Roches Noires,Ain Sebaa-Hay Mohammadi,42,40.08589835361489,Modérée,0.62,104775,14243.5,50,7.9,33.7,40.0,25.6,86.2,86.2,46.5,42.0,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_hay_mohammadi,Hay Mohammadi,Ain Sebaa-Hay Mohammadi,7,6.7157878578555525,Faible,0.62,104232,25055.8,35,7.8,68.9,10.0,23.8,98.9,98.9,46.0,43.7,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_sidi_belyout,Sidi Belyout,Casablanca-Anfa,319,230.66799716545907,Élevée,0.62,138294,13519.8,70,14.9,31.3,80.0,41.8,14.1,14.1,44.2,51.6,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_ain_sebaa,Ain Sebaa,Ain Sebaa-Hay Mohammadi,49,31.44492645737608,Modérée,0.62,155828,10014.0,45,18.5,19.9,30.0,22.9,89.5,89.5,43.3,44.2,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_maarif,Maarif,Casablanca-Anfa,374,267.77595601028145,Élevée,0.62,139669,11263.6,75,15.1,24.0,90.0,43.5,0.0,0.0,43.0,53.6,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_sbata,Sbata,Ben M'Sick,9,8.85478158205431,Faible,0.62,101640,14183.6,40,7.3,33.5,20.0,18.3,98.1,98.1,42.6,43.9,scored,sector_weights_v1,1225,1251
+retail,commerce de détail,casablanca_sidi_bernoussi,Sidi Bernoussi,Sidi Bernoussi,30,19.364958462164097,Modérée,0.62,154919,12279.6,40,18.3,27.3,20.0,21.1,94.1,94.1,42.4,44.6,scored,sector_weights_v1,1225,1251
+wellness,bien-être & beauté,casablanca_hay_hassani,Hay Hassani,Hay Hassani,26,4.837128308549252,Faible,0.6,537509,13203.4,50,97.1,30.3,40.0,60.4,89.6,89.6,62.2,42.3,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_sidi_moumen,Sidi Moumen,Sidi Bernoussi,1,0.18134240528939527,Faible,0.6,551443,21402.0,30,100.0,57.0,0.0,54.2,99.6,99.6,58.6,39.2,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_ain_chock,Ain Chock,Ain Chock,10,2.668751851446597,Faible,0.6,374707,9500.2,55,63.6,18.2,50.0,47.5,94.3,94.3,57.9,38.0,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_moulay_rachid,Moulay Rachid,Moulay Rachid,2,0.8158636528663331,Faible,0.6,245139,34585.1,35,36.9,100.0,10.0,43.3,98.2,98.2,57.4,40.8,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_mers_sultan,Mers Sultan,Al Fida-Mers Sultan,1,1.018962899560827,Faible,0.6,98139,26559.9,50,6.6,73.8,40.0,35.1,97.8,97.8,55.6,38.6,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_sidi_othmane,Sidi Othmane,Moulay Rachid,4,1.8877363209906841,Faible,0.6,211894,33870.5,35,30.0,97.7,10.0,39.9,95.9,95.9,55.3,42.3,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_al_fida,Al Fida,Al Fida-Mers Sultan,4,3.1762921553524497,Faible,0.6,125933,33166.4,40,12.3,95.4,20.0,35.8,93.2,93.2,53.9,42.0,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_ben_msick,Ben M'Sick,Ben M'Sick,0,0.0,Faible,0.6,105612,33958.8,35,8.1,98.0,10.0,31.2,100.0,100.0,52.3,42.7,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_roches_noires,Roches Noires,Ain Sebaa-Hay Mohammadi,3,2.863278453829635,Faible,0.6,104775,14243.5,50,7.9,33.7,40.0,25.6,93.8,93.8,47.7,41.5,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_anfa,Anfa,Casablanca-Anfa,16,24.168454125253014,Modérée,0.6,66202,3914.3,80,0.0,0.0,100.0,35.0,48.1,48.1,47.0,37.0,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_hay_mohammadi,Hay Mohammadi,Ain Sebaa-Hay Mohammadi,2,1.918796530815872,Faible,0.6,104232,25055.8,35,7.8,68.9,10.0,23.8,95.9,95.9,46.1,45.1,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_ain_sebaa,Ain Sebaa,Ain Sebaa-Hay Mohammadi,4,2.5669327720307007,Faible,0.6,155828,10014.0,45,18.5,19.9,30.0,22.9,94.5,94.5,44.5,43.6,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_sidi_bernoussi,Sidi Bernoussi,Sidi Bernoussi,3,1.9364958462164101,Faible,0.6,154919,12279.6,40,18.3,27.3,20.0,21.1,95.8,95.8,43.3,44.9,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_sidi_belyout,Sidi Belyout,Casablanca-Anfa,53,38.324149999276905,Élevée,0.6,138294,13519.8,70,14.9,31.3,80.0,41.8,17.7,17.7,43.0,51.6,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_sbata,Sbata,Ben M'Sick,1,0.9838646202282566,Faible,0.6,101640,14183.6,40,7.3,33.5,20.0,18.3,97.9,97.9,42.9,44.7,scored,sector_weights_v1,195,198
+wellness,bien-être & beauté,casablanca_maarif,Maarif,Casablanca-Anfa,65,46.53860198039651,Élevée,0.6,139669,11263.6,75,15.1,24.0,90.0,43.5,0.0,0.0,40.6,54.4,scored,sector_weights_v1,195,198

@@ -1,0 +1,199 @@
+﻿id,name,name_fr,name_ar,sector,category,sub_category,address,lat,lon,phone,website,opening_hours,operator,brand,source,source_type,source_url,confidence_score,is_verified,osm_amenity,osm_shop
+osm_node_1746921502,,,,wellness,hairdresser,,,33.5963077,-7.6282618,,,,,,OSM,osm,https://www.openstreetmap.org/node/1746921502,0.6,False,,hairdresser
+osm_node_2383572052,salon younes,,,wellness,hairdresser,,,33.511482,-7.6485843,,,,,,OSM,osm,https://www.openstreetmap.org/node/2383572052,0.6,False,,hairdresser
+osm_node_2714832031,Au premier,,,wellness,beauty,,,33.591351,-7.635103,,,,,,OSM,osm,https://www.openstreetmap.org/node/2714832031,0.6,False,,beauty
+osm_node_2902579701,Topara,,,wellness,beauty,,,33.5727913,-7.6203653,,,,,,OSM,osm,https://www.openstreetmap.org/node/2902579701,0.6,False,,beauty
+osm_node_2903251741,Au 9 Art et Beauté,,,wellness,hairdresser,,,33.5723557,-7.6573646,,,,,,OSM,osm,https://www.openstreetmap.org/node/2903251741,0.6,False,,hairdresser
+osm_node_2903614168,Axe Optic,,,wellness,optician,,,33.5731871,-7.6567208,,,,,,OSM,osm,https://www.openstreetmap.org/node/2903614168,0.6,False,,optician
+osm_node_2903614172,Lady Fitness,,,wellness,fitness,,,33.5734016,-7.6563561,,,,,,OSM,osm,https://www.openstreetmap.org/node/2903614172,0.6,False,,
+osm_node_2903614194,Gymnasia,,,wellness,fitness,,,33.5707623,-7.6513564,,,,,,OSM,osm,https://www.openstreetmap.org/node/2903614194,0.6,False,,
+osm_node_2903614195,Gola,,,wellness,optician,,,33.5707579,-7.6512491,,,,,,OSM,osm,https://www.openstreetmap.org/node/2903614195,0.6,False,,optician
+osm_node_2903627414,City Club,,,wellness,fitness,,,33.5707112,-7.6262212,,,,,City Club,OSM,osm,https://www.openstreetmap.org/node/2903627414,0.6,False,,
+osm_node_2903627420,Sport plus,,,wellness,fitness,,,33.5692205,-7.625784,,,,,,OSM,osm,https://www.openstreetmap.org/node/2903627420,0.6,False,,
+osm_node_2935936901,Casa Sun,,,wellness,beauty,,,33.583878,-7.615435,,,,,,OSM,osm,https://www.openstreetmap.org/node/2935936901,0.6,False,,beauty
+osm_node_3091356733,Angel,,,wellness,hairdresser,,Rue Ibn Yakdane,33.5879758,-7.6423673,+212 5 22 39 58 17,,,,,OSM,osm,https://www.openstreetmap.org/node/3091356733,0.6,False,,hairdresser
+osm_node_3091401742,Lucie Saint Clair,,,wellness,hairdresser,,,33.5868547,-7.6411616,,,,,,OSM,osm,https://www.openstreetmap.org/node/3091401742,0.6,False,,hairdresser
+osm_node_3199803561,Optique Rousseau,,,wellness,optician,,Rue Jean-Jacques Rousseau,33.5933612,-7.6242125,,,,,,OSM,osm,https://www.openstreetmap.org/node/3199803561,0.6,False,,optician
+osm_node_3207894468,Cabinet de réeducation et de réadaptation physique,,,wellness,fitness,,,33.5948782,-7.6269251,,,,,,OSM,osm,https://www.openstreetmap.org/node/3207894468,0.6,False,,
+osm_node_3207902461,Biocorp,,,wellness,fitness,,,33.593723,-7.6272456,,,,,,OSM,osm,https://www.openstreetmap.org/node/3207902461,0.6,False,,
+osm_node_3228678354,Salon de Coiffure Monalisa,,,wellness,hairdresser,,,33.5856362,-7.5827098,,,,,,OSM,osm,https://www.openstreetmap.org/node/3228678354,0.6,False,,hairdresser
+osm_node_3505973417,opticien,,,wellness,optician,,,33.5941896,-7.6184618,,,,,,OSM,osm,https://www.openstreetmap.org/node/3505973417,0.6,False,,optician
+osm_node_3506012441,oscar (vente de produits de beauté),,,wellness,beauty,,,33.593873,-7.618331,,,,,,OSM,osm,https://www.openstreetmap.org/node/3506012441,0.6,False,,cosmetics
+osm_node_3981494274,New life fitness,,,wellness,fitness,,,33.6006532,-7.6334953,,,,,,OSM,osm,https://www.openstreetmap.org/node/3981494274,0.6,False,,
+osm_node_3984259307,,,,wellness,hairdresser,,,33.6005811,-7.6359695,,,,,,OSM,osm,https://www.openstreetmap.org/node/3984259307,0.6,False,,hairdresser
+osm_node_3984259309,,,,wellness,hairdresser,,,33.6013747,-7.6334609,,,,,,OSM,osm,https://www.openstreetmap.org/node/3984259309,0.6,False,,hairdresser
+osm_node_4106115791,Bijerch,,,wellness,hairdresser,,Boulevards Mohammed 5,33.5921093,-7.5951004,,,,,,OSM,osm,https://www.openstreetmap.org/node/4106115791,0.6,False,,hairdresser
+osm_node_4193871790,Salon VIP,,,wellness,hairdresser,,,33.5948845,-7.6175066,,,,,,OSM,osm,https://www.openstreetmap.org/node/4193871790,0.6,False,,hairdresser
+osm_node_4193873618,Option d'optique,,,wellness,optician,,,33.5949244,-7.6172763,,,,,,OSM,osm,https://www.openstreetmap.org/node/4193873618,0.6,False,,optician
+osm_node_4193931680,Yves Rocher,Yves Rocher,,wellness,beauty,,,33.5951284,-7.6150056,,,,,Yves Rocher,OSM,osm,https://www.openstreetmap.org/node/4193931680,0.6,False,,cosmetics
+osm_node_4225325203,Chez Jaid,,,wellness,hairdresser,,Boulevard de la Liberté,33.5867519,-7.6118585,,,,,,OSM,osm,https://www.openstreetmap.org/node/4225325203,0.6,False,,hairdresser
+osm_node_4225325204,Coiffure Abderrahim,,,wellness,hairdresser,,Rue de Balaabak,33.5872946,-7.6124748,,,,,,OSM,osm,https://www.openstreetmap.org/node/4225325204,0.6,False,,hairdresser
+osm_node_4225325217,Le Grand Casa,,,wellness,hairdresser,,Boulevard de la Liberté,33.5864994,-7.6116963,,,,,,OSM,osm,https://www.openstreetmap.org/node/4225325217,0.6,False,,hairdresser
+osm_node_4225325259,,,,wellness,hairdresser,,Boulevard d'Alsace,33.585817,-7.612097,,,,,,OSM,osm,https://www.openstreetmap.org/node/4225325259,0.6,False,,hairdresser
+osm_node_4446776590,,,,wellness,beauty,,,33.5946408,-7.6412953,,,,,,OSM,osm,https://www.openstreetmap.org/node/4446776590,0.6,False,,cosmetics
+osm_node_4547898090,Club Nabil جمعية نبيل,Club Nabil,جمعية نبيل,wellness,fitness,,,33.5465499,-7.6024994,,,,,,OSM,osm,https://www.openstreetmap.org/node/4547898090,0.6,False,,
+osm_node_4694201589,City Club,City club mohamed 5,,wellness,fitness,,,33.5933779,-7.6054521,,,,,City Club,OSM,osm,https://www.openstreetmap.org/node/4694201589,0.6,False,,
+osm_node_4954539021,Noor نور,Noor,نور,wellness,hairdresser,,Rue Najib Mahfoud زنقة نجيب محفوظ,33.5905697,-7.6326716,+212 5 22 26 23 52,,Tu-Su 09:30-18:30,,,OSM,osm,https://www.openstreetmap.org/node/4954539021,0.6,False,,hairdresser
+osm_node_5083556788,Complexe Sportif Al Firdaouss,,,wellness,fitness,,,33.557439,-7.669176,+212 522 93 15 39,http://www.csfcasa.com/,,,,OSM,osm,https://www.openstreetmap.org/node/5083556788,0.6,False,,
+osm_node_5111051021,Casaforme,,,wellness,fitness,,Boulevard Modibo Keita,33.5615291,-7.6119479,,,24/7,,,OSM,osm,https://www.openstreetmap.org/node/5111051021,0.6,False,,
+osm_node_5243518535,sarrasins,sarrasins,,wellness,beauty,,,33.5505314,-7.6804977,,,,,,OSM,osm,https://www.openstreetmap.org/node/5243518535,0.6,False,,beauty
+osm_node_5420577825,,,,wellness,beauty,,,33.6074748,-7.5403507,,,,,,OSM,osm,https://www.openstreetmap.org/node/5420577825,0.6,False,,cosmetics
+osm_node_5420577826,,,,wellness,beauty,,,33.6075391,-7.5396487,,,,,,OSM,osm,https://www.openstreetmap.org/node/5420577826,0.6,False,,beauty
+osm_node_5420613421,,,,wellness,hairdresser,,,33.607896,-7.5411524,,,,,,OSM,osm,https://www.openstreetmap.org/node/5420613421,0.6,False,,hairdresser
+osm_node_5579516426,Maison d'Opticia,,,wellness,optician,,Avenue 2 Mars,33.5751331,-7.6155907,,,,,,OSM,osm,https://www.openstreetmap.org/node/5579516426,0.6,False,,optician
+osm_node_5579637829,Lens Optic,,,wellness,optician,,Avenue 2 Mars,33.5717765,-7.6138312,,,,,,OSM,osm,https://www.openstreetmap.org/node/5579637829,0.6,False,,optician
+osm_node_5582923418,Notroptic,,,wellness,optician,,Avenue 2 Mars,33.5398745,-7.5999648,,,,,,OSM,osm,https://www.openstreetmap.org/node/5582923418,0.6,False,,optician
+osm_node_5589450914,Youre Style,,,wellness,hairdresser,,Rue 54,33.5708647,-7.5874744,,,,,,OSM,osm,https://www.openstreetmap.org/node/5589450914,0.6,False,,hairdresser
+osm_node_5633168166,Mail Optic,,,wellness,optician,,Avenue Mers Sultan,33.5889573,-7.618669,,,,,,OSM,osm,https://www.openstreetmap.org/node/5633168166,0.6,False,,optician
+osm_node_5636182869,Guessous Optic,,,wellness,optician,,Boulevard Abdelmoumen,33.5672085,-7.6264831,,,,,,OSM,osm,https://www.openstreetmap.org/node/5636182869,0.6,False,,optician
+osm_node_5636182900,Gam'Optic,,,wellness,optician,,Boulevard Abdelmoumen,33.5773209,-7.6258649,,,,,,OSM,osm,https://www.openstreetmap.org/node/5636182900,0.6,False,,optician
+osm_node_5636182962,New Vision,,,wellness,optician,,Boulevard Taddart,33.5567808,-7.6254009,,,,,,OSM,osm,https://www.openstreetmap.org/node/5636182962,0.6,False,,optician
+osm_node_5636207691,Optique Optemetrie Miri,,,wellness,optician,,Rue Mostafa Al Maani,33.5873863,-7.6182354,,,,,,OSM,osm,https://www.openstreetmap.org/node/5636207691,0.6,False,,optician
+osm_node_5636207693,Alpha Optic,,,wellness,optician,,Rue Omarslaoui,33.5874757,-7.6195885,,,,,,OSM,osm,https://www.openstreetmap.org/node/5636207693,0.6,False,,optician
+osm_node_5636207745,Prim Optic,,,wellness,optician,,Avenue Hassan II,33.5866501,-7.621503,,,,,,OSM,osm,https://www.openstreetmap.org/node/5636207745,0.6,False,,optician
+osm_node_5636207806,La Lanette,,,wellness,optician,,Rue Agadir,33.5835721,-7.6196972,,,,,,OSM,osm,https://www.openstreetmap.org/node/5636207806,0.6,False,,optician
+osm_node_5636207823,Opti Plus,,,wellness,optician,,Rue Mostafa Al Maani,33.5847173,-7.6215559,,,,,,OSM,osm,https://www.openstreetmap.org/node/5636207823,0.6,False,,optician
+osm_node_5638347871,Phénix Optique,,,wellness,optician,,Rue Ibn Khalqane,33.5817901,-7.6261096,,,,,,OSM,osm,https://www.openstreetmap.org/node/5638347871,0.6,False,,optician
+osm_node_5649874867,Musée de l'Optique,,,wellness,optician,,Rue Racine زنقة راسين,33.5744051,-7.6373472,,,,,,OSM,osm,https://www.openstreetmap.org/node/5649874867,0.6,False,,optician
+osm_node_5657167265,Soft Optical,,,wellness,optician,,Rue Hadj Omar Riffi,33.5862289,-7.6149845,,,,,,OSM,osm,https://www.openstreetmap.org/node/5657167265,0.6,False,,optician
+osm_node_5657167271,Optic Lux,,,wellness,optician,,Rue Zerhoune,33.5846491,-7.6159447,,,,,,OSM,osm,https://www.openstreetmap.org/node/5657167271,0.6,False,,optician
+osm_node_5657167278,Gym Club,Gym Club,,wellness,fitness,,Rue de Suippes,33.584038,-7.6141101,,,,,,OSM,osm,https://www.openstreetmap.org/node/5657167278,0.6,False,,
+osm_node_5657167307,Optique Hoidou,,,wellness,optician,,Rue Tarrablous,33.5857194,-7.6187946,,,,,,OSM,osm,https://www.openstreetmap.org/node/5657167307,0.6,False,,optician
+osm_node_5657171563,Nabiha Optic,,,wellness,optician,,Boulevard de Khouribga,33.5894095,-7.6079531,,,,,,OSM,osm,https://www.openstreetmap.org/node/5657171563,0.6,False,,optician
+osm_node_5664725431,Tahiri Optic,,,wellness,optician,,Boulevard d'Oued Oum Rabia,33.5581186,-7.680649,,,,,,OSM,osm,https://www.openstreetmap.org/node/5664725431,0.6,False,,optician
+osm_node_5664725436,Ophtalmologie,,,wellness,optician,,Boulevard d'Oued Oum Rabia,33.556887,-7.6827908,,,,,,OSM,osm,https://www.openstreetmap.org/node/5664725436,0.6,False,,optician
+osm_node_5664725439,Optic,,,wellness,optician,,Boulevard Oued Oum Rabia,33.5560689,-7.6834895,,,,,,OSM,osm,https://www.openstreetmap.org/node/5664725439,0.6,False,,optician
+osm_node_5664725448,Ophtalmologie,,,wellness,optician,,Rue 48,33.5570697,-7.6828296,,,,,,OSM,osm,https://www.openstreetmap.org/node/5664725448,0.6,False,,optician
+osm_node_5685795288,Optic Free Vision,,,wellness,optician,,,33.5421721,-7.6770803,,,,,,OSM,osm,https://www.openstreetmap.org/node/5685795288,0.6,False,,optician
+osm_node_6411421121,Opticien Errahma,,,wellness,optician,,,33.536808,-7.7264502,,,,,,OSM,osm,https://www.openstreetmap.org/node/6411421121,0.6,False,,optician
+osm_node_6525264994,,,,wellness,hairdresser,,Boulevard de la Gare,33.6119676,-7.5307385,,,,,,OSM,osm,https://www.openstreetmap.org/node/6525264994,0.6,False,,hairdresser
+osm_node_6567406903,Gymnaze Zamzam (Sport & Hammam),,,wellness,fitness,,,33.5193395,-7.6446398,,,,,,OSM,osm,https://www.openstreetmap.org/node/6567406903,0.6,False,,
+osm_node_6585808985,,,,wellness,hairdresser,,,33.5381309,-7.648052,,,,,,OSM,osm,https://www.openstreetmap.org/node/6585808985,0.6,False,,hairdresser
+osm_node_6593172836,Optique Al Hamd,,,wellness,optician,,,33.5140932,-7.654435,,,,,,OSM,osm,https://www.openstreetmap.org/node/6593172836,0.6,False,,optician
+osm_node_6670464386,مسجد الامام مالك,Imam malik,مسجد الامام مالك,wellness,optician,,,33.5698486,-7.539567,,,,,,OSM,osm,https://www.openstreetmap.org/node/6670464386,0.6,False,,optician
+osm_node_7098401585,,,,wellness,hairdresser,,,33.5533219,-7.7045851,,,,,,OSM,osm,https://www.openstreetmap.org/node/7098401585,0.6,False,,hairdresser
+osm_node_7168971472,,,,wellness,fitness,,,33.615508,-7.4969551,,,,,,OSM,osm,https://www.openstreetmap.org/node/7168971472,0.6,False,,
+osm_node_7169432318,,,,wellness,fitness,,,33.6105871,-7.4996239,,,,,,OSM,osm,https://www.openstreetmap.org/node/7169432318,0.6,False,,
+osm_node_7563521212,City Club,,,wellness,fitness,,Boulevard Mohamed Zerktouni شارع محمد الزرقطوني,33.5918094,-7.6368295,+212 5 22 64 70 00,https://cityclub.fitness/les-clubs/city-club-zarktouni/,,,City Club,OSM,osm,https://www.openstreetmap.org/node/7563521212,0.6,False,,
+osm_node_7630113985,عطور ابو ظبي,Parfumerie Abudhabi,عطور ابو ظبي,wellness,beauty,,rue 2 Lot al Houda N124,33.5836411,-7.5257101,,,Mo-Su 10:00-22:30,,,OSM,osm,https://www.openstreetmap.org/node/7630113985,0.6,False,,cosmetics
+osm_node_8188539825,Parfumerie Chatér,,,wellness,beauty,,,33.5865449,-7.6079158,,,,,,OSM,osm,https://www.openstreetmap.org/node/8188539825,0.6,False,,cosmetics
+osm_node_8500950913,Le Barberon Star,,,wellness,hairdresser,,,33.5860795,-7.6127352,+212 6 15 70 78 92; +212 6 36 47 77 73,,,,,OSM,osm,https://www.openstreetmap.org/node/8500950913,0.6,False,,hairdresser
+osm_node_8756483706,Raja Club Athletic,,,wellness,fitness,,,33.5604933,-7.6479668,,,,,,OSM,osm,https://www.openstreetmap.org/node/8756483706,0.6,False,,
+osm_node_8758568668,Casa Crossfit,,,wellness,fitness,,Lotissement Ouba,33.5796944,-7.6801845,,,,,,OSM,osm,https://www.openstreetmap.org/node/8758568668,0.6,False,,
+osm_node_9052826518,The Gentlemen’s,The Gentlemen’s,,wellness,hairdresser,,Espace Ibnou Katir,33.57627,-7.6462637,+212 5 22 98 58 40,,Mo-Su 09:30-07:30,,,OSM,osm,https://www.openstreetmap.org/node/9052826518,0.6,False,,hairdresser
+osm_node_9259498719,Coiffure Bingo,Coiffure Bingo,,wellness,hairdresser,,,33.5751756,-7.6456373,,,,,,OSM,osm,https://www.openstreetmap.org/node/9259498719,0.6,False,,hairdresser
+osm_node_9259498720,Zen,Zen,,wellness,hairdresser,,,33.57496,-7.6454741,,,,,,OSM,osm,https://www.openstreetmap.org/node/9259498720,0.6,False,,hairdresser
+osm_node_9259605518,Total Look,Total Look,,wellness,beauty,,,33.5752507,-7.6468755,,,,,,OSM,osm,https://www.openstreetmap.org/node/9259605518,0.6,False,,beauty
+osm_node_9260468117,Abdel Ghani,Abdel Ghani,,wellness,hairdresser,,,33.575523,-7.646413,,,,,,OSM,osm,https://www.openstreetmap.org/node/9260468117,0.6,False,,hairdresser
+osm_node_9620906372,Anytime Fitness,,,wellness,fitness,,,33.5826371,-7.6198185,,,24/7,,Anytime Fitness,OSM,osm,https://www.openstreetmap.org/node/9620906372,0.6,False,,
+osm_node_9820636435,Estheslim Minceur & Anti-âge,,,wellness,beauty,,,33.5672405,-7.6386537,,https://estheslim.business.site,,,,OSM,osm,https://www.openstreetmap.org/node/9820636435,0.6,False,,beauty
+osm_node_10129002758,Amira Salon,,,wellness,hairdresser,,,33.5963597,-7.6280482,,,,,,OSM,osm,https://www.openstreetmap.org/node/10129002758,0.6,False,,beauty
+osm_node_10292837472,Anwar Barber Lounge,,,wellness,hairdresser,,,33.5910209,-7.6325293,+212 520 020 305,,,,,OSM,osm,https://www.openstreetmap.org/node/10292837472,0.6,False,,hairdresser
+osm_node_10293840417,Effervosens,,,wellness,beauty,,Rue Jabal Abou Billal,33.593528,-7.6417122,+212 5 22 26 47 15,https://effervosens.ma/,,,,OSM,osm,https://www.openstreetmap.org/node/10293840417,0.6,False,,beauty
+osm_node_10293840513,Esthecare,,,wellness,hairdresser,,Rue Abou Hayane Al Gharnati زنقة أبو حيان الغرناطي,33.5856789,-7.6426021,,,,,,OSM,osm,https://www.openstreetmap.org/node/10293840513,0.6,False,,hairdresser
+osm_node_10657554005,SPA ONLY COIFFURE,SPA ONLY COIFFURE,,wellness,hairdresser,,,33.5905189,-7.6344021,,,,,,OSM,osm,https://www.openstreetmap.org/node/10657554005,0.6,False,,hairdresser
+osm_node_10789710887,,,,wellness,fitness,,,33.5986802,-7.6369146,,,,,,OSM,osm,https://www.openstreetmap.org/node/10789710887,0.6,False,,
+osm_node_11214425247,الحلاق كريم,,,wellness,hairdresser,,,33.5673981,-7.6062012,,,,,,OSM,osm,https://www.openstreetmap.org/node/11214425247,0.6,False,,hairdresser
+osm_node_11217016124,موقف السيارات,,,wellness,spa,,,33.5762024,-7.564899,,,,,,OSM,osm,https://www.openstreetmap.org/node/11217016124,0.6,False,parking_space,
+osm_node_11218752151,موقف السيارات,,,wellness,spa,,,33.5885735,-7.612102,,,,,,OSM,osm,https://www.openstreetmap.org/node/11218752151,0.6,False,parking_space,
+osm_node_11219562747,موقف السيارات,,,wellness,spa,,,33.5640144,-7.5990052,,,,,,OSM,osm,https://www.openstreetmap.org/node/11219562747,0.6,False,parking_space,
+osm_node_11221900755,موقف السيارات,,,wellness,spa,,,33.5972328,-7.6244531,,,,,,OSM,osm,https://www.openstreetmap.org/node/11221900755,0.6,False,parking_space,
+osm_node_11221913240,موقف السيارات,,,wellness,spa,,,33.5947876,-7.6224322,,,,,,OSM,osm,https://www.openstreetmap.org/node/11221913240,0.6,False,parking_space,
+osm_node_11410285773,,,,wellness,hairdresser,,,33.5918491,-7.6147677,,,,,,OSM,osm,https://www.openstreetmap.org/node/11410285773,0.6,False,,hairdresser
+osm_node_11410362900,,,,wellness,hairdresser,,,33.5936486,-7.6162301,,,,,,OSM,osm,https://www.openstreetmap.org/node/11410362900,0.6,False,,hairdresser
+osm_node_11413664284,,,,wellness,hairdresser,,,33.5924201,-7.6157298,,,,,,OSM,osm,https://www.openstreetmap.org/node/11413664284,0.6,False,,hairdresser
+osm_node_11418086125,جمعية بيلير,Association Bel air,جمعية بيلير,wellness,fitness,,,33.5918727,-7.6288711,,,Mo-Fr 08:00-22:00,,,OSM,osm,https://www.openstreetmap.org/node/11418086125,0.6,False,,
+osm_node_11418152119,Source Zen,,,wellness,spa,,,33.5894594,-7.6280169,,,"PH,Mo-Su 08:00-22:00",,,OSM,osm,https://www.openstreetmap.org/node/11418152119,0.6,False,,massage
+osm_node_11446076178,SPA carita,,,wellness,beauty,,,33.5892429,-7.6281034,,,,,,OSM,osm,https://www.openstreetmap.org/node/11446076178,0.6,False,,beauty
+osm_node_11446225453,Carita,,,wellness,hairdresser,,,33.5893925,-7.6281752,,,,,,OSM,osm,https://www.openstreetmap.org/node/11446225453,0.6,False,,hairdresser
+osm_node_11449695526,Centre dream PH,,,wellness,spa,,,33.589048,-7.6309556,,,,,,OSM,osm,https://www.openstreetmap.org/node/11449695526,0.6,False,,massage
+osm_node_11630482009,,,,wellness,hairdresser,,,33.5401904,-7.6802663,,,,,,OSM,osm,https://www.openstreetmap.org/node/11630482009,0.6,False,,hairdresser
+osm_node_12113426692,Ô Comptoir des Dames,,,wellness,beauty,,Rue Turgot,33.588274,-7.638418,+212 5 20 40 52 70,,,,,OSM,osm,https://www.openstreetmap.org/node/12113426692,0.6,False,,beauty
+osm_node_12113618487,Fitness Park,,,wellness,fitness,,Urban Square,33.588541,-7.6402761,,,,,Fitness Park,OSM,osm,https://www.openstreetmap.org/node/12113618487,0.6,False,,
+osm_node_12123301308,Coiffure Badr,,,wellness,hairdresser,,,33.5960486,-7.6405102,,,,,,OSM,osm,https://www.openstreetmap.org/node/12123301308,0.6,False,,hairdresser
+osm_node_12163132578,Syllabus Coworking,,,wellness,spa,,Rue des Asphodelle زنقة أصفوديل,33.5712612,-7.6459067,+212 7 73 17 28 93,https://syllabuscoworking.com,24/7,,,OSM,osm,https://www.openstreetmap.org/node/12163132578,0.6,False,coworking_space,
+osm_node_12300088801,Lady Hairstyle,,,wellness,hairdresser,,Rue Al Mansour Al Abidi زنقة المنصور العابدي,33.5801693,-7.6415637,,,,,,OSM,osm,https://www.openstreetmap.org/node/12300088801,0.6,False,,hairdresser
+osm_node_12300088842,Oxygene,,,wellness,hairdresser,,Rue Ibn Jilali Tajeddine زنقة إبن الجيلالي تاج الدين,33.5813103,-7.6403656,,,,,,OSM,osm,https://www.openstreetmap.org/node/12300088842,0.6,False,,hairdresser
+osm_node_12313025706,Karppes Center,,,wellness,hairdresser,,Rue Brahim Nakhai زنقة إبراهيم النخعي,33.5801252,-7.6426235,,,,,,OSM,osm,https://www.openstreetmap.org/node/12313025706,0.6,False,,hairdresser
+osm_node_12315492617,حلاقة الإدريسي,,,wellness,hairdresser,,Rue Al Fourate زنقة الفرات,33.5816836,-7.6422699,,,,,,OSM,osm,https://www.openstreetmap.org/node/12315492617,0.6,False,,hairdresser
+osm_node_12315492618,Coiffeur Driss El Abdi,,,wellness,hairdresser,,Rue Al Fourate زنقة الفرات,33.5817247,-7.6423223,,,,,,OSM,osm,https://www.openstreetmap.org/node/12315492618,0.6,False,,hairdresser
+osm_node_12320323710,Coiffeur Skandar,,,wellness,hairdresser,,Rue Abou Ishak Chirazi,33.5822629,-7.6408962,,,,,,OSM,osm,https://www.openstreetmap.org/node/12320323710,0.6,False,,hairdresser
+osm_node_12320338581,NICE,,,wellness,hairdresser,,Rue Ibn Jilali Tajeddine زنقة إبن الجيلالي تاج الدين,33.5816735,-7.6405583,,,,,,OSM,osm,https://www.openstreetmap.org/node/12320338581,0.6,False,,hairdresser
+osm_node_12320338585,Previa Maroc,,,wellness,beauty,,Rue Ibn Jilali Tajeddine زنقة إبن الجيلالي تاج الدين,33.5818841,-7.640668,,,,,,OSM,osm,https://www.openstreetmap.org/node/12320338585,0.6,False,,cosmetics
+osm_node_12323348627,Coiffure Cannes,,,wellness,hairdresser,,Rue Abou Ghaleb Chiane,33.5810601,-7.6398341,,,,,,OSM,osm,https://www.openstreetmap.org/node/12323348627,0.6,False,,hairdresser
+osm_node_12324111894,Anytime Fitness,,,wellness,fitness,,Rue Ali Abderrazzak زنقة علي عبد الرزاق,33.5867878,-7.6443464,+212 6 64 91 29 35,https://www.anytimefitness.ma/,24/7,,Anytime Fitness,OSM,osm,https://www.openstreetmap.org/node/12324111894,0.6,False,,
+osm_node_12334570405,Optical Discount,,,wellness,optician,,Rue Al Fourate زنقة الفرات,33.5799275,-7.6405671,,,,,,OSM,osm,https://www.openstreetmap.org/node/12334570405,0.6,False,,optician
+osm_node_12497880550,A CORPS PARFAIT,,,wellness,hairdresser,,Rue Abou Ghaleb Chiane,33.5810808,-7.6395864,,,,,,OSM,osm,https://www.openstreetmap.org/node/12497880550,0.6,False,,hairdresser
+osm_node_12497880551,GO FITNESS,,,wellness,fitness,,Rue Abou Ghaleb Chiane,33.5810551,-7.6394034,,,,,,OSM,osm,https://www.openstreetmap.org/node/12497880551,0.6,False,,
+osm_node_12506546431,OPTIQUE BIR ANZARANE,,,wellness,optician,,Boulevard Bir Anzarane شارع بئر أنزران,33.5814196,-7.6391544,,,,,,OSM,osm,https://www.openstreetmap.org/node/12506546431,0.6,False,,optician
+osm_node_12526429702,TAK OPTIC,,,wellness,optician,,Rue Bussang,33.5807395,-7.6381831,,,,,,OSM,osm,https://www.openstreetmap.org/node/12526429702,0.6,False,,optician
+osm_node_12915342606,Unique Fitness Club,,,wellness,fitness,,,33.5901585,-7.6768856,,,,,,OSM,osm,https://www.openstreetmap.org/node/12915342606,0.6,False,,
+osm_node_13067980594,Fresh Fade Barbershop,,,wellness,hairdresser,,,33.5850738,-7.6383308,+212 6 33 64 06 34,,,,,OSM,osm,https://www.openstreetmap.org/node/13067980594,0.6,False,,hairdresser
+osm_node_13092969224,Smart Fit,,,wellness,fitness,,,33.5866623,-7.6383139,,,,,Smart Fit,OSM,osm,https://www.openstreetmap.org/node/13092969224,0.6,False,,
+osm_node_13109298255,City Club,,,wellness,fitness,,Rue Stéphane Mallarmé,33.5725428,-7.6371134,,,,,,OSM,osm,https://www.openstreetmap.org/node/13109298255,0.6,False,,
+osm_node_13203532063,MAC Cosmetics,,,wellness,beauty,,,33.586585,-7.63435,,,,,MAC Cosmetics,OSM,osm,https://www.openstreetmap.org/node/13203532063,0.6,False,,cosmetics
+osm_node_13203557635,Concept Coiffure,,,wellness,hairdresser,,,33.5865324,-7.6368948,,,,,,OSM,osm,https://www.openstreetmap.org/node/13203557635,0.6,False,,hairdresser
+osm_node_13284675501,Ronnie Gym,,,wellness,fitness,,,33.5412646,-7.6832145,,,24/7,,,OSM,osm,https://www.openstreetmap.org/node/13284675501,0.6,False,,
+osm_node_13321724980,La Corniche,,,wellness,fitness,,Boulevard Abdelhadi Boutaleb شارع عبد الهادي بوطالب,33.5727893,-7.686831,,,,,,OSM,osm,https://www.openstreetmap.org/node/13321724980,0.6,False,,
+osm_node_13321924953,MegaFit,,,wellness,fitness,,,33.5749696,-7.6822047,,,,,,OSM,osm,https://www.openstreetmap.org/node/13321924953,0.6,False,,
+osm_node_13363479059,L'Atelier de Coiffure,,,wellness,hairdresser,,Boulevard Bir Anzarane شارع بئر أنزران,33.5859218,-7.6455622,,,,,,OSM,osm,https://www.openstreetmap.org/node/13363479059,0.6,False,,hairdresser
+osm_node_13733924889,Flourish Soap,,,wellness,beauty,,Boulevard Al Quds شارع القدس,33.5354409,-7.6099126,+212 7 81 00 62 68,https://www.flourishsoap.ma,Mo-Fr 10:00-18:00,,,OSM,osm,https://www.openstreetmap.org/node/13733924889,0.6,False,,cosmetics
+osm_node_13824724387,,,,wellness,beauty,,,33.5752453,-7.6472235,,,,,,OSM,osm,https://www.openstreetmap.org/node/13824724387,0.6,False,,beauty
+osm_node_13824724388,,,,wellness,beauty,,,33.5748191,-7.6482152,,,,,,OSM,osm,https://www.openstreetmap.org/node/13824724388,0.6,False,,beauty
+osm_node_13824724390,,,,wellness,hairdresser,,,33.5751853,-7.6486694,,,,,,OSM,osm,https://www.openstreetmap.org/node/13824724390,0.6,False,,hairdresser
+osm_node_13853481766,Optic 2002,,,wellness,optician,,,33.5822555,-7.6384512,,,,,,OSM,osm,https://www.openstreetmap.org/node/13853481766,0.6,False,,optician
+osm_node_13853743588,Vision For All,,,wellness,optician,,,33.5765384,-7.6377008,,,,,,OSM,osm,https://www.openstreetmap.org/node/13853743588,0.6,False,,optician
+osm_node_13853903231,Faces,,,wellness,beauty,,,33.5869015,-7.6358246,,,,,,OSM,osm,https://www.openstreetmap.org/node/13853903231,0.6,False,,cosmetics
+osm_node_13858983289,Galerie Optic,,,wellness,optician,,,33.5875763,-7.6361405,,,,,,OSM,osm,https://www.openstreetmap.org/node/13858983289,0.6,False,,optician
+osm_node_13861018497,Matuvue,,,wellness,optician,,,33.5880937,-7.6400345,,,,,,OSM,osm,https://www.openstreetmap.org/node/13861018497,0.6,False,,optician
+osm_node_13905848515,Armor,,,wellness,fitness,,,33.5839903,-7.6407401,,,,,,OSM,osm,https://www.openstreetmap.org/node/13905848515,0.6,False,,
+osm_node_13921186537,Mia Makeup,,,wellness,beauty,,,33.5865573,-7.6346229,,,,,,OSM,osm,https://www.openstreetmap.org/node/13921186537,0.6,False,,cosmetics
+osm_node_13921186542,Lynx Optique,,,wellness,optician,,,33.5863787,-7.6343505,,,,,,OSM,osm,https://www.openstreetmap.org/node/13921186542,0.6,False,,optician
+osm_node_13921222748,Pleine Vue Optique,,,wellness,optician,,,33.5857315,-7.6377562,,,,,,OSM,osm,https://www.openstreetmap.org/node/13921222748,0.6,False,,optician
+osm_node_13921272146,avril,,,wellness,beauty,,,33.5875953,-7.640381,,,,,,OSM,osm,https://www.openstreetmap.org/node/13921272146,0.6,False,,cosmetics
+osm_node_13921293028,Unique Fitness Clubs,,,wellness,fitness,,,33.5898769,-7.6402138,,,,,,OSM,osm,https://www.openstreetmap.org/node/13921293028,0.6,False,,
+osm_way_57899274,Miami,,,wellness,fitness,,,33.5972558,-7.6778211,,,,,,OSM,osm,https://www.openstreetmap.org/way/57899274,0.6,False,,
+osm_way_105623007,موقف السيارات,,,wellness,spa,,,33.5974071,-7.6244796,,,,,,OSM,osm,https://www.openstreetmap.org/way/105623007,0.6,False,parking_space,
+osm_way_129539668,Sunbeach club,,,wellness,fitness,,,33.5952677,-7.678942,,,,,,OSM,osm,https://www.openstreetmap.org/way/129539668,0.6,False,,
+osm_way_168411360,Beaulieu - Annexe Lycée Lyautey,,,wellness,fitness,,,33.5984204,-7.6349726,,,,Lycée Lyautey,,OSM,osm,https://www.openstreetmap.org/way/168411360,0.6,False,,
+osm_way_214289475,Cercle Amical Français de Casablanca,,,wellness,fitness,,,33.5636915,-7.6510464,+212 5 22 25 50 05,https://cafc.ma/,,,,OSM,osm,https://www.openstreetmap.org/way/214289475,0.6,False,,
+osm_way_244038193,Annexe sportif - Lycée Idriss Alharti,,,wellness,fitness,,,33.5585131,-7.5580431,,,,,,OSM,osm,https://www.openstreetmap.org/way/244038193,0.6,False,,
+osm_way_262518178,Club Sidi Othmane,,,wellness,fitness,,,33.5442077,-7.5519462,,,,,,OSM,osm,https://www.openstreetmap.org/way/262518178,0.6,False,,
+osm_way_428061725,,,,wellness,fitness,,,33.5672347,-7.5351475,,,,,,OSM,osm,https://www.openstreetmap.org/way/428061725,0.6,False,,
+osm_way_477554778,,,,wellness,fitness,,,33.5649887,-7.5765503,,,,,,OSM,osm,https://www.openstreetmap.org/way/477554778,0.6,False,,
+osm_way_519768868,Salle Couverte Ennasin,,,wellness,fitness,,,33.5208741,-7.6586478,,,,,,OSM,osm,https://www.openstreetmap.org/way/519768868,0.6,False,,
+osm_way_550520145,,,,wellness,fitness,,,33.5954643,-7.6220016,,,,,,OSM,osm,https://www.openstreetmap.org/way/550520145,0.6,False,,
+osm_way_550655460,موقف السيارات,,,wellness,spa,,,33.5652157,-7.5988632,,,,,,OSM,osm,https://www.openstreetmap.org/way/550655460,0.6,False,parking_space,
+osm_way_575232477,Centre Omnisports Sbata,,,wellness,fitness,,,33.5485807,-7.5671516,,,,,,OSM,osm,https://www.openstreetmap.org/way/575232477,0.6,False,,
+osm_way_588233023,Complexe Sportif Haj Mohamed Benjelloun,,,wellness,fitness,,Boulevard de Bouskoura شارع بوسكورة,33.5586159,-7.6472939,,,,Wydad Athletic Club,,OSM,osm,https://www.openstreetmap.org/way/588233023,0.6,False,,
+osm_way_702102294,Centre Socio-Sportif Sidi Maarouf,,,wellness,fitness,,,33.5244593,-7.6449076,,,,,,OSM,osm,https://www.openstreetmap.org/way/702102294,0.6,False,,
+osm_way_1041070801,Moundir Tennis Academy,,,wellness,fitness,,,33.5506479,-7.7218875,,,,,,OSM,osm,https://www.openstreetmap.org/way/1041070801,0.6,False,,
+osm_way_1041951031,Académie Raja Club Athletic أكاديمية نادي الرجاء الرياضي,Académie Raja Club Athletic,أكاديمية نادي الرجاء الرياضي,wellness,fitness,,,33.4860052,-7.7175936,,,,Raja Club Athletic,,OSM,osm,https://www.openstreetmap.org/way/1041951031,0.6,False,,
+osm_way_1117678278,موقف السيارات,,,wellness,spa,,,33.5945128,-7.6218993,,,,,,OSM,osm,https://www.openstreetmap.org/way/1117678278,0.6,False,parking_space,
+osm_way_1152560570,,,,wellness,fitness,,,33.6239907,-7.5270356,,,,,,OSM,osm,https://www.openstreetmap.org/way/1152560570,0.6,False,,
+osm_way_1217642432,Sport Center Hay Mohammadi,,,wellness,fitness,,,33.5838112,-7.5641629,,,,,,OSM,osm,https://www.openstreetmap.org/way/1217642432,0.6,False,,
+osm_way_1308317550,Ginga Foot,,,wellness,fitness,,Rue Socrate زنقة سقراط,33.5821543,-7.6492149,,https://gingasport.ma/,,Ginga Foot,,OSM,osm,https://www.openstreetmap.org/way/1308317550,0.6,False,,
+osm_way_1308347213,Piscine Olympique ⴰⵙⵓⵛⴼ ⵓⵍⴰⵎⴱⵉ المسبح الأولمبي,Piscine Olympique,المسبح الأولمبي,wellness,fitness,,Rue Caid Al Achtar زنقة القيد الأشطر,33.5806582,-7.6453155,,,,,,OSM,osm,https://www.openstreetmap.org/way/1308347213,0.6,False,,
+osm_way_1308525671,Racing Universitaire de Casablanca,,,wellness,fitness,,,33.5596265,-7.6495402,,,,,,OSM,osm,https://www.openstreetmap.org/way/1308525671,0.6,False,,
+osm_way_1317026777,,,,wellness,fitness,,,33.4918391,-7.5333431,,,,,,OSM,osm,https://www.openstreetmap.org/way/1317026777,0.6,False,,
+osm_way_1319116030,,,,wellness,fitness,,,33.5993623,-7.5633359,,,,,,OSM,osm,https://www.openstreetmap.org/way/1319116030,0.6,False,,
+osm_way_1319643501,,,,wellness,fitness,,,33.5713176,-7.5661712,,,,,,OSM,osm,https://www.openstreetmap.org/way/1319643501,0.6,False,,
+osm_way_1326094808,Étoile de la Jeunesse Sportive نجم الشباب الرياضي,Étoile de la Jeunesse Sportive,نجم الشباب الرياضي,wellness,fitness,,,33.5583833,-7.6503917,,,,Étoile de la Jeunesse Sportive,,OSM,osm,https://www.openstreetmap.org/way/1326094808,0.6,False,,
+osm_way_1342707522,Oceanic Club de Casablanca,,,wellness,fitness,,,33.5776283,-7.6885492,+212 5 22 79 76 26,,,,,OSM,osm,https://www.openstreetmap.org/way/1342707522,0.6,False,,
+osm_way_1349867151,Bank of Africa Club,,,wellness,fitness,,Boulevard de Bourgogne شارع بوركون,33.5947479,-7.6533461,,,,Bank of Africa,,OSM,osm,https://www.openstreetmap.org/way/1349867151,0.6,False,,
+osm_way_1361144247,City Foot 5,,,wellness,fitness,,,33.5496802,-7.6373355,,,,,,OSM,osm,https://www.openstreetmap.org/way/1361144247,0.6,False,,
+osm_way_1361144248,City Ball,,,wellness,fitness,,,33.5489714,-7.6373996,,,,,,OSM,osm,https://www.openstreetmap.org/way/1361144248,0.6,False,,
+osm_way_1361187524,Club Olympique de Casablanca,,,wellness,fitness,,,33.5597583,-7.646323,,,,Club Olympique de Casablanca,,OSM,osm,https://www.openstreetmap.org/way/1361187524,0.6,False,,
+osm_way_1362742082,Club Socio-Sportif Bank Al-Maghrib,,,wellness,fitness,,Rue Azema,33.5598193,-7.6407447,,,,Bank Al-Maghrib,,OSM,osm,https://www.openstreetmap.org/way/1362742082,0.6,False,,
+osm_way_1362744612,Stade Olympique Casablancais,,,wellness,fitness,,Route Al Jamiaa,33.5652488,-7.6433905,,,,,,OSM,osm,https://www.openstreetmap.org/way/1362744612,0.6,False,,
+osm_way_1362746901,Napht Club,,,wellness,fitness,,,33.5569891,-7.6377077,,,,,,OSM,osm,https://www.openstreetmap.org/way/1362746901,0.6,False,,
+osm_way_1364347759,Plein Ciel Paradise,,,wellness,fitness,,Boulevard de la Corniche شارع الكورنيش,33.5974873,-7.6682183,+212 5 22 79 79 79,https://www.clubparadise.ma/,,,,OSM,osm,https://www.openstreetmap.org/way/1364347759,0.6,False,,
+osm_way_1368230241,Boule Sportive Maarifienne الكرة الرياضية المعاريفية,Boule Sportive Maarifienne,الكرة الرياضية المعاريفية,wellness,fitness,,Rue Chaikh Zarrouk,33.5844288,-7.641593,,,,Boule Sportive Maarifienne,,OSM,osm,https://www.openstreetmap.org/way/1368230241,0.6,False,,
+osm_way_1370374650,La Casablancaise,,,wellness,fitness,,,33.5889573,-7.6219004,,,,,,OSM,osm,https://www.openstreetmap.org/way/1370374650,0.6,False,,
+osm_way_1372712391,Club de la Banque Populaire,,,wellness,fitness,,,33.5737514,-7.6634453,,,,Banque Populaire,,OSM,osm,https://www.openstreetmap.org/way/1372712391,0.6,False,,
+osm_way_1373564255,Complexe Sportif Mohammed V المركب الرياضي محمد الخامس,Complexe Sportif Mohammed V,المركب الرياضي محمد الخامس,wellness,fitness,,,33.580414,-7.6455504,,,,,,OSM,osm,https://www.openstreetmap.org/way/1373564255,0.6,False,,
+osm_way_1373564259,Association Sportive Casablancaise,,,wellness,fitness,,,33.57931,-7.6454788,,,,,,OSM,osm,https://www.openstreetmap.org/way/1373564259,0.6,False,,
+osm_way_1374538268,Centre d'Accueil Bourgogne,,,wellness,fitness,,,33.5955471,-7.6438165,,,,,,OSM,osm,https://www.openstreetmap.org/way/1374538268,0.6,False,,
+osm_way_1379138485,,,,wellness,fitness,,,33.5384032,-7.6852207,,,,,,OSM,osm,https://www.openstreetmap.org/way/1379138485,0.6,False,,
+osm_way_1422141867,Atlantique Football Club,,,wellness,fitness,,,33.6083711,-7.6506235,,,,,,OSM,osm,https://www.openstreetmap.org/way/1422141867,0.6,False,,
+osm_relation_20146703,Complexe Al Amal مركب الأمل,Complexe Al Amal,مركب الأمل,wellness,fitness,,,33.5560636,-7.648169,,https://www.casablancacity.ma/fr/article/214/complexe-al-amal,,,,OSM,osm,https://www.openstreetmap.org/relation/20146703,0.6,False,,

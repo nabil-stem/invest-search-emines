@@ -1,0 +1,12 @@
+# Slim dependency set for the serverless / API deployment (no Streamlit, no
+# folium/matplotlib/reportlab — those are only for the local Streamlit app and
+# would blow past Vercel's function-size limit).
+fastapi>=0.115
+pydantic>=2.8
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+rapidfuzz>=3.5
+python-dotenv>=1.0
+# Optional: only needed for the hosted-Qwen2.5 (OpenAI-compatible) path.
+openai>=1.40

@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+.api310/
+venv/
+env/
+ENV/
+
+# Environment variables / secrets
+.env
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code
+.claude/
+
+# Streamlit
+.streamlit/
+
+# Data caches (regenerable via pipeline)
+data/cache/
+data/raw/cache/
+.rag/
+artifacts/
+
+# Frontend dependencies / generated output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+.ngrok*.err
+.ngrok*.pid
+.server*.err
+.server*.pid
+*-AKRAM-PC.*
+
+# Vercel CLI link + pulled env (contains secrets)
+.vercel/

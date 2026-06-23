@@ -1,0 +1,17 @@
+area_id,area_name,official_name,prefecture,hcp_code,population_moroccan,population_foreign,population_total,households,population_year,source,source_url
+casablanca_anfa,Anfa,Arrondissement d'Anfa,Casablanca-Anfa,61410101,63580,2622,66202,22331,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_maarif,Maarif,Arrondissement de Maarif,Casablanca-Anfa,61410103,134151,5518,139669,51113,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_sidi_belyout,Sidi Belyout,Arrondissement de Sidi Belyout,Casablanca-Anfa,61410107,134535,3759,138294,47055,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_al_fida,Al Fida,Arrondissement d'Al-Fida,Al Fida-Mers Sultan,61410111,125652,281,125933,35993,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_mers_sultan,Mers Sultan,Arrondissement de Mers-Sultan,Al Fida-Mers Sultan,61410113,96764,1375,98139,30509,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_hay_mohammadi,Hay Mohammadi,Arrondissement de Hay-Mohammadi,Ain Sebaa-Hay Mohammadi,61410125,104131,101,104232,28469,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_roches_noires,Roches Noires,Arrondissement d'Asoukhour Assawda,Ain Sebaa-Hay Mohammadi,61410123,102953,1822,104775,32260,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_ain_sebaa,Ain Sebaa,Arrondissement d'Ain-Sebaa,Ain Sebaa-Hay Mohammadi,61410121,153441,2387,155828,40875,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_hay_hassani,Hay Hassani,Arrondissement de Hay-Hassani,Hay Hassani,61410131,517080,20429,537509,157634,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_ain_chock,Ain Chock,Arrondissement d'Ain-Chock,Ain Chock,61410141,368349,6358,374707,102598,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_sidi_bernoussi,Sidi Bernoussi,Arrondissement de Sidi Bernoussi,Sidi Bernoussi,61410151,154758,161,154919,42626,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_sidi_moumen,Sidi Moumen,Arrondissement de Sidi Moumen,Sidi Bernoussi,61410153,550749,694,551443,142020,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_ben_msick,Ben M'Sick,Arrondissement de Ben-M'sick,Ben M'Sick,61410161,105578,34,105612,29445,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_sbata,Sbata,Arrondissement de Sbata,Ben M'Sick,61410163,101608,32,101640,26764,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_moulay_rachid,Moulay Rachid,Arrondissement de Moulay Rachid,Moulay Rachid,61410171,244865,274,245139,63294,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/
+casablanca_sidi_othmane,Sidi Othmane,Arrondissement de Sidi Othmane,Moulay Rachid,61410173,211784,110,211894,56242,2024,HCP RGPH 2024,https://www.hcp.ma/file/242341/

@@ -1,0 +1,17 @@
+﻿area_id,area_name,prefecture,population_est,area_km2,population_density,purchasing_power_proxy,purchasing_power_confidence,population_year,population_source,medical_facilities_count,facilities_per_100k,pharmacy_count,doctor_count,dentist_count,veterinary_count,laboratory_count,radiology_count,clinic_count,hospital_count,health_center_count,public_primary_care_count,public_hospital_count,average_osm_confidence,nearest_hospital_km,undersupply_index,demand_index,accessibility_index,low_competition_index,data_confidence_score,investment_score
+casablanca_anfa,Anfa,Casablanca-Anfa,66202,16.913,3914.3,80,0.35,2024,HCP RGPH 2024,19,28.7,9,1,2,0,0,0,6,1,0,3,0,0.7,1.71,77.4,0.0,37.3,91.9,71.0,53.2
+casablanca_maarif,Maarif,Casablanca-Anfa,139669,12.4,11263.6,75,0.35,2024,HCP RGPH 2024,166,118.9,78,26,4,1,12,0,26,14,0,8,3,0.7,1.21,0.0,19.1,61.2,0.0,71.0,31.5
+casablanca_sidi_belyout,Sidi Belyout,Casablanca-Anfa,138294,10.229,13519.8,70,0.35,2024,HCP RGPH 2024,85,61.5,49,8,10,2,1,1,7,5,0,5,1,0.7,1.77,49.3,22.3,34.4,50.6,71.0,46.6
+casablanca_al_fida,Al Fida,Al Fida-Mers Sultan,125933,3.797,33166.4,40,0.35,2024,HCP RGPH 2024,24,19.1,17,1,2,0,0,0,3,1,0,8,1,0.7,1.64,85.7,49.7,40.7,88.8,71.0,64.9
+casablanca_mers_sultan,Mers Sultan,Al Fida-Mers Sultan,98139,3.695,26559.9,50,0.35,2024,HCP RGPH 2024,29,29.5,25,0,1,0,2,0,0,1,0,5,0,0.7,1.56,76.7,36.8,44.5,85.6,71.0,60.2
+casablanca_hay_mohammadi,Hay Mohammadi,Ain Sebaa-Hay Mohammadi,104232,4.16,25055.8,35,0.35,2024,HCP RGPH 2024,6,5.8,4,0,0,0,0,0,1,1,0,9,1,0.7,1.06,97.1,35.3,68.4,100.0,71.0,67.7
+casablanca_roches_noires,Roches Noires,Ain Sebaa-Hay Mohammadi,104775,7.356,14243.5,50,0.35,2024,HCP RGPH 2024,15,14.3,11,0,0,0,1,0,1,2,0,3,0,0.7,1.14,89.8,19.5,64.6,94.4,71.0,62.1
+casablanca_ain_sebaa,Ain Sebaa,Ain Sebaa-Hay Mohammadi,155828,15.561,10014.0,45,0.35,2024,HCP RGPH 2024,23,14.8,19,0,0,0,0,0,3,1,0,3,0,0.7,1.52,89.4,19.1,46.4,89.4,71.0,59.2
+casablanca_hay_hassani,Hay Hassani,Hay Hassani,537509,40.71,13203.4,50,0.35,2024,HCP RGPH 2024,126,23.4,94,7,13,0,3,0,6,3,0,16,1,0.7,1.57,82.0,67.0,44.0,25.0,71.0,63.0
+casablanca_ain_chock,Ain Chock,Ain Chock,374707,39.442,9500.2,55,0.35,2024,HCP RGPH 2024,86,23.0,60,4,6,0,0,0,7,7,1,13,2,0.7,2.49,82.3,43.2,0.0,50.0,71.0,55.6
+casablanca_sidi_bernoussi,Sidi Bernoussi,Sidi Bernoussi,154919,12.616,12279.6,40,0.35,2024,HCP RGPH 2024,26,16.8,19,1,2,0,0,0,0,3,0,4,1,0.7,1.13,87.6,22.3,65.1,87.5,71.0,60.9
+casablanca_sidi_moumen,Sidi Moumen,Sidi Bernoussi,551443,25.766,21402.0,30,0.35,2024,HCP RGPH 2024,13,2.4,6,1,0,0,0,0,2,3,0,11,1,0.7,1.61,100.0,80.7,42.1,95.6,71.0,76.4
+casablanca_ben_msick,Ben M'Sick,Ben M'Sick,105612,3.11,33958.8,35,0.35,2024,HCP RGPH 2024,12,11.4,11,0,0,0,0,0,0,1,0,5,1,0.7,0.4,92.3,48.5,100.0,96.2,71.0,72.6
+casablanca_sbata,Sbata,Ben M'Sick,101640,7.166,14183.6,40,0.35,2024,HCP RGPH 2024,24,23.6,23,0,0,0,0,0,0,1,0,4,0,0.7,0.78,81.8,19.1,81.8,88.8,71.0,60.4
+casablanca_moulay_rachid,Moulay Rachid,Moulay Rachid,245139,7.088,34585.1,35,0.35,2024,HCP RGPH 2024,19,7.8,15,0,0,0,0,0,1,3,0,10,0,0.7,1.1,95.4,65.3,66.5,91.9,71.0,73.8
+casablanca_sidi_othmane,Sidi Othmane,Moulay Rachid,211894,6.256,33870.5,35,0.35,2024,HCP RGPH 2024,15,7.1,13,0,0,0,0,0,1,1,0,10,1,0.7,1.2,96.0,60.5,61.7,94.4,71.0,72.5

@@ -1,0 +1,145 @@
+﻿area_name,specialty,providers_count,providers_per_100k,competition_pressure,competition_level,opportunity_level,data_confidence_score,official_public_count,notes
+Anfa,pharmacy,9,13.6,68.0,medium,medium,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Anfa,doctor,1,1.5,10.1,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Anfa,dentist,2,3.0,37.8,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Anfa,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Anfa,laboratory,0,0.0,0.0,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Anfa,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Anfa,clinic,6,9.1,200.0,saturated,low,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Anfa,hospital,1,1.5,100.7,high,low,79.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Anfa,health_center,0,0.0,0.0,low,high,79.3,3,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Maarif,pharmacy,78,55.8,200.0,saturated,low,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Maarif,doctor,26,18.6,124.1,high,low,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Maarif,dentist,4,2.9,35.8,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Maarif,veterinary,1,0.7,35.8,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Maarif,laboratory,12,8.6,200.0,saturated,low,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Maarif,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Maarif,clinic,26,18.6,200.0,saturated,low,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Maarif,hospital,14,10.0,200.0,saturated,low,79.3,3,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Maarif,health_center,0,0.0,0.0,low,high,79.3,8,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Belyout,pharmacy,49,35.4,177.2,saturated,low,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Belyout,doctor,8,5.8,38.6,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Belyout,dentist,10,7.2,90.4,medium,medium,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Belyout,veterinary,2,1.4,72.3,medium,medium,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Belyout,laboratory,1,0.7,24.1,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Belyout,radiology,1,0.7,48.2,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Belyout,clinic,7,5.1,126.5,high,low,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Belyout,hospital,5,3.6,200.0,saturated,low,79.3,1,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Belyout,health_center,0,0.0,0.0,low,high,79.3,5,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Al Fida,pharmacy,17,13.5,67.5,medium,medium,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Al Fida,doctor,1,0.8,5.3,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Al Fida,dentist,2,1.6,19.9,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Al Fida,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Al Fida,laboratory,0,0.0,0.0,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Al Fida,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Al Fida,clinic,3,2.4,59.6,medium,medium,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Al Fida,hospital,1,0.8,52.9,medium,medium,79.3,1,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Al Fida,health_center,0,0.0,0.0,low,high,79.3,8,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Mers Sultan,pharmacy,25,25.5,127.4,high,low,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Mers Sultan,doctor,0,0.0,0.0,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Mers Sultan,dentist,1,1.0,12.7,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Mers Sultan,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Mers Sultan,laboratory,2,2.0,67.9,medium,medium,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Mers Sultan,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Mers Sultan,clinic,0,0.0,0.0,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Mers Sultan,hospital,1,1.0,67.9,medium,medium,79.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Mers Sultan,health_center,0,0.0,0.0,low,high,79.3,5,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Mohammadi,pharmacy,4,3.8,19.2,low,high,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Mohammadi,doctor,0,0.0,0.0,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Mohammadi,dentist,0,0.0,0.0,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Mohammadi,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Mohammadi,laboratory,0,0.0,0.0,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Mohammadi,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Mohammadi,clinic,1,1.0,24.0,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Mohammadi,hospital,1,1.0,64.0,medium,medium,79.3,1,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Mohammadi,health_center,0,0.0,0.0,low,high,79.3,9,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Roches Noires,pharmacy,11,10.5,52.5,medium,medium,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Roches Noires,doctor,0,0.0,0.0,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Roches Noires,dentist,0,0.0,0.0,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Roches Noires,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Roches Noires,laboratory,1,1.0,31.8,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Roches Noires,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Roches Noires,clinic,1,1.0,23.9,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Roches Noires,hospital,2,1.9,127.3,high,low,79.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Roches Noires,health_center,0,0.0,0.0,low,high,79.3,3,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Sebaa,pharmacy,19,12.2,61.0,medium,medium,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Sebaa,doctor,0,0.0,0.0,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Sebaa,dentist,0,0.0,0.0,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Sebaa,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Sebaa,laboratory,0,0.0,0.0,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Sebaa,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Sebaa,clinic,3,1.9,48.1,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Sebaa,hospital,1,0.6,42.8,low,high,79.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Sebaa,health_center,0,0.0,0.0,low,high,79.3,3,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Hassani,pharmacy,94,17.5,87.4,medium,medium,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Hassani,doctor,7,1.3,8.7,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Hassani,dentist,13,2.4,30.2,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Hassani,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Hassani,laboratory,3,0.6,18.6,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Hassani,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Hassani,clinic,6,1.1,27.9,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Hassani,hospital,3,0.6,37.2,low,high,79.3,1,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Hay Hassani,health_center,0,0.0,0.0,low,high,79.3,16,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Chock,pharmacy,60,16.0,80.1,medium,medium,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Chock,doctor,4,1.1,7.1,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Chock,dentist,6,1.6,20.0,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Chock,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Chock,laboratory,0,0.0,0.0,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Chock,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Chock,clinic,7,1.9,46.7,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Chock,hospital,7,1.9,124.5,high,low,79.3,2,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ain Chock,health_center,1,0.3,6.7,low,high,79.3,13,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Bernoussi,pharmacy,19,12.3,61.3,medium,medium,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Bernoussi,doctor,1,0.6,4.3,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Bernoussi,dentist,2,1.3,16.1,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Bernoussi,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Bernoussi,laboratory,0,0.0,0.0,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Bernoussi,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Bernoussi,clinic,0,0.0,0.0,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Bernoussi,hospital,3,1.9,129.1,high,low,79.3,1,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Bernoussi,health_center,0,0.0,0.0,low,high,79.3,4,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Moumen,pharmacy,6,1.1,5.4,low,high,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Moumen,doctor,1,0.2,1.2,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Moumen,dentist,0,0.0,0.0,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Moumen,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Moumen,laboratory,0,0.0,0.0,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Moumen,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Moumen,clinic,2,0.4,9.1,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Moumen,hospital,3,0.5,36.3,low,high,79.3,1,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Moumen,health_center,0,0.0,0.0,low,high,79.3,11,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ben M'Sick,pharmacy,11,10.4,52.1,medium,medium,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ben M'Sick,doctor,0,0.0,0.0,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ben M'Sick,dentist,0,0.0,0.0,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ben M'Sick,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ben M'Sick,laboratory,0,0.0,0.0,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ben M'Sick,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ben M'Sick,clinic,0,0.0,0.0,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ben M'Sick,hospital,1,0.9,63.1,medium,medium,79.3,1,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Ben M'Sick,health_center,0,0.0,0.0,low,high,79.3,5,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sbata,pharmacy,23,22.6,113.1,high,low,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sbata,doctor,0,0.0,0.0,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sbata,dentist,0,0.0,0.0,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sbata,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sbata,laboratory,0,0.0,0.0,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sbata,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sbata,clinic,0,0.0,0.0,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sbata,hospital,1,1.0,65.6,medium,medium,79.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sbata,health_center,0,0.0,0.0,low,high,79.3,4,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Moulay Rachid,pharmacy,15,6.1,30.6,low,high,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Moulay Rachid,doctor,0,0.0,0.0,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Moulay Rachid,dentist,0,0.0,0.0,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Moulay Rachid,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Moulay Rachid,laboratory,0,0.0,0.0,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Moulay Rachid,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Moulay Rachid,clinic,1,0.4,10.2,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Moulay Rachid,hospital,3,1.2,81.6,medium,medium,79.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Moulay Rachid,health_center,0,0.0,0.0,low,high,79.3,10,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Othmane,pharmacy,13,6.1,30.7,low,high,62.7,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Othmane,doctor,0,0.0,0.0,low,high,49.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Othmane,dentist,0,0.0,0.0,low,high,53.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Othmane,veterinary,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Othmane,laboratory,0,0.0,0.0,low,high,51.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Othmane,radiology,0,0.0,0.0,low,high,45.5,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Othmane,clinic,1,0.5,11.8,low,high,56.3,0,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Othmane,hospital,1,0.5,31.5,low,high,79.3,1,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024
+Sidi Othmane,health_center,0,0.0,0.0,low,high,79.3,10,OSM non exhaustif; population HCP 2024; offre publique MSPS 2024

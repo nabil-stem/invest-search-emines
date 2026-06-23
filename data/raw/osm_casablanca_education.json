@@ -1,0 +1,7625 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-21T16:44:40Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 257474936,
+      "lat": 33.5806507,
+      "lon": -7.5936521,
+      "tags": {
+        "amenity": "college",
+        "building": "school",
+        "education": "college"
+      }
+    },
+    {
+      "type": "node",
+      "id": 626129998,
+      "lat": 33.6129183,
+      "lon": -7.5498942,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ibno Abdou Rabih",
+        "source": "Yahoo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1184211982,
+      "lat": 33.611407,
+      "lon": -7.5321537,
+      "tags": {
+        "addr:street": "Boulevard Chefchaouni",
+        "amenity": "school",
+        "education": "school",
+        "name": "chefchaouni الشفشاوني",
+        "name:ar": "الشفشاوني",
+        "name:en": "chefchaouni",
+        "name:fr": "chefchaouni"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1184211992,
+      "lat": 33.6110764,
+      "lon": -7.5327438,
+      "tags": {
+        "addr:street": "Boulevard Chefchaouni",
+        "amenity": "school",
+        "education": "school",
+        "name": "idriss 2 إدريس الثاني",
+        "name:ar": "إدريس الثاني",
+        "name:en": "idriss 2",
+        "name:fr": "idriss 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1184212200,
+      "lat": 33.6131761,
+      "lon": -7.5348037,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "ثانوية ابن العوام",
+        "name:ar": "ثانوية ابن العوام"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1284530339,
+      "lat": 33.5816989,
+      "lon": -7.6086159,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole Madania"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1284530342,
+      "lat": 33.5814397,
+      "lon": -7.6079507,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole La Residence",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1307904330,
+      "lat": 33.5584237,
+      "lon": -7.6888665,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "melouia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1307904336,
+      "lat": 33.559311,
+      "lon": -7.6898538,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "ouad el makhazin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1926947271,
+      "lat": 33.5528661,
+      "lon": -7.7252133,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "George Washington Academy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2378025797,
+      "lat": 33.5166241,
+      "lon": -7.6506225,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Othmane Ibn Affane"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2582305781,
+      "lat": 33.5594424,
+      "lon": -7.606326,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée oum el banine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2582305782,
+      "lat": 33.5598965,
+      "lon": -7.6052049,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2582305784,
+      "lat": 33.558815,
+      "lon": -7.6023179,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée El Bakilani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2582305785,
+      "lat": 33.558923,
+      "lon": -7.6014753,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École primaire Boujdour"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2640314838,
+      "lat": 33.5843039,
+      "lon": -7.6418978,
+      "tags": {
+        "addr:street": "Rue Al Imam Attabarani زنقة الإمام الطبراني",
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Les Poussins"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2643927889,
+      "lat": 33.5916192,
+      "lon": -7.6261076,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Art'com Sup"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2711741028,
+      "lat": 33.5794165,
+      "lon": -7.6376429,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole Barhoumy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2714778062,
+      "lat": 33.5756546,
+      "lon": -7.6797542,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:street": "lotissement Ouba",
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe scolaire Elouatki Kaoukabi. Collège lycée Sabrine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2714785480,
+      "lat": 33.577175,
+      "lon": -7.6793365,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:housenumber": "4",
+        "addr:street": "rue 3 lots Wakanati",
+        "amenity": "school",
+        "education": "school",
+        "name": "Maternelle-Primaire Elouatki Kaoukabi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2789431453,
+      "lat": 33.556999,
+      "lon": -7.6799189,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Iman El Jazouli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2874898043,
+      "lat": 33.5977896,
+      "lon": -7.6327744,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe Scolaire El Farabi II"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2892400981,
+      "lat": 33.5939556,
+      "lon": -7.5302155,
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "ENCG Casablanca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2895214168,
+      "lat": 33.6009689,
+      "lon": -7.6328984,
+      "tags": {
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "name": "Marhaba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2902579298,
+      "lat": 33.5761747,
+      "lon": -7.6254293,
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "institut de formation de carrière de santé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2935934501,
+      "lat": 33.5851823,
+      "lon": -7.6160114,
+      "tags": {
+        "addr:street": "Avenue Mers Sultan",
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Les Jumeaux",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3207309397,
+      "lat": 33.5932793,
+      "lon": -7.6224466,
+      "tags": {
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "name": "Auto-école Raki Barka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3214364732,
+      "lat": 33.605547,
+      "lon": -7.6302459,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Acadamie Arts Traditionels"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3346775601,
+      "lat": 33.5911322,
+      "lon": -7.6276619,
+      "tags": {
+        "addr:housenumber": "4-6",
+        "addr:street": "Rue Moussa Bnou Noussair زنقة موسى بن نصير",
+        "amenity": "college",
+        "education": "college",
+        "name": "École Supérieure en Ingénierie de l'Information de Télécommunication Management et Bâtiment",
+        "short_name": "ESTEM"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3639395834,
+      "lat": 33.6032963,
+      "lon": -7.5262885,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole Almadina Ain Sbaa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3788381531,
+      "lat": 33.5807419,
+      "lon": -7.5914928,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Institut Spécialisé du Bâtiment",
+        "name_1": "ISB Aïn Borja"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3788381532,
+      "lat": 33.5802895,
+      "lon": -7.5907064,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Office de la Formation Professionnelle et de la Promotion du Travail مكتب التكوين المهني وإنعاش الشغل",
+        "name:ar": "مكتب التكوين المهني وإنعاش الشغل",
+        "name:fr": "Office de la Formation Professionnelle et de la Promotion du Travail"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3957433753,
+      "lat": 33.5938171,
+      "lon": -7.647996,
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Kenzi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3958744374,
+      "lat": 33.5507156,
+      "lon": -7.6343969,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "CODA Casablanca Music Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4193621892,
+      "lat": 33.5742611,
+      "lon": -7.6769945,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "ISTA Hay Hassani 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4193624098,
+      "lat": 33.5742723,
+      "lon": -7.6734501,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Ibno Hamdise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4193624493,
+      "lat": 33.5711707,
+      "lon": -7.6759597,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Al Akhtal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4193870339,
+      "lat": 33.5949543,
+      "lon": -7.6176097,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Best Institut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4193901867,
+      "lat": 33.5946264,
+      "lon": -7.616552,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:postcode": "20000",
+        "addr:street": "Place du 16 Novembre",
+        "amenity": "language_school",
+        "check_date": "2025-01-10",
+        "education": "language_school",
+        "email": "info-casablanca@goethe.de",
+        "language:de": "yes",
+        "name": "Goethe Institut Casablanca",
+        "operator:type": "private",
+        "phone": "+212 5 22 20 04 45",
+        "website": "https://www.goethe.de/ins/ma/de/index.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4193937770,
+      "lat": 33.5952167,
+      "lon": -7.6151287,
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:housenumber": "73",
+        "addr:street": "Boulevard Mohammed V شارع محمد الخامس",
+        "amenity": "college",
+        "check_date": "2025-01-10",
+        "contact:facebook": "https://www.facebook.com/icfmaroc.casablanca",
+        "education": "college",
+        "email": "icfecoleprivee@gmail.com",
+        "mobile": "+212 6 70 06 40 05",
+        "name": "Institut Central de Formation",
+        "operator:type": "private",
+        "phone": "+212 5 22 22 17 59",
+        "short_name": "ICF",
+        "website": "https://icf-maroc.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4202641898,
+      "lat": 33.5655887,
+      "lon": -7.6743337,
+      "tags": {
+        "addr:street": "Zanqat 12",
+        "amenity": "school",
+        "education": "school",
+        "name": "École Al Fajr",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4346009691,
+      "lat": 33.6038997,
+      "lon": -7.4896686,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe scolaire al isbah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4392185372,
+      "lat": 33.6005961,
+      "lon": -7.6357649,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Al Mitak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4394144992,
+      "lat": 33.5290906,
+      "lon": -7.6169149,
+      "tags": {
+        "addr:street": "Route de Taddart",
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Riad مجموعة مدارس الرياض",
+        "name:ar": "مجموعة مدارس الرياض",
+        "name:fr": "Groupe Scolaire Riad"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4441375289,
+      "lat": 33.5975775,
+      "lon": -7.636178,
+      "tags": {
+        "addr:housenumber": "43",
+        "addr:postcode": "20040",
+        "addr:street": "Rue d'Aït Ourir زنقة آيت ورير",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "email": "autoecoleraki@gmail.com",
+        "name": "Auto école Raki مدرسة تعليم السياقة راقي",
+        "name:ar": "مدرسة تعليم السياقة راقي",
+        "name:fr": "Auto école Raki",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+212 5 22 22 90 95",
+        "website": "http://www.autoecoleraki.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4442632420,
+      "lat": 33.5700534,
+      "lon": -7.6322612,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "OFPPT IMV معهد مهن الملابس درب غلف",
+        "name:ar": "معهد مهن الملابس درب غلف",
+        "name:fr": "OFPPT IMV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4467374189,
+      "lat": 33.5458195,
+      "lon": -7.5707052,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة البورقادي",
+        "name:ar": "مدرسة البورقادي"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4467374190,
+      "lat": 33.5461494,
+      "lon": -7.5709555,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة خفاجة",
+        "name:ar": "مدرسة خفاجة"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4467479192,
+      "lat": 33.5512849,
+      "lon": -7.6816219,
+      "tags": {
+        "addr:housenumber": "587",
+        "addr:postcode": "20200",
+        "addr:street": "Boulevard Oued Sebou",
+        "amenity": "school",
+        "education": "school",
+        "email": "gsalmostakbal@gmail.com",
+        "name": "Groupe Scolaire Almostakbal مجموعة مدارس المستقبل",
+        "name:ar": "مجموعة مدارس المستقبل",
+        "name:fr": "Groupe Scolaire Almostakbal",
+        "opening_hours": "Mo-Sa",
+        "phone": "+212 5 22 89 49 60"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4493314490,
+      "lat": 33.54923,
+      "lon": -7.6902309,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège abd elaziz meziane belfqih الثانوية الإعدادية عبد العزيز مزيان بلفقيه",
+        "name:ar": "الثانوية الإعدادية عبد العزيز مزيان بلفقيه",
+        "name:fr": "Collège abd elaziz meziane belfqih"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4501300389,
+      "lat": 33.5381245,
+      "lon": -7.6715189,
+      "tags": {
+        "addr:postcode": "20200",
+        "amenity": "school",
+        "education": "school",
+        "email": "gscolaire.alpha@gmail.com",
+        "name": "Groupe scolaire ALPHA privé مجموعة مدارس ألفا الخصوصية",
+        "name:ar": "مجموعة مدارس ألفا الخصوصية",
+        "name:fr": "Groupe scolaire ALPHA privé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540158389,
+      "lat": 33.5889744,
+      "lon": -7.5050692,
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540359592,
+      "lat": 33.598778,
+      "lon": -7.63839,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "AEROSUP école d'ingerieurs",
+        "name:fr": "AEROSUP école d'ingerieurs"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4549508504,
+      "lat": 33.5898086,
+      "lon": -7.5040854,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "note:ar": "مدرسة اعدادية",
+        "note:fr": "Collège"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4695898689,
+      "lat": 33.5817229,
+      "lon": -7.6074645,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Omar el idrissi",
+        "name:fr": "Omar el idrissi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4695899089,
+      "lat": 33.5784155,
+      "lon": -7.6094715,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée ome l idrss",
+        "name:fr": "Lycée ome l idrss"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4720321094,
+      "lat": 33.520132,
+      "lon": -7.6499859,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:housenumber": "333",
+        "addr:street": "lotissement Lina, Sidi Maârouf",
+        "amenity": "school",
+        "education": "school",
+        "grades": "1-10",
+        "name": "Groupe Scolaire Sidi Maârouf",
+        "name:ar": "مجموعة مدارس سيدي معروف",
+        "name:fr": "Groupe Scolaire Sidi Maârouf",
+        "website": "https://gssm.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4721278189,
+      "lat": 33.5491026,
+      "lon": -7.486318,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Moulay youssef"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4730715322,
+      "lat": 33.5362787,
+      "lon": -7.602628,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "IGTC",
+        "name:fr": "IGTC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4731212921,
+      "lat": 33.5482409,
+      "lon": -7.4887073,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Moulay youssef"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4790800921,
+      "lat": 33.5991534,
+      "lon": -7.4896328,
+      "tags": {
+        "addr:street": "Boulevard Ahl Loghlam",
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة 11 يناير",
+        "name:ar": "مدرسة 11 يناير",
+        "name:en": "School 11 January"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4791278121,
+      "lat": 33.5981552,
+      "lon": -7.4896262,
+      "tags": {
+        "addr:street": "Boulevard Ahl Loghlam",
+        "amenity": "school",
+        "education": "school",
+        "name": "الثانوية التأهيلية مولاي يوسف",
+        "name:ar": "الثانوية التأهيلية مولاي يوسف",
+        "name:en": "Highschool Moulay Youssef"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4791930921,
+      "lat": 33.6110318,
+      "lon": -7.5133749,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Assala ثانوية الأصالة الخصوصية",
+        "name:ar": "ثانوية الأصالة الخصوصية",
+        "name:en": "Assala Highschool",
+        "name:fr": "Lycée Assala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4799940321,
+      "lat": 33.5820887,
+      "lon": -7.5598881,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "إعدادية المستقبل",
+        "name:ar": "إعدادية المستقبل",
+        "name:en": "Mostakbal school"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044967325,
+      "lat": 33.5438586,
+      "lon": -7.5978074,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "école bachar bnou bourd مدرسة بشار ابن برد",
+        "name:ar": "مدرسة بشار ابن برد",
+        "name:fr": "école bachar bnou bourd"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044977923,
+      "lat": 33.5428908,
+      "lon": -7.5973722,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "collège elhoussna إعدادية الحسنى",
+        "name:ar": "إعدادية الحسنى",
+        "name:fr": "collège elhoussna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5128085222,
+      "lat": 33.558312,
+      "lon": -7.5409958,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "20 août 1953",
+        "name:fr": "20 août 1953"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5242889722,
+      "lat": 33.5505384,
+      "lon": -7.6809761,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "El jazira الجزيرة",
+        "name:ar": "الجزيرة",
+        "name:fr": "El jazira"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5289750321,
+      "lat": 33.6111572,
+      "lon": -7.5318227,
+      "tags": {
+        "addr:street": "Boulevard Chefchaouni",
+        "amenity": "school",
+        "education": "school",
+        "name": "l'atomium",
+        "name:fr": "l'atomium",
+        "opening_hours": "Mo-Su 17:00-21:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5291521523,
+      "lat": 33.5744758,
+      "lon": -7.5220855,
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "OFPPT Sidi Moumen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5337674385,
+      "lat": 33.5925406,
+      "lon": -7.553699,
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "Lycée abdelkarim al khattabi الثانوية التأهيلية عبد الكريم الخطابي",
+        "name:ar": "الثانوية التأهيلية عبد الكريم الخطابي",
+        "name:fr": "Lycée abdelkarim al khattabi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5422740635,
+      "lat": 33.5351918,
+      "lon": -7.6402596,
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "TBS - Toulouse Business School",
+        "phone": "+212 5 29 05 10 01",
+        "website": "https://www.tbs-education.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5422740637,
+      "lat": 33.5352923,
+      "lon": -7.6397983,
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "ESIG",
+        "wikidata": "Q30294377"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5467116463,
+      "lat": 33.5586231,
+      "lon": -7.6938005,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20220",
+        "addr:street": "Wifak 3 rue 140 IM 8 NR 4 Riyad Oulfa",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "email": "zrikabdelhak@gmail.com",
+        "license_classes": "a;b;c;d",
+        "name": "ZRIK",
+        "name:ar": "مؤسسة زريق لتعليم السياقة",
+        "name:fr": "ZRIK",
+        "network": "ECM",
+        "phone": "+212 6 64 34 92 49"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5467140344,
+      "lat": 33.556018,
+      "lon": -7.6898707,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "OUM ARRABIA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5501090523,
+      "lat": 33.5601109,
+      "lon": -7.5330146,
+      "tags": {
+        "addr:street": "Avenue Abdelkader Sahraoui",
+        "amenity": "school",
+        "education": "school",
+        "name": "AL-MAQDISI cpm الثانوية التأهيلية المقدسي",
+        "name:ar": "الثانوية التأهيلية المقدسي",
+        "name:en": "AL-MAQDISI cpm",
+        "name:fr": "AL-MAQDISI cpm",
+        "opening_hours": "Mo-Sa 09:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5652867529,
+      "lat": 33.5332148,
+      "lon": -7.5852717,
+      "tags": {
+        "addr:street": "Rue 10",
+        "amenity": "school",
+        "education": "school",
+        "name": "Establissement Al Anwar II",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657167304,
+      "lat": 33.5851396,
+      "lon": -7.6185559,
+      "tags": {
+        "addr:street": "Rue Tarrablous",
+        "amenity": "school",
+        "education": "school",
+        "name": "Institut de Beauté",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5664803143,
+      "lat": 33.5391378,
+      "lon": -7.6819874,
+      "tags": {
+        "addr:street": "Route Haj Fateh",
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe Scolaire la Joconde Maternelle",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5676138321,
+      "lat": 33.5582162,
+      "lon": -7.6246638,
+      "tags": {
+        "addr:housenumber": "45",
+        "addr:postcode": "20100",
+        "addr:street": "Route de Taddart",
+        "amenity": "school",
+        "education": "school",
+        "email": "pb.direction@yahoo.fr",
+        "name": "École Paul Bert Crèche-Maternelle-Primaire",
+        "name:fr": "École Paul Bert Crèche-Maternelle-Primaire",
+        "phone": "+212 5 22 82 59 32"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5682584590,
+      "lat": 33.5164352,
+      "lon": -7.6675987,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe scolaire Badry",
+        "name:fr": "Groupe scolaire Badry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5685617258,
+      "lat": 33.5320326,
+      "lon": -7.729665,
+      "tags": {
+        "addr:street": "Boulevard Annasrine",
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Moumna",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5746296428,
+      "lat": 33.5948623,
+      "lon": -7.6167697,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name:en": "British Language Academy",
+        "opening_hours": "Mo-Sa 10:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5792525453,
+      "lat": 33.6127165,
+      "lon": -7.4899707,
+      "tags": {
+        "addr:postcode": "20600",
+        "amenity": "school",
+        "education": "school",
+        "name": "الثانوية التأهيلية عثمان بن عفان",
+        "name:ar": "الثانوية التأهيلية عثمان بن عفان",
+        "name:en": "Lycée Othman bnou Afan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5792574353,
+      "lat": 33.6130992,
+      "lon": -7.4903195,
+      "tags": {
+        "addr:postcode": "20600",
+        "amenity": "school",
+        "education": "school",
+        "name": "الثانوية الإعدادية عمر بن عبد العزيز",
+        "name:ar": "الثانوية الإعدادية عمر بن عبد العزيز",
+        "name:en": "Lycée Collégial: Omar bnou Abdelaziz",
+        "opening_hours": "Mo-Sa 08:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5792613855,
+      "lat": 33.6144768,
+      "lon": -7.4896127,
+      "tags": {
+        "addr:street": "Boulevard Imam Malik",
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة أبي عنان",
+        "name:ar": "مدرسة أبي عنان",
+        "name:en": "Ecole Abi Inaan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5795633855,
+      "lat": 33.6038824,
+      "lon": -7.5038842,
+      "tags": {
+        "addr:street": "Boulevard Ahmed Ahras",
+        "amenity": "school",
+        "education": "school",
+        "name": "الثانوية الإعدادية الرشيد",
+        "name:ar": "الثانوية الإعدادية الرشيد",
+        "name:en": "Lycée Collégial Arrachid"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5830982385,
+      "lat": 33.5955543,
+      "lon": -7.6139765,
+      "tags": {
+        "addr:postcode": "20250",
+        "amenity": "school",
+        "education": "school",
+        "name": "Es2im",
+        "name:en": "Es2im",
+        "name:fr": "Es2im",
+        "phone": "+212 5 22 48 16 60",
+        "website": "https://es2im.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5865124686,
+      "lat": 33.5941466,
+      "lon": -7.6172517,
+      "tags": {
+        "addr:housenumber": "24",
+        "addr:street": "Rue de Tata",
+        "amenity": "school",
+        "education": "school",
+        "name": "École info design",
+        "name:en": "Info design school",
+        "name:fr": "École info design",
+        "phone": "+212 5 22 48 16 60"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6027126585,
+      "lat": 33.5985999,
+      "lon": -7.6150685,
+      "tags": {
+        "addr:housenumber": "113",
+        "addr:postcode": "20000",
+        "addr:street": "Boulevard Houphouët Boigny",
+        "amenity": "school",
+        "education": "school",
+        "email": "contact@imapro.ma",
+        "name": "Imapro",
+        "opening_hours": "24/7",
+        "phone": "+212 5 22 26 46 00",
+        "website": "http://www.imapro.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6099304285,
+      "lat": 33.5559009,
+      "lon": -7.6240753,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "مؤسسة عمر الفاروق",
+        "name:ar": "مؤسسة عمر الفاروق",
+        "name:fr": "Institut Omar El Farouk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6342096424,
+      "lat": 33.6098363,
+      "lon": -7.4976357,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "الثانوية الإعدادية صفي الدين الحلي",
+        "name:ar": "الثانوية الإعدادية صفي الدين الحلي",
+        "name:en": "Lycée Collégial Safi Eddine Elhili"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6359244113,
+      "lat": 33.5425468,
+      "lon": -7.6654711,
+      "tags": {
+        "addr:housenumber": "137",
+        "addr:postcode": "20190",
+        "addr:street": "Boulevard Laymoune",
+        "amenity": "school",
+        "education": "school",
+        "email": "saad@gsae.ma",
+        "name": "مجموعة مدارس أزهار الرياض",
+        "name:ar": "مجموعة مدارس أزهار الرياض",
+        "name:en": "AZHAR ERRIAD SCHOOL",
+        "name:fr": "GROUPE SCOLAIRE AZHAR ERRIAD",
+        "opening_hours": "Mo-Sa 08:30-17:00",
+        "phone": "+212 5 22 89 53 27",
+        "website": "https://www.gsae.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6405151185,
+      "lat": 33.5828761,
+      "lon": -7.5557401,
+      "tags": {
+        "addr:street": "Boulevard de la Grande Ceinture شارع الحزام الكبير",
+        "amenity": "college",
+        "education": "college",
+        "name": "بلابل السلام",
+        "name:ar": "بلابل السلام",
+        "name:en": "Balabil salam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6411464023,
+      "lat": 33.5354164,
+      "lon": -7.7239388,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Doha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6411478245,
+      "lat": 33.5325368,
+      "lon": -7.7293033,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Aya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6411502314,
+      "lat": 33.5370798,
+      "lon": -7.7339381,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe Scolaire les Emeraudes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6411504180,
+      "lat": 33.5368473,
+      "lon": -7.7336806,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Jean Jaures"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6568071587,
+      "lat": 33.5952966,
+      "lon": -7.6157232,
+      "tags": {
+        "addr:street": "Boulevard Mohammed V",
+        "amenity": "school",
+        "education": "school",
+        "name:en": "IHB ART MEDIA",
+        "opening_hours": "Mo-Su 09:00-17:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6575655585,
+      "lat": 33.5593959,
+      "lon": -7.56616,
+      "tags": {
+        "addr:postcode": "20670",
+        "addr:street": "Boulevard du Nil",
+        "amenity": "university",
+        "education": "university",
+        "name": "ENSAM Casablanca",
+        "phone": "+212 5 22 56 42 22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6660801385,
+      "lat": 33.5660037,
+      "lon": -7.5380741,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "التكوين المهني مولاي رشيد (نيڤو باك)",
+        "name:ar": "التكوين المهني مولاي رشيد (نيڤو باك)",
+        "name:fr": "OFPPT, ISTA MOULAY RACHID"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6670464485,
+      "lat": 33.5694154,
+      "lon": -7.5379072,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة التعليم الاولي ماما هبة",
+        "name:ar": "مدرسة التعليم الاولي ماما هبة",
+        "name:en": "Primary school mama hiba",
+        "name:fr": "École maternelle mama hiba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6770446185,
+      "lat": 33.594104,
+      "lon": -7.5069031,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Licye khadijah oumlmouminin تانوية",
+        "name:ar": "Licye khadijah oumlmouminin تانوية"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6782582289,
+      "lat": 33.5948454,
+      "lon": -7.50905,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "إعدادية عبد الواحد العلوي",
+        "name:ar": "إعدادية عبد الواحد العلوي"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6782582290,
+      "lat": 33.5947923,
+      "lon": -7.5093207,
+      "tags": {
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "name": "مقاطعة",
+        "name:ar": "مقاطعة أهل الغلام 72"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7081604785,
+      "lat": 33.5831406,
+      "lon": -7.5542907,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة المنظر الجميل",
+        "name:ar": "مدرسة المنظر الجميل",
+        "name:en": "Ecole la belle vue"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7168971441,
+      "lat": 33.6130643,
+      "lon": -7.5023731,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة أسامة إبن زيد",
+        "name:en": "Oussama Ibno Zayd Primary school",
+        "name:fr": "École primaire Oussama Ibno Zayd"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7168974697,
+      "lat": 33.6143197,
+      "lon": -7.497985,
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "Ecole coiffure"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7844763986,
+      "lat": 33.5717947,
+      "lon": -7.5308692,
+      "tags": {
+        "addr:postcode": "20660",
+        "addr:street": "Avenue du Commandant Idriss Elharti",
+        "amenity": "school",
+        "education": "school",
+        "name": "مجموعة مدارس غزة الخصوصية",
+        "name:ar": "مجموعة مدارس غزة الخصوصية",
+        "name:en": "Groupe Scolaire Ghaza Privé",
+        "name:fr": "Groupe Scolaire Ghaza Privé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8108929117,
+      "lat": 33.5699019,
+      "lon": -7.5326476,
+      "tags": {
+        "addr:street": "Avenue du Commandant Idriss Elharti",
+        "amenity": "school",
+        "education": "school",
+        "name": "أبو قاسم الزياني",
+        "name:ar": "أبو قاسم الزياني",
+        "name:en": "Abou Kacem Al Zayani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8225544717,
+      "lat": 33.5704257,
+      "lon": -7.5321384,
+      "tags": {
+        "addr:street": "Avenue du Commandant Idriss Elharti",
+        "amenity": "school",
+        "education": "school",
+        "name": "إعدادية الرحالي الفاروقي",
+        "name:en": "College Rahali El Farouki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8442480454,
+      "lat": 33.586206,
+      "lon": -7.6364601,
+      "tags": {
+        "addr:housenumber": "18",
+        "addr:postcode": "20250",
+        "addr:street": "Rue El Kadi Iass زنقة القاضي إياس",
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "email": "sfbmaarif@gmail.com",
+        "name": "Jardin d'Enfants Bienfaisance",
+        "operator": "Jardin d'enfants Bienfaisance Maârif",
+        "operator:type": "private",
+        "phone": "+212 5 22 25 31 16",
+        "website": "https://jardinenfantsbienfaisance.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8751312960,
+      "lat": 33.4814102,
+      "lon": -7.5931238,
+      "tags": {
+        "addr:city": "Bouskoura بوسكورة",
+        "addr:street": "Avenue du Promontoire",
+        "amenity": "music_school",
+        "education": "music_school",
+        "image": "https://femmesdumaroc.com/wp-content/uploads/2017/09/ozarts.jpg",
+        "name": "O'zart",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "website": "https://www.palmeraiecountryclub.com/palmeraie-country-club/ozarts/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8754340906,
+      "lat": 33.5142301,
+      "lon": -7.6680103,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:city:fr": "Casablanca",
+        "amenity": "language_school",
+        "education": "language_school",
+        "language:ar": "yes",
+        "language:fr": "yes",
+        "name": "École Islane",
+        "name:fr": "École Islane",
+        "opening_hours": "Mo-Sa 08:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8755743384,
+      "lat": 33.5456171,
+      "lon": -7.6637519,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:housenumber": "2",
+        "addr:postcode": "20190",
+        "addr:street": "10, Lotissement Allaimoun 1",
+        "amenity": "university",
+        "education": "university",
+        "name": "Ecole Polytechnique de Casablanca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8756312687,
+      "lat": 33.5771121,
+      "lon": -7.6498709,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "fee": "yes",
+        "grades": "1-6",
+        "name": "Les Cocons",
+        "polling_station": "no",
+        "religion": "muslim",
+        "start_date": "2007"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8756483702,
+      "lat": 33.5454024,
+      "lon": -7.6565627,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20100",
+        "addr:street": "Route d'El Jadida, km 8",
+        "amenity": "university",
+        "education": "university",
+        "name": "Faculté des sciences Aïn-Chock"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8756483709,
+      "lat": 33.555544,
+      "lon": -7.6438679,
+      "tags": {
+        "addr:street": "Rue des Papillons",
+        "amenity": "music_school",
+        "education": "music_school",
+        "name": "École Internationale de Musique et de Danse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8756483710,
+      "lat": 33.5639148,
+      "lon": -7.6326496,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:street": "Rue Hammad Arraouiyah -ex. Ch. Nodier, angle Bd Ghandi",
+        "amenity": "music_school",
+        "education": "music_school",
+        "name": "École de Musique Salmon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8758625991,
+      "lat": 33.5937172,
+      "lon": -7.606895,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20002",
+        "addr:street": "Boulevard Mohammed V شارع محمد الخامس",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8805742817,
+      "lat": 33.5851917,
+      "lon": -7.551511,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "ثانوية عبد الكريم الخطابي",
+        "name:en": "Lyceé abdel krim khattabi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8805742917,
+      "lat": 33.5857177,
+      "lon": -7.5519919,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "إعدادية الساقية الحمراء",
+        "name:en": "College sakia alhamra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8815075251,
+      "lat": 33.5867452,
+      "lon": -7.6165958,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:housenumber": "5",
+        "addr:postcode": "20120",
+        "addr:street": "Rue Halab",
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Jardin d'enfants Bienfaisance Mers Sultan",
+        "operator": "Jardin d'enfants Bienfaisance Mers Sultan",
+        "operator:type": "private",
+        "phone": "+212 5 22 22 16 06",
+        "website": "https://jardinenfantsbienfaisance.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8874343054,
+      "lat": 33.6093096,
+      "lon": -7.5379005,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Institut Scolaire les Palmiers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8875078226,
+      "lat": 33.6133542,
+      "lon": -7.5278018,
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "ISITS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8887938234,
+      "lat": 33.5963197,
+      "lon": -7.6145825,
+      "tags": {
+        "addr:housenumber": "28",
+        "addr:street": "Avenue des Forces Armées Royales شارع الجيش الملكي",
+        "amenity": "college",
+        "check_date": "2025-01-10",
+        "contact:facebook": "https://www.facebook.com/institut.iddtl",
+        "education": "college",
+        "email": "info@iddtl.ma",
+        "mobile": "+212 7 00 06 99 19",
+        "name": "Institut des Déclarants en Douane de Transport et de Logistique",
+        "phone": "+212 5 22 49 14 67",
+        "short_name": "IDDTL",
+        "website": "https://www.iddtl.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8887938235,
+      "lat": 33.5962951,
+      "lon": -7.6144752,
+      "tags": {
+        "addr:housenumber": "30",
+        "addr:street": "Avenue des Forces Armées Royales شارع الجيش الملكي",
+        "amenity": "college",
+        "check_date": "2025-01-10",
+        "education": "college",
+        "email": "contact@edd.ma",
+        "level": "4",
+        "name": "École des Déclarants en Douane",
+        "phone": "+212 5 22 48 00 14",
+        "short_name": "EDD",
+        "website": "https://edd.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9031883818,
+      "lat": 33.5548927,
+      "lon": -7.5895242,
+      "tags": {
+        "addr:postcode": "20450",
+        "addr:street": "زنقة الشهيد الوليدي الصغير",
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة الأميرة لالة عائشة",
+        "name:fr": "École Princesse Lalla Aicha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9047950217,
+      "lat": 33.5814213,
+      "lon": -7.6354283,
+      "tags": {
+        "addr:housenumber": "34",
+        "addr:postcode": "20330",
+        "addr:street": "Rue Ibnou Mounir",
+        "amenity": "school",
+        "education": "school",
+        "email": "mail@actinginstitute.ma",
+        "name:fr": "Acting Institute",
+        "opening_hours": "Mo 10:00-22:00; Tu 10:00-21:00; We 10:00-19:30; Th 10:00-21:00; Fr 10:00-19:30; Sa 10:00-19:30",
+        "phone": "+212 6 41 44 91 92",
+        "website": "https://actinginstitute.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9177064447,
+      "lat": 33.4651848,
+      "lon": -7.642313,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "ثانوية ابو حيان التوحيدي",
+        "name:en": "Abu Hayyan Al-Tawhidi High School",
+        "name:fr": "Lycée Abou Hayyan Al-Tawhidi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9620906361,
+      "lat": 33.5820818,
+      "lon": -7.6229022,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège de Sherbrooke",
+        "name:fr": "Collège de Sherbrooke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9621212154,
+      "lat": 33.579156,
+      "lon": -7.6237986,
+      "tags": {
+        "amenity": "language_school",
+        "education": "language_school",
+        "name": "Matrix centre de langues"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10101227017,
+      "lat": 33.5505207,
+      "lon": -7.4822389,
+      "tags": {
+        "addr:postcode": "26642",
+        "addr:street": "Bd Attaouhid,Tit Mellilen",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "name": "مدرسة التعليم الذهبي",
+        "name:en": "Auto Ecole Dehbi",
+        "opening_hours": "Th,Sa,Su,Tu,Mo,We 13:00-20:30,15:00-09:00",
+        "phone": "+212 6 63 35 32 47"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10101238217,
+      "lat": 33.550534,
+      "lon": -7.4822356,
+      "tags": {
+        "addr:postcode": "29642",
+        "addr:street": "Bd Attaouhid,Tit Mellilen",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "name": "Auto Ecole Dehbi سيارة التعليم الذهبي",
+        "opening_hours": "Su-Th,Sa 20:30-13:00,14:00-15:00",
+        "phone": "+212 6 63 35 32 47"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10576995171,
+      "lat": 33.6083126,
+      "lon": -7.5365937,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Omar Al Imam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11216875044,
+      "lat": 33.5698547,
+      "lon": -7.5807309,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة عين الشفاء"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11216876591,
+      "lat": 33.5780296,
+      "lon": -7.5660992,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة الموحدين"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11216900787,
+      "lat": 33.5694542,
+      "lon": -7.578907,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة يترب"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11413664275,
+      "lat": 33.5831155,
+      "lon": -7.6087192,
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11413664276,
+      "lat": 33.5829793,
+      "lon": -7.6074401,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe Scolaire La Résidence"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11413680776,
+      "lat": 33.5721907,
+      "lon": -7.6005094,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name:en": "Ecole Sidi Mohamed Ben Youssef Privee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11413681071,
+      "lat": 33.5832199,
+      "lon": -7.6076113,
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11716333361,
+      "lat": 33.5388509,
+      "lon": -7.5901446,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "source": "Ecole primaire Echchahid Mohamed Al Baqqal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11922251985,
+      "lat": 33.4618738,
+      "lon": -7.5163193,
+      "tags": {
+        "addr:street": "FF6M+QGJ, Route, N9, Mediouna",
+        "amenity": "school",
+        "description": "مجموعة مدارس جيمس ويب أكاديمي",
+        "education": "school",
+        "name": "James Webb Academy",
+        "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-12:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12162653228,
+      "lat": 33.595735,
+      "lon": -7.6405081,
+      "tags": {
+        "addr:street": "Rue Omar Al Kindy زنقة عمر الكندي",
+        "amenity": "driving_school",
+        "check_date": "2024-09-08",
+        "contact:facebook": "https://www.facebook.com/auto.aissaoui/",
+        "education": "driving_school",
+        "image": "https://scontent.fmad10-2.fna.fbcdn.net/v/t39.30808-6/309103924_434616485434175_1814109556254473532_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=8FLmHfLMg8sQ7kNvgGzXgy4&_nc_zt=23&_nc_ht=scontent.fmad10-2.fna&_nc_gid=ARqq-ish-RyE_-3LgfZ_nHo&oh=00_AYDYX",
+        "name": "Auto-École Aissaoui سيارة التعليم عيساوي",
+        "name:ar": "سيارة التعليم عيساوي",
+        "name:fr": "Auto-École Aissaoui",
+        "name:zgh": "ⴰⵍⵎⵎⵓⴷ ⵏ ⵓⵏⴷⴰⴱ ⵄⵉⵙⴰⵡⵉ",
+        "phone": "+212 5 22 48 21 48"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12224031661,
+      "lat": 33.5707838,
+      "lon": -7.6774781,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20230",
+        "addr:street": "394 BD AFGHANISTANE HAY HASSANI",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "email": "autoecoletourabi@gmail.com",
+        "license_classes": "a;b;c;d;e",
+        "name": "TOURABI",
+        "name:ar": "مؤسسة تعليم السياقة ترابي",
+        "name:fr": "TOURABI",
+        "network": "ECM",
+        "operator": "MOSTAFA TOURABI",
+        "phone": "+212 6 91 78 43 74"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12224032959,
+      "lat": 33.5897555,
+      "lon": -7.6079717,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20080",
+        "addr:street": "8 RUE Mohammed Laaroussi Résidence Seghir - Derb Omar",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "email": "autoecole.smiha@gmail.com",
+        "license_classes": "a_b_c_d_e",
+        "name": "SMIHA",
+        "name:ar": "مؤسسة تعليم السياقة اسميحة",
+        "name:fr": "SMIHA",
+        "network": "ECM",
+        "operator": "MOHAMED MOUHIB",
+        "phone": "+212 6 04 76 55 22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12229267422,
+      "lat": 33.5147429,
+      "lon": -7.6501849,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20280",
+        "addr:street": "Lot Dandoun N° 69 Angle Rue 53 Sidi Maarouf",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "email": "code87160@gmail.com",
+        "license_classes": "a;b;c;d;e",
+        "name": "AL AKHAOUYNE RAKIA",
+        "name:ar": "سيارة التعليم الأخوين ركيع",
+        "name:fr": "AL AKHAOUYNE RAKIA",
+        "network": "ECM",
+        "operator": "BOUCHAIB RAKIA",
+        "phone": "+212 6 61 05 79 63"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12229272565,
+      "lat": 33.5187356,
+      "lon": -7.5656625,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20480",
+        "addr:street": "Lot El Mkanssa 2 Rue 18 N° 358",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "email": "hassaniabseslam@gmail.com",
+        "license_classes": "a;b;c;d;e",
+        "name": "HASSANI ABDESLAM",
+        "name:ar": "سيارة التعليم حسني عبد السلام",
+        "name:fr": "HASSANI ABDESLAM",
+        "network": "ECM",
+        "operator": "HASSANI ABDESLAM",
+        "phone": "+212 6 68 74 58 93"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12320323712,
+      "lat": 33.5824132,
+      "lon": -7.641226,
+      "tags": {
+        "addr:street": "Rue Caïd al-Achtar",
+        "amenity": "language_school",
+        "check_date": "2024-11-07",
+        "education": "language_school",
+        "name": "Kids & Us"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12487590140,
+      "lat": 33.5686771,
+      "lon": -7.61833,
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:street": "Boulevard Anoual شارع أنوال",
+        "amenity": "school",
+        "check_date": "2025-01-10",
+        "denomination": "sunni",
+        "education": "school",
+        "fixme": "Change to area",
+        "name": "الثانوية الإعدادية النصر",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12497892747,
+      "lat": 33.4966636,
+      "lon": -7.5339869,
+      "tags": {
+        "addr:city": "CASABLANCA",
+        "addr:street": "LOT RACHAD N 153 UNITE 2 ETG 1 MEDIOUNA",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "email": "autoecoleennaim06@gmail.com",
+        "license_classes": "b",
+        "name": "EN-NAIM",
+        "name:ar": "سيارة التعليم النعيم هشام",
+        "name:fr": "EN-NAIM",
+        "network": "ECM",
+        "operator": "HICHAM EN-NAIM",
+        "phone": "+212 6 60 50 95 64"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12497910741,
+      "lat": 33.577424,
+      "lon": -7.5615044,
+      "tags": {
+        "addr:city": "CASABLANCA",
+        "addr:postcode": "20350",
+        "addr:street": "HAY LAMIA BLOC5 NR2 BIS",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "email": "yacinemorsli517@gmail.com",
+        "license_classes": "b",
+        "name": "YACINE MORSLI",
+        "name:ar": "سيارة التعليم ياسين مرسلي",
+        "name:fr": "YACINE MORSLI",
+        "network": "ECM",
+        "operator": "YACINE MORSLI",
+        "phone": "+212 6 26 45 62 63"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12497917532,
+      "lat": 33.5624866,
+      "lon": -7.6761815,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20220",
+        "addr:street": "RUE 11 NR15 HAY ELWARDA",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "email": "autoecoleabdelhak@gmail.com",
+        "license_classes": "b",
+        "name": "ABDELHAK ELBAHI",
+        "name:ar": "سيارة التعليم عبد الحق الباهي",
+        "name:fr": "ABDELHAK ELBAHI",
+        "network": "ECM",
+        "operator": "ABDELHAK ELBAHI",
+        "phone": "+212 6 79 25 42 01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12498017425,
+      "lat": 33.5183688,
+      "lon": -7.7171979,
+      "tags": {
+        "addr:city": "CASABLANCA",
+        "addr:postcode": "27223",
+        "addr:street": "EL FATH 4 ERRAHMA OULAD AHMED",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "email": "chafikayik173@gmail.com",
+        "license_classes": "b",
+        "name": "CHAFIK ATIK",
+        "name:ar": "سيارة التعليم شفيق عتيق",
+        "name:fr": "CHAFIK ATIK",
+        "network": "ECM",
+        "operator": "CHAFIK ATIK",
+        "phone": "+212 6 52 78 97 67"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12794329314,
+      "lat": 33.5921484,
+      "lon": -7.6379846,
+      "tags": {
+        "addr:housenumber": "22",
+        "addr:street": "Rue La Fontaine زنقة لافونتين",
+        "amenity": "university",
+        "check_date": "2025-04-28",
+        "education": "university",
+        "email": "contact@esismp.com",
+        "name": "École Supérieure d’Ingénierie de la Santé et Management de Projets",
+        "phone": "+212 5 22 36 29 85",
+        "short_name": "ESISMP",
+        "website": "https://esismp.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12878733295,
+      "lat": 33.5858614,
+      "lon": -7.6276556,
+      "tags": {
+        "addr:street": "Rue Ali Ben Abi Taleb",
+        "amenity": "university",
+        "check_date": "2025-06-01",
+        "education": "university",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Université Mohammed VI des Sciences de la Santé ⵜⴰⵙⴷⴰⵡⵉⵜ ⵎⵓⵃⴰⵎⵎⴷ ⵡⵉⵙⵙ ⵚⴹⵉⵚ ⵏ ⵜⵓⵙⵏⵉⵡⵉⵏ ⴷ ⵜⴷⵓⵙⵉ جامعة محمد السادس للعلوم والصحة",
+        "name:ar": "جامعة محمد السادس للعلوم والصحة",
+        "name:en": "Mohammed VI University of Sciences and Health",
+        "name:fr": "Université Mohammed VI des Sciences de la Santé",
+        "name:zgh": "ⵜⴰⵙⴷⴰⵡⵉⵜ ⵎⵓⵃⴰⵎⵎⴷ ⵡⵉⵙⵙ ⵚⴹⵉⵚ ⵏ ⵜⵓⵙⵏⵉⵡⵉⵏ ⴷ ⵜⴷⵓⵙⵉ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12878733296,
+      "lat": 33.5852364,
+      "lon": -7.6281386,
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-06-01",
+        "education": "school",
+        "fixme": "Area delimitations between UM6SS and Lycée Chaouki are unclear, need survey/knowledge.",
+        "name": "Lycée Chaouki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13015851201,
+      "lat": 33.5362877,
+      "lon": -7.6027215,
+      "tags": {
+        "addr:housenumber": "41",
+        "addr:postcode": "20470",
+        "addr:street": "Rue 1",
+        "amenity": "school",
+        "education": "school",
+        "level": "3",
+        "name": "British Language Academy",
+        "website": "https://british.academy/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13062498974,
+      "lat": 33.5890771,
+      "lon": -7.636471,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:postcode": "20100",
+        "addr:street": "Rue de la Mutualité",
+        "amenity": "school",
+        "check_date": "2025-08-10",
+        "education": "school",
+        "email": "pleiade@menara.ma",
+        "fax": "+212 5 22 36 49 88",
+        "mobile": "+212 6 61 30 84 36",
+        "name": "Collège-Lycée La Pléiade",
+        "operator:type": "private",
+        "phone": "+212 5 22 36 49 89",
+        "website": "http://www.pleiade.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13073335847,
+      "lat": 33.5851093,
+      "lon": -7.6448438,
+      "tags": {
+        "addr:housenumber": "279",
+        "addr:street": "Boulevard Bir Anzarane شارع بئر أنزران",
+        "amenity": "university",
+        "education": "university",
+        "name": "Institut Supérieur du Génie Appliqué المعهد العالي للهندسة التطبيقية",
+        "name:ar": "المعهد العالي للهندسة التطبيقية",
+        "name:fr": "Institut Supérieur du Génie Appliqué",
+        "short_name:fr": "IGA",
+        "wikidata": "Q27961614",
+        "wikipedia": "fr:Institut supérieur du génie appliqué"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13100969077,
+      "lat": 33.5915596,
+      "lon": -7.6304579,
+      "tags": {
+        "addr:housenumber": "74",
+        "addr:street": "Rue Jean Jaurès زنقة جان جوريس",
+        "amenity": "language_school",
+        "language:en": "yes",
+        "name": "BPEC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13100989609,
+      "lat": 33.5933886,
+      "lon": -7.6282422,
+      "tags": {
+        "amenity": "language_school",
+        "check_date": "2025-08-27",
+        "education": "language_school",
+        "language:en": "main",
+        "name": "American Language Center المركز اللغوي الأمريكي",
+        "name:ar": "المركز اللغوي الأمريكي",
+        "name:en": "American Language Center",
+        "phone": "+212 5 22 27 77 65",
+        "short_name:en": "ALC",
+        "website": "https://alccasablanca.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13104473076,
+      "lat": 33.5837661,
+      "lon": -7.642687,
+      "tags": {
+        "addr:street": "Boulevard Bir Anzarane شارع بئر أنزران",
+        "amenity": "school",
+        "check_date": "2025-03-31",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Lycée Al Khalil Privé ثانوية الخليل الخاصة",
+        "name:ar": "ثانوية الخليل الخاصة",
+        "name:fr": "Lycée Al Khalil Privé",
+        "operator:type": "private",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13107612252,
+      "lat": 33.5811382,
+      "lon": -7.633562,
+      "tags": {
+        "addr:housenumber": "380",
+        "addr:street": "Boulevard Brahim Roudani شارع ابراهيم الروداني",
+        "amenity": "university",
+        "campus": "Roudani",
+        "education": "university",
+        "name": "Université Mundiapolis",
+        "wikidata": "Q20669874"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13173286227,
+      "lat": 33.5690192,
+      "lon": -7.6382451,
+      "tags": {
+        "addr:housenumber": "36",
+        "addr:street": "Rue Clément Marot",
+        "amenity": "school",
+        "check_date": "2025-03-26",
+        "education": "school",
+        "name": "Groupe Scolaire Riviera مجموعة مدارس ريڤيرا",
+        "name:ar": "مجموعة مدارس ريڤيرا",
+        "name:fr": "Groupe Scolaire Riviera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13175198999,
+      "lat": 33.5226996,
+      "lon": -7.6350425,
+      "tags": {
+        "addr:street": "Route de Marrakech",
+        "amenity": "college",
+        "education": "college",
+        "name": "OFPPT",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13175199000,
+      "lat": 33.5217936,
+      "lon": -7.6349093,
+      "tags": {
+        "addr:street": "Route de Marrakech",
+        "amenity": "college",
+        "education": "college",
+        "name": "OFPPT",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13180440112,
+      "lat": 33.5908279,
+      "lon": -7.6354178,
+      "tags": {
+        "addr:housenumber": "270",
+        "addr:street": "Boulevard Mohamed Zerktouni شارع محمد الزرقطوني",
+        "amenity": "college",
+        "campus": "Casablanca",
+        "check_date": "2025-01-10",
+        "education": "college",
+        "mapillary": "2818256018440571",
+        "name": "Collège LaSalle",
+        "phone": "+212 5 22 27 54 79",
+        "website": "https://collegelasallemaroc.lcieducation.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13192337322,
+      "lat": 33.5835885,
+      "lon": -7.6424557,
+      "tags": {
+        "addr:housenumber": "217",
+        "addr:street": "Boulevard Bir Anzarane شارع بئر أنزران",
+        "amenity": "university",
+        "check_date": "2025-03-31",
+        "education": "university",
+        "name": "École Marocaine des Sciences de l'Ingénieur",
+        "operator:type": "private",
+        "phone": "+212 5 22 99 23 23",
+        "short_name": "EMSI",
+        "website": "https://emsi.ma/",
+        "wikidata": "Q3578037",
+        "wikipedia": "fr:École marocaine des sciences de l'ingénieur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13337082033,
+      "lat": 33.5812823,
+      "lon": -7.6336385,
+      "tags": {
+        "addr:housenumber": "380",
+        "addr:street": "Boulevard Brahim Roudani شارع ابراهيم الروداني",
+        "amenity": "college",
+        "education": "college",
+        "name": "École Marocaine des Sciences de l'Ingénieur",
+        "short_name": "EMSI"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13346957712,
+      "lat": 33.5799523,
+      "lon": -7.6224394,
+      "tags": {
+        "addr:street": "Rue Ibn Khatima زنقة ابن خاتمة",
+        "amenity": "college",
+        "education": "college",
+        "name": "Casablanca Ynov Campus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13394730702,
+      "lat": 33.5674449,
+      "lon": -7.5688089,
+      "tags": {
+        "amenity": "school",
+        "name": "اعدادية عبد الخالق الطريس",
+        "name:en": "College Abdelkhalek Torres"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13688680601,
+      "lat": 33.5729724,
+      "lon": -7.551632,
+      "tags": {
+        "amenity": "school",
+        "name": "Tanawia ta2hilia abdelmalek assaadi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13759122273,
+      "lat": 33.5643063,
+      "lon": -7.6279108,
+      "tags": {
+        "addr:street": "Boulevard Abdelmoumen",
+        "amenity": "school",
+        "education": "school",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13768615456,
+      "lat": 33.5655761,
+      "lon": -7.6241062,
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Abd El Moumen ثانوية عبد المومن",
+        "name:ar": "ثانوية عبد المومن",
+        "name:fr": "Lycée Abd El Moumen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13913265906,
+      "lat": 33.5854442,
+      "lon": -7.638449,
+      "tags": {
+        "amenity": "driving_school",
+        "name": "Auto-École Normandie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13948452263,
+      "lat": 33.5794731,
+      "lon": -7.6148853,
+      "tags": {
+        "addr:street": "Avenue 2 Mars شارع 2 مارس",
+        "amenity": "university",
+        "education": "university",
+        "name": "Institut Supérieur du Génie Appliqué المعهد العلي للهندسة التطبيقية",
+        "name:ar": "المعهد العلي للهندسة التطبيقية",
+        "name:fr": "Institut Supérieur du Génie Appliqué"
+      }
+    },
+    {
+      "type": "way",
+      "id": 85497362,
+      "center": {
+        "lat": 33.5779165,
+        "lon": -7.61582
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "الثانوية الإعدادية 2 مارس",
+        "operator:type": "public"
+      }
+    },
+    {
+      "type": "way",
+      "id": 85497363,
+      "center": {
+        "lat": 33.5789075,
+        "lon": -7.6161915
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Imam Boukhari"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133107744,
+      "center": {
+        "lat": 33.5925272,
+        "lon": -7.5933561
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Imam Malik",
+        "old_name": "Lycee de la gare"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140654846,
+      "center": {
+        "lat": 33.5424469,
+        "lon": -7.6582944
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "university",
+        "education": "university",
+        "name": "Université Hassan II Ain Chock جامعة الحسن الثاني عين الشق",
+        "name:ar": "جامعة الحسن الثاني عين الشق",
+        "name:fr": "Université Hassan II Ain Chock",
+        "name:ru": "Университет Хасана II Айна"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140654859,
+      "center": {
+        "lat": 33.5397762,
+        "lon": -7.6643736
+      },
+      "tags": {
+        "addr:street": "Route d'El Jadida, km 8, Oulfa",
+        "alt_name": "ESITH",
+        "amenity": "university",
+        "education": "university",
+        "name": "Ecole Supérieure des Industries du Textile et de l'Habiillement",
+        "short_name": "ESITH"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140654865,
+      "center": {
+        "lat": 33.5395458,
+        "lon": -7.6567948
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "university",
+        "education": "university",
+        "name": "École Nationale Supérieure d'Électricité et de Mécanique",
+        "ref": "ENSEM"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140654866,
+      "center": {
+        "lat": 33.5456007,
+        "lon": -7.6538301
+      },
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "Institut Supérieur d'Etudes Maritimes",
+        "ref": "ISEM"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140654867,
+      "center": {
+        "lat": 33.5385465,
+        "lon": -7.6592489
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "university",
+        "education": "university",
+        "name": "École Normale Supérieure",
+        "ref": "ENS"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140654869,
+      "center": {
+        "lat": 33.5414416,
+        "lon": -7.6555182
+      },
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "École Supérieure de Technologie Casablanca",
+        "short_name": "ESTC"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140654873,
+      "center": {
+        "lat": 33.5483834,
+        "lon": -7.6501905
+      },
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "École Hassania des Travaux Publics المدرسة الحسنية للأشغال العمومية",
+        "name:ar": "المدرسة الحسنية للأشغال العمومية",
+        "name:fr": "École Hassania des Travaux Publics",
+        "wikidata": "Q3577670",
+        "wikipedia": "fr:École Hassania des Travaux Publics"
+      }
+    },
+    {
+      "type": "way",
+      "id": 167625368,
+      "center": {
+        "lat": 33.5779366,
+        "lon": -7.6025847
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 167628018,
+      "center": {
+        "lat": 33.5746957,
+        "lon": -7.6078043
+      },
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-01-10",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Lycée Collègial El Kastalani الثانوية الإعدادية القسطلاني",
+        "name:ar": "الثانوية الإعدادية القسطلاني",
+        "name:fr": "Lycée Collègial El Kastalani",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 167628019,
+      "center": {
+        "lat": 33.5784405,
+        "lon": -7.6074601
+      },
+      "tags": {
+        "amenity": "college",
+        "education": "college"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168411293,
+      "center": {
+        "lat": 33.5957369,
+        "lon": -7.6350385
+      },
+      "tags": {
+        "addr:housenumber": "260",
+        "addr:street": "Boulevard Ziraoui شارع الزيراوي",
+        "amenity": "school",
+        "check_date": "2025-01-07",
+        "designation": "Lycée Lyautey AEFE",
+        "education": "school",
+        "isced:level": "2-3",
+        "name": "Lycée Lyautey",
+        "religion": "none",
+        "website": "https://www.lyceelyautey.org/",
+        "wikidata": "Q2371114",
+        "wikimedia_commons": "Category:Lycée Lyautey de Casablanca",
+        "wikipedia": "en:Lycée Lyautey (Casablanca)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 214267809,
+      "center": {
+        "lat": 33.5742785,
+        "lon": -7.6221132
+      },
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "Faculté de Médecine et de Pharmacie de Casablanca",
+        "name:fr": "Faculté de Médecine et de Pharmacie de Casablanca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 214267811,
+      "center": {
+        "lat": 33.5777524,
+        "lon": -7.6137176
+      },
+      "tags": {
+        "addr:street": "Avenue 2 Mars شارع 2 مارس",
+        "amenity": "school",
+        "check_date": "2025-12-12",
+        "education": "school",
+        "name": "Lycée Mohammed V الثانوية التأهيلية محمد الخامس",
+        "name:ar": "الثانوية التأهيلية محمد الخامس",
+        "name:fr": "Lycée Mohammed V",
+        "operator:type": "public",
+        "wikidata": "Q3268850"
+      }
+    },
+    {
+      "type": "way",
+      "id": 214477128,
+      "center": {
+        "lat": 33.5851215,
+        "lon": -7.643475
+      },
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-01-11",
+        "education": "school",
+        "email": "ecole.gautier@ienmaroc.org",
+        "image": "https://www.ecolegautier.com/wp-content/uploads/2019/03/sl3.jpg",
+        "isced:level": "0-1",
+        "name": "École Théophile Gautier",
+        "operator:type": "private",
+        "phone": "+212 5 22 25 33 19",
+        "religion": "none",
+        "website": "https://www.ecolegautier.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215437574,
+      "center": {
+        "lat": 33.5808884,
+        "lon": -7.5940351
+      },
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "College"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218422443,
+      "center": {
+        "lat": 33.5869782,
+        "lon": -7.6060258
+      },
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "Lycee technique Jabber Ibnou Hayyan"
+      }
+    },
+    {
+      "type": "way",
+      "id": 222715970,
+      "center": {
+        "lat": 33.5608431,
+        "lon": -7.6136341
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Moulay Abdellah"
+      }
+    },
+    {
+      "type": "way",
+      "id": 222800636,
+      "center": {
+        "lat": 33.5750218,
+        "lon": -7.652264
+      },
+      "tags": {
+        "addr:street": "Rue Oualidia",
+        "amenity": "school",
+        "education": "school",
+        "name": "Les Ecoles El Manal"
+      }
+    },
+    {
+      "type": "way",
+      "id": 222800770,
+      "center": {
+        "lat": 33.5737257,
+        "lon": -7.6511848
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 222801375,
+      "center": {
+        "lat": 33.5631726,
+        "lon": -7.6377603
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Al jabr"
+      }
+    },
+    {
+      "type": "way",
+      "id": 222801458,
+      "center": {
+        "lat": 33.5628685,
+        "lon": -7.6395199
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole Ernest Renan"
+      }
+    },
+    {
+      "type": "way",
+      "id": 222802244,
+      "center": {
+        "lat": 33.5564091,
+        "lon": -7.6170738
+      },
+      "tags": {
+        "addr:street": "Rue du Golo",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Etablissement Al Inbiaat Primaire Privée",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 231271841,
+      "center": {
+        "lat": 33.5119802,
+        "lon": -7.6553668
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Abu Baker Essediq"
+      }
+    },
+    {
+      "type": "way",
+      "id": 231933367,
+      "center": {
+        "lat": 33.5812095,
+        "lon": -7.6148555
+      },
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20490",
+        "addr:street": "Avenue 2 Mars",
+        "amenity": "school",
+        "education": "school",
+        "name": "maintenon",
+        "operator": "Meryam khatib"
+      }
+    },
+    {
+      "type": "way",
+      "id": 243351205,
+      "center": {
+        "lat": 33.5775844,
+        "lon": -7.6545569
+      },
+      "tags": {
+        "addr:housename": "Ecole",
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole Georges Bizet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 243352223,
+      "center": {
+        "lat": 33.5577795,
+        "lon": -7.6371074
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Carmel de l'Oasis"
+      }
+    },
+    {
+      "type": "way",
+      "id": 243800401,
+      "center": {
+        "lat": 33.5637257,
+        "lon": -7.5562132
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "education": "school",
+        "name": "Ecole Manar Alkhayr 2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 243912971,
+      "center": {
+        "lat": 33.5636741,
+        "lon": -7.5531163
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Jaâfar Al Fassi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 243954287,
+      "center": {
+        "lat": 33.5585274,
+        "lon": -7.5567585
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "school",
+        "education": "school",
+        "name": "الثانوية التأهيلية مولاي إسماعيل",
+        "operator:type": "public"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244038194,
+      "center": {
+        "lat": 33.559312,
+        "lon": -7.5568482
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "school",
+        "education": "school",
+        "name": "الثانوية الإعدادية للا مريم",
+        "operator:type": "public"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244038196,
+      "center": {
+        "lat": 33.558126,
+        "lon": -7.5591266
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Ecole Al Akkad"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244038197,
+      "center": {
+        "lat": 33.5597299,
+        "lon": -7.5554979
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "school",
+        "education": "school",
+        "name": "الثانوية التأهيلية الرائد ادريس الحارثي",
+        "operator:type": "public"
+      }
+    },
+    {
+      "type": "way",
+      "id": 263200491,
+      "center": {
+        "lat": 33.5435354,
+        "lon": -7.5663922
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "11 janvier"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269570440,
+      "center": {
+        "lat": 33.5659475,
+        "lon": -7.5408662
+      },
+      "tags": {
+        "addr:city": "Casablanca الدار البيضاء",
+        "addr:street": "avenue idriss el harti",
+        "amenity": "college",
+        "education": "college",
+        "name": "Faculté des Sciences Ben M'sik"
+      }
+    },
+    {
+      "type": "way",
+      "id": 274178425,
+      "center": {
+        "lat": 33.5591938,
+        "lon": -7.6794361
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Abd El Aziz El Fachtali"
+      }
+    },
+    {
+      "type": "way",
+      "id": 274178428,
+      "center": {
+        "lat": 33.5568814,
+        "lon": -7.6799577
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "college henry matisse"
+      }
+    },
+    {
+      "type": "way",
+      "id": 285573275,
+      "center": {
+        "lat": 33.5933211,
+        "lon": -7.531309
+      },
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "Faculté de Aïn Sebaa",
+        "operator": "Faculté des Sciences Juridiques Economiques et Sociales - Université Hassan II",
+        "short_name": "Fsjes",
+        "website": "http://www.facainsebaa.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 286685404,
+      "center": {
+        "lat": 33.5717725,
+        "lon": -7.6228599
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Abdelkrim Lahlou"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297670872,
+      "center": {
+        "lat": 33.5924531,
+        "lon": -7.6287112
+      },
+      "tags": {
+        "addr:postcode": "20012",
+        "addr:street": "Place Bel Air",
+        "amenity": "school",
+        "education": "school",
+        "name": "École Jeanne d'Arc",
+        "name:es": "Escuela Jeanne d'Arc"
+      }
+    },
+    {
+      "type": "way",
+      "id": 338124655,
+      "center": {
+        "lat": 33.5421986,
+        "lon": -7.5534663
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Abdellah Gennoune"
+      }
+    },
+    {
+      "type": "way",
+      "id": 339220626,
+      "center": {
+        "lat": 33.5860489,
+        "lon": -7.6419436
+      },
+      "tags": {
+        "addr:street": "Rue des Arènes",
+        "amenity": "school",
+        "denomination": "sunni",
+        "education": "school",
+        "isced:level": "2",
+        "name": "Collège Badr الثانوية الإعدادية بدر",
+        "name:ar": "الثانوية الإعدادية بدر",
+        "name:fr": "Collège Badr",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 373507930,
+      "center": {
+        "lat": 33.5588286,
+        "lon": -7.6024445
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 379401947,
+      "center": {
+        "lat": 33.5411773,
+        "lon": -7.5993919
+      },
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "Faculté de Lettres et de Sciences Humaines d'Ain Chock كلية الآداب و العلوم الإنسانية عين الشق",
+        "name:ar": "كلية الآداب و العلوم الإنسانية عين الشق",
+        "name:fr": "Faculté de Lettres et de Sciences Humaines d'Ain Chock"
+      }
+    },
+    {
+      "type": "way",
+      "id": 389456668,
+      "center": {
+        "lat": 33.5483551,
+        "lon": -7.6366307
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "school",
+        "check_date": "2025-02-19",
+        "education": "school",
+        "name": "Avicenna",
+        "operator": "Groupe Avicenna"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391064131,
+      "center": {
+        "lat": 33.5692294,
+        "lon": -7.6790113
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Sidi Al Khadir"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391064132,
+      "center": {
+        "lat": 33.5681388,
+        "lon": -7.6783139
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Ibn Al Haytham"
+      }
+    },
+    {
+      "type": "way",
+      "id": 395969086,
+      "center": {
+        "lat": 33.6000419,
+        "lon": -7.6319168
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Amina bent ouahab"
+      }
+    },
+    {
+      "type": "way",
+      "id": 403382635,
+      "center": {
+        "lat": 33.5588692,
+        "lon": -7.5710027
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "ecole mosque مدرسة الابتدائية المسجد",
+        "name:ar": "مدرسة الابتدائية المسجد"
+      }
+    },
+    {
+      "type": "way",
+      "id": 403450757,
+      "center": {
+        "lat": 33.5436551,
+        "lon": -7.571677
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "grades": "1-6",
+        "name": "مدرسة تنمل",
+        "name:ar": "المدرسة الابتدائية تنمل",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 403450781,
+      "center": {
+        "lat": 33.5469025,
+        "lon": -7.5675281
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 403450782,
+      "center": {
+        "lat": 33.5459984,
+        "lon": -7.5709304
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 403450839,
+      "center": {
+        "lat": 33.5588767,
+        "lon": -7.5754262
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 403450850,
+      "center": {
+        "lat": 33.5643364,
+        "lon": -7.539678
+      },
+      "tags": {
+        "amenity": "college",
+        "education": "college"
+      }
+    },
+    {
+      "type": "way",
+      "id": 416247693,
+      "center": {
+        "lat": 33.5707318,
+        "lon": -7.6409427
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Al Waha"
+      }
+    },
+    {
+      "type": "way",
+      "id": 417903087,
+      "center": {
+        "lat": 33.5614847,
+        "lon": -7.6230866
+      },
+      "tags": {
+        "addr:street": "Boulevard Modibo Keita",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Institut Al Hakim",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 417903105,
+      "center": {
+        "lat": 33.5589664,
+        "lon": -7.6250953
+      },
+      "tags": {
+        "addr:street": "Route de Taddart",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Paul Bert Créche- Maternelle-Primaire",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 417987344,
+      "center": {
+        "lat": 33.5629407,
+        "lon": -7.6208553
+      },
+      "tags": {
+        "addr:street": "Rue Du Chemin Fleuri",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Institut Chafira",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 417988976,
+      "center": {
+        "lat": 33.567808,
+        "lon": -7.6208132
+      },
+      "tags": {
+        "addr:street": "Avenue De l'Hermitage",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Ecole Maternelle et Primaire",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 417989148,
+      "center": {
+        "lat": 33.5679276,
+        "lon": -7.6171227
+      },
+      "tags": {
+        "addr:street": "Allée de Persée",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Ecole Elabrar Privee",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419547657,
+      "center": {
+        "lat": 33.5576892,
+        "lon": -7.6291486
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419550387,
+      "center": {
+        "lat": 33.5520751,
+        "lon": -7.6419798
+      },
+      "tags": {
+        "addr:street": "Rue Abou Dabi",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Institut Taiba",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419563162,
+      "center": {
+        "lat": 33.5631774,
+        "lon": -7.6352215
+      },
+      "tags": {
+        "addr:street": "Rue Rostand",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Carré Junior",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419591808,
+      "center": {
+        "lat": 33.5638413,
+        "lon": -7.6400394
+      },
+      "tags": {
+        "addr:street": "Rue des Eperviers",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419730309,
+      "center": {
+        "lat": 33.5736145,
+        "lon": -7.6526775
+      },
+      "tags": {
+        "addr:street": "Rue Jabel Saghro",
+        "amenity": "college",
+        "branch": "Casablanca-Settat - Annexe Hay Salam الدار البيضاء-سطات - ملحقة حي السلام",
+        "check_date": "2025-03-29",
+        "education": "college",
+        "email": "contact@crmefcasablancasettat.ma",
+        "fax": "+212 5 22 39 49 42",
+        "image": "https://i.ibb.co/nMtWwxvm/Whats-App-Image-2022-03-21-at-13-14-27-4.jpg",
+        "name": "Centre Régional des Métiers de l'Éducation et de la Formation المركز الجهوي لمهن التربية والتكوين",
+        "name:ar": "المركز الجهوي لمهن التربية والتكوين",
+        "name:fr": "Centre Régional des Métiers de l'Éducation et de la Formation Casablanca-Settat - Annexe Hay Salam",
+        "operator:type": "public",
+        "phone": "+212 5 22 94 19 67",
+        "short_name": "CRMEF"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419748465,
+      "center": {
+        "lat": 33.5607716,
+        "lon": -7.6391077
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "fixme": "please add \"addr:street\" with name.",
+        "name": "Ecole Oasis Privee",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419748498,
+      "center": {
+        "lat": 33.5667769,
+        "lon": -7.6417933
+      },
+      "tags": {
+        "addr:street": "Rue des Flamants",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Ecole El Jidr",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419748541,
+      "center": {
+        "lat": 33.5655983,
+        "lon": -7.6421661
+      },
+      "tags": {
+        "addr:street": "Rue Courlis",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Charles Péguy Maternelle",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419748600,
+      "center": {
+        "lat": 33.5639338,
+        "lon": -7.6394765
+      },
+      "tags": {
+        "addr:street": "Rue de la Pie",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Ecole Yassamine Maternelle",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419755312,
+      "center": {
+        "lat": 33.5595737,
+        "lon": -7.6390541
+      },
+      "tags": {
+        "addr:street": "Boulevard Abderrahim Bouabid",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "P'tite Main Junior",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419758144,
+      "center": {
+        "lat": 33.5592461,
+        "lon": -7.6435978
+      },
+      "tags": {
+        "addr:street": "Rue du Chasseur Jules Gros",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Diplôme D'etat Francais",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419811118,
+      "center": {
+        "lat": 33.54612,
+        "lon": -7.6401142
+      },
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:street": "Boulevard Panoramique شارع بانوراميك",
+        "amenity": "school",
+        "check_date": "2025-02-19",
+        "education": "school",
+        "name": "École Montessori"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419994239,
+      "center": {
+        "lat": 33.5467545,
+        "lon": -7.6322833
+      },
+      "tags": {
+        "addr:street": "Boulevard Panoramique",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Institution Sar Lalla",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419994418,
+      "center": {
+        "lat": 33.5464286,
+        "lon": -7.6330994
+      },
+      "tags": {
+        "addr:street": "Boulevard Panoramique",
+        "amenity": "school",
+        "building": "commercial",
+        "education": "school",
+        "name": "Ecoledesar Lalla Amina",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 420308855,
+      "center": {
+        "lat": 33.5937225,
+        "lon": -7.5930608
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole Anatole France"
+      }
+    },
+    {
+      "type": "way",
+      "id": 420646587,
+      "center": {
+        "lat": 33.5685652,
+        "lon": -7.5879874
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422448530,
+      "center": {
+        "lat": 33.5929215,
+        "lon": -7.5325782
+      },
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "ENCG Casablanca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424321680,
+      "center": {
+        "lat": 33.5656123,
+        "lon": -7.5817679
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424321700,
+      "center": {
+        "lat": 33.5580376,
+        "lon": -7.5851999
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Charif al-Idrissi ثانوية شريف الإدريسي",
+        "name:ar": "ثانوية شريف الإدريسي",
+        "name:fr": "Lycée Charif al-Idrissi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424321701,
+      "center": {
+        "lat": 33.5577228,
+        "lon": -7.5866079
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Raid Allal Rahmani اعدادية الرائد علال الرحماني",
+        "name:ar": "اعدادية الرائد علال الرحماني",
+        "name:fr": "Collège Raid Allal Rahmani"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424323328,
+      "center": {
+        "lat": 33.5610659,
+        "lon": -7.5790761
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424323329,
+      "center": {
+        "lat": 33.5622294,
+        "lon": -7.5775046
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Ibn Hazm"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424323330,
+      "center": {
+        "lat": 33.560761,
+        "lon": -7.5775865
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424323693,
+      "center": {
+        "lat": 33.5629458,
+        "lon": -7.5864816
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Zineb Nafzawia اعدادية زينب النفزاوية",
+        "name:ar": "اعدادية زينب النفزاوية",
+        "name:fr": "Collège Zineb Nafzawia"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424323695,
+      "center": {
+        "lat": 33.5636698,
+        "lon": -7.5866264
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424323697,
+      "center": {
+        "lat": 33.5625068,
+        "lon": -7.5892175
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Taha Hossein ثايوية طه حسين",
+        "name:ar": "ثايوية طه حسين",
+        "name:fr": "Lycée Taha Hossein"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424323699,
+      "center": {
+        "lat": 33.5615517,
+        "lon": -7.5901696
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424323783,
+      "center": {
+        "lat": 33.5577536,
+        "lon": -7.5884362
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée de Ben M'sick ثانوية بن ميسك",
+        "name:ar": "ثانوية بن ميسك",
+        "name:fr": "Lycée de Ben M'sick"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424323845,
+      "center": {
+        "lat": 33.5461608,
+        "lon": -7.5917033
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Abdelkhalek Torres ثانوية عبد الخالق طريس",
+        "name:ar": "ثانوية عبد الخالق طريس",
+        "name:fr": "Lycée Abdelkhalek Torres"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424324238,
+      "center": {
+        "lat": 33.5545942,
+        "lon": -7.5866915
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424324241,
+      "center": {
+        "lat": 33.5412247,
+        "lon": -7.589069
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424324242,
+      "center": {
+        "lat": 33.5391549,
+        "lon": -7.5956115
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Lmsalla"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424324739,
+      "center": {
+        "lat": 33.5430913,
+        "lon": -7.5982481
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Ibnou Zaidoune"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424324741,
+      "center": {
+        "lat": 33.5428569,
+        "lon": -7.6003777
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège"
+      }
+    },
+    {
+      "type": "way",
+      "id": 443476750,
+      "center": {
+        "lat": 33.6070079,
+        "lon": -7.5517177
+      },
+      "tags": {
+        "addr:postcode": "20250",
+        "addr:street": "Route Alwahda",
+        "amenity": "school",
+        "building": "yes",
+        "education": "school",
+        "name": "Ecole française des Affaires",
+        "phone": "+212 5 22 35 53 53",
+        "website": "https://efa.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 466924390,
+      "center": {
+        "lat": 33.4919832,
+        "lon": -7.5898838
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "American Academy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 483237148,
+      "center": {
+        "lat": 33.5605803,
+        "lon": -7.6026683
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 483237212,
+      "center": {
+        "lat": 33.5593688,
+        "lon": -7.5998882
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 483252327,
+      "center": {
+        "lat": 33.5467153,
+        "lon": -7.5811482
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 483473361,
+      "center": {
+        "lat": 33.6005075,
+        "lon": -7.5361685
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 483503185,
+      "center": {
+        "lat": 33.5575629,
+        "lon": -7.5973777
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Collégiale Fatima El Fihriya"
+      }
+    },
+    {
+      "type": "way",
+      "id": 512352873,
+      "center": {
+        "lat": 33.5624225,
+        "lon": -7.6049629
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée El Ghazali"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515081550,
+      "center": {
+        "lat": 33.5862279,
+        "lon": -7.5549276
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée El Farabi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515530193,
+      "center": {
+        "lat": 33.5270827,
+        "lon": -7.6381088
+      },
+      "tags": {
+        "addr:street": "Route de Nouaceur طريق النواصر",
+        "amenity": "university",
+        "campus": "Casablanca",
+        "check_date": "2025-01-10",
+        "education": "university",
+        "email": "giscae@groupeiscae.ma",
+        "internet_access": "yes",
+        "name": "ISCAE",
+        "operator:type": "public",
+        "phone": "+212 5 22 33 54 82",
+        "source": "https://www.groupeiscae.ma/campus/vie-estudiantine/",
+        "wikidata": "Q3152559",
+        "wikimedia_commons": "Category:Institut supérieur de commerce et d'administration des entreprises",
+        "wikipedia": "en:ISCAE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515874326,
+      "center": {
+        "lat": 33.5726453,
+        "lon": -7.5280046
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Lycée AL AKKAD"
+      }
+    },
+    {
+      "type": "way",
+      "id": 516165906,
+      "center": {
+        "lat": 33.5660441,
+        "lon": -7.597813
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Meriem Fihria"
+      }
+    },
+    {
+      "type": "way",
+      "id": 516165907,
+      "center": {
+        "lat": 33.5664989,
+        "lon": -7.5986834
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Lalla Hasna"
+      }
+    },
+    {
+      "type": "way",
+      "id": 516165908,
+      "center": {
+        "lat": 33.5665857,
+        "lon": -7.5965739
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Imam Ali"
+      }
+    },
+    {
+      "type": "way",
+      "id": 518133885,
+      "center": {
+        "lat": 33.5457887,
+        "lon": -7.6856028
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Ibn Abad"
+      }
+    },
+    {
+      "type": "way",
+      "id": 519415976,
+      "center": {
+        "lat": 33.568902,
+        "lon": -7.6833048
+      },
+      "tags": {
+        "addr:street": "Rue Bouchaib Reddad",
+        "amenity": "college",
+        "education": "college",
+        "name": "ISTA Hay Hassani 1",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 520556593,
+      "center": {
+        "lat": 33.5782087,
+        "lon": -7.5466833
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Ibn Badis"
+      }
+    },
+    {
+      "type": "way",
+      "id": 520874237,
+      "center": {
+        "lat": 33.6033184,
+        "lon": -7.6460144
+      },
+      "tags": {
+        "addr:street": "Avenue Mehdi Ben Barka شارع المهدي بن بركة",
+        "amenity": "college",
+        "check_date": "2025-04-24",
+        "education": "college",
+        "mapillary": "908015726721178",
+        "name": "Institut Spécialisé de Technologie Appliquée El Hank المعهد المتخصص للتكنولوجيا التطبيقية العنق",
+        "name:ar": "المعهد المتخصص للتكنولوجيا التطبيقية العنق",
+        "name:fr": "Institut Spécialisé de Technologie Appliquée El Hank",
+        "operator": "OFPPT",
+        "operator:type": "public",
+        "short_name:fr": "ISTA El Hank",
+        "website": "https://sites.google.com/view/istaelhank/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521204681,
+      "center": {
+        "lat": 33.5752538,
+        "lon": -7.7021653
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Sidi Abderrahmane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521347872,
+      "center": {
+        "lat": 33.5892361,
+        "lon": -7.6428407
+      },
+      "tags": {
+        "amenity": "school",
+        "check_date": "2024-10-08",
+        "denomination": "sunni",
+        "education": "school",
+        "isced:level": "3",
+        "name": "Lycée Wallada ⴰⵙⵉⵏⴰⵏ ⵏ ⵓⵙⵎⴷⵉ ⵡⴰⵍⴰⴷⴰ الثانوية التأهيلية ولادة",
+        "name:ar": "الثانوية التأهيلية ولادة",
+        "name:fr": "Lycée Wallada",
+        "name:zgh": "ⴰⵙⵉⵏⴰⵏ ⵏ ⵓⵙⵎⴷⵉ ⵡⴰⵍⴰⴷⴰ",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521351941,
+      "center": {
+        "lat": 33.5816878,
+        "lon": -7.6515299
+      },
+      "tags": {
+        "addr:street": "Boulevard Ibn Sina شارع ابن سينا",
+        "amenity": "school",
+        "check_date": "2025-03-29",
+        "denomination": "sunni",
+        "education": "school",
+        "isced:level": "3",
+        "mapillary": "276567147476745",
+        "name": "Lycée Ziriab الثانوية التأهيلية زرياب",
+        "name:ar": "الثانوية التأهيلية زرياب",
+        "name:fr": "Lycée Ziriab",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521476355,
+      "center": {
+        "lat": 33.5682427,
+        "lon": -7.6695488
+      },
+      "tags": {
+        "amenity": "school",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Collège Abdellah Guennoun",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521476356,
+      "center": {
+        "lat": 33.5686754,
+        "lon": -7.6691494
+      },
+      "tags": {
+        "amenity": "school",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Lycée Ibn Al Yassamine",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521554038,
+      "center": {
+        "lat": 33.5559995,
+        "lon": -7.5350837
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Hassan el Youssi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521564457,
+      "center": {
+        "lat": 33.5661919,
+        "lon": -7.5292494
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Abdelkarim Al Khatabi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521582040,
+      "center": {
+        "lat": 33.5387924,
+        "lon": -7.5713821
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Driss Lahrizi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521582041,
+      "center": {
+        "lat": 33.5390866,
+        "lon": -7.5708879
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Al Mutanabbi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521582042,
+      "center": {
+        "lat": 33.5387995,
+        "lon": -7.5723905
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Hassan II"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521582043,
+      "center": {
+        "lat": 33.5397513,
+        "lon": -7.573131
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Khaled Ibn Al Walid"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521582045,
+      "center": {
+        "lat": 33.5398828,
+        "lon": -7.5719183
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Ouad Dahab"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521583045,
+      "center": {
+        "lat": 33.5385543,
+        "lon": -7.5690903
+      },
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "OFPPT Lahrizi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 547643854,
+      "center": {
+        "lat": 33.5755915,
+        "lon": -7.5293062
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole Al Joulane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550290679,
+      "center": {
+        "lat": 33.5907617,
+        "lon": -7.493032
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550290683,
+      "center": {
+        "lat": 33.5867867,
+        "lon": -7.4858807
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550290684,
+      "center": {
+        "lat": 33.5817323,
+        "lon": -7.4802013
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550290689,
+      "center": {
+        "lat": 33.5882185,
+        "lon": -7.4825131
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550290690,
+      "center": {
+        "lat": 33.5876614,
+        "lon": -7.4815247
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550290695,
+      "center": {
+        "lat": 33.5900849,
+        "lon": -7.4897908
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550290697,
+      "center": {
+        "lat": 33.5907854,
+        "lon": -7.4898977
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550290698,
+      "center": {
+        "lat": 33.5910067,
+        "lon": -7.4884302
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550656937,
+      "center": {
+        "lat": 33.6087997,
+        "lon": -7.5107466
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "school",
+        "denomination": "sunni",
+        "education": "school",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550657235,
+      "center": {
+        "lat": 33.6039502,
+        "lon": -7.5097867
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 555864000,
+      "center": {
+        "lat": 33.5195184,
+        "lon": -7.6602554
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 559095956,
+      "center": {
+        "lat": 33.6007674,
+        "lon": -7.4849302
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten"
+      }
+    },
+    {
+      "type": "way",
+      "id": 559099934,
+      "center": {
+        "lat": 33.5994005,
+        "lon": -7.4880017
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 560052461,
+      "center": {
+        "lat": 33.6008972,
+        "lon": -7.4811077
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 566211675,
+      "center": {
+        "lat": 33.5284861,
+        "lon": -7.6756692
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570654397,
+      "center": {
+        "lat": 33.570242,
+        "lon": -7.5241802
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole primaire Abi Dar Al Ghaffari"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577519934,
+      "center": {
+        "lat": 33.5242247,
+        "lon": -7.6464181
+      },
+      "tags": {
+        "addr:street": "Route de Bouskoura",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 587293454,
+      "center": {
+        "lat": 33.6128963,
+        "lon": -7.5277106
+      },
+      "tags": {
+        "addr:street": "Boulevard Chefchaouni",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Madaris Anisse Privee",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 587293458,
+      "center": {
+        "lat": 33.6146754,
+        "lon": -7.5281282
+      },
+      "tags": {
+        "addr:street": "Allée des Citronniers",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Lycée Anisse",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 587327830,
+      "center": {
+        "lat": 33.6138334,
+        "lon": -7.5308696
+      },
+      "tags": {
+        "addr:street": "Allée des Mimosas",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Arrazi",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 587345431,
+      "center": {
+        "lat": 33.624032,
+        "lon": -7.4856725
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Ecoles L'Ambassadeur",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588233066,
+      "center": {
+        "lat": 33.5594829,
+        "lon": -7.6770121
+      },
+      "tags": {
+        "addr:street": "Boulevard d'Oued Oum Rabia",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Ghafiri",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588233136,
+      "center": {
+        "lat": 33.5576062,
+        "lon": -7.6821937
+      },
+      "tags": {
+        "addr:street": "Boulevard d'Oued Oum Rabia",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Al Ajial",
+        "source": "KaartGroundSurvey2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588236513,
+      "center": {
+        "lat": 33.6359415,
+        "lon": -7.4516232
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Nour Zenata",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588475581,
+      "center": {
+        "lat": 33.6110172,
+        "lon": -7.5316627
+      },
+      "tags": {
+        "addr:street": "Boulevard Chefchaouni",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "L'atomum",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588508360,
+      "center": {
+        "lat": 33.589943,
+        "lon": -7.6085732
+      },
+      "tags": {
+        "addr:street": "Boulevard Mohamed Smiha",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Institut Nobl de Gestion D'informatique",
+        "source": "KaartGroundSurvey2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588508362,
+      "center": {
+        "lat": 33.5929032,
+        "lon": -7.6101033
+      },
+      "tags": {
+        "addr:street": "Rue Hommane Al Fatwaki",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Institut Supêrieur de journalisme & d'information",
+        "source": "KaartGroundSurvey2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 590544284,
+      "center": {
+        "lat": 33.5554638,
+        "lon": -7.611732
+      },
+      "tags": {
+        "addr:street": "Avenue de Nador",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Ecole Al Amiriya",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 590579790,
+      "center": {
+        "lat": 33.5599427,
+        "lon": -7.6112754
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "fixme": "please add \"addr:street\" with name.",
+        "name": "Ecole Le Tremplin",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 590874429,
+      "center": {
+        "lat": 33.5732281,
+        "lon": -7.6334443
+      },
+      "tags": {
+        "addr:street": "Avenue Stendhal شارع ستندال",
+        "amenity": "college",
+        "education": "college",
+        "name": "Centre Régional des Métiers de l'Éducation et de la Formation المركز الجهوي لمهن التربية والتكوين",
+        "name:ar": "المركز الجهوي لمهن التربية والتكوين",
+        "name:fr": "Centre Régional des Métiers de l'Éducation et de la Formation"
+      }
+    },
+    {
+      "type": "way",
+      "id": 590882609,
+      "center": {
+        "lat": 33.5417408,
+        "lon": -7.6348937
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Yassamine",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591035266,
+      "center": {
+        "lat": 33.5969825,
+        "lon": -7.5191957
+      },
+      "tags": {
+        "addr:street": "Avenue Moulay Mohamed Baamrani",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Groupe Scolare Henri Matisse",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591682192,
+      "center": {
+        "lat": 33.5104512,
+        "lon": -7.6582024
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591682197,
+      "center": {
+        "lat": 33.5104355,
+        "lon": -7.657438
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591899001,
+      "center": {
+        "lat": 33.6050495,
+        "lon": -7.6245208
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Royale Navale"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592193995,
+      "center": {
+        "lat": 33.5647116,
+        "lon": -7.6151375
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "fixme": "please add \"addr:street\" with name.",
+        "name": "OFPPT Institut Specialise Des Metiers De Cuir",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592209278,
+      "center": {
+        "lat": 33.5349284,
+        "lon": -7.5903143
+      },
+      "tags": {
+        "addr:street": "Rue 11",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "4",
+        "education": "school",
+        "name": "Toulouse"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592209281,
+      "center": {
+        "lat": 33.5341095,
+        "lon": -7.5900638
+      },
+      "tags": {
+        "addr:street": "Zanqat 2",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "5",
+        "education": "school",
+        "fixme": "add name"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592209283,
+      "center": {
+        "lat": 33.5310192,
+        "lon": -7.5884566
+      },
+      "tags": {
+        "addr:street": "Boulevard Tah",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "4",
+        "education": "school",
+        "name": "l'Ambassadeur"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592433263,
+      "center": {
+        "lat": 33.5682634,
+        "lon": -7.6074547
+      },
+      "tags": {
+        "addr:street": "Rue 39",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Ecole el Anwar Privee",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592433424,
+      "center": {
+        "lat": 33.5364114,
+        "lon": -7.5953682
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "education": "school",
+        "name": "Groupe Scolaire al Hidaya - Inara"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592518721,
+      "center": {
+        "lat": 33.5375359,
+        "lon": -7.6020087
+      },
+      "tags": {
+        "addr:housenumber": "39",
+        "addr:street": "Avenue Dakhla",
+        "amenity": "school",
+        "education": "school",
+        "name": "Institution Ma Marraine"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592539918,
+      "center": {
+        "lat": 33.5323389,
+        "lon": -7.596826
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 593914736,
+      "center": {
+        "lat": 33.5578025,
+        "lon": -7.6826432
+      },
+      "tags": {
+        "addr:street": "Zanqat 27",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "مدرسة القباج",
+        "name:ar": "مدرسة القباج",
+        "name:en": "IPKAM Ecole Kabbaj",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 593914737,
+      "center": {
+        "lat": 33.5577051,
+        "lon": -7.6830617
+      },
+      "tags": {
+        "addr:street": "Rue 27 زنقة",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "fixme": "please add full name of school.",
+        "name": "روض إبتدائي سناء",
+        "name:en": "Maternelle Primaire Sanaa",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 593932482,
+      "center": {
+        "lat": 33.5604492,
+        "lon": -7.6757094
+      },
+      "tags": {
+        "addr:street": "Zanqat 11",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Al Ariam",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 593932487,
+      "center": {
+        "lat": 33.5631125,
+        "lon": -7.6807604
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "fixme": "please add name of school and name of street.",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 593932498,
+      "center": {
+        "lat": 33.5620378,
+        "lon": -7.6812251
+      },
+      "tags": {
+        "addr:street": "Boulevard de l'Oued Loukkos",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "fixme": "please add name of school.",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 593943925,
+      "center": {
+        "lat": 33.5632418,
+        "lon": -7.6777609
+      },
+      "tags": {
+        "addr:street": "Zanqat 10",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "fixme": "name",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 593943930,
+      "center": {
+        "lat": 33.5646333,
+        "lon": -7.6778844
+      },
+      "tags": {
+        "addr:street": "217 Bd abi raqraq - Oulfa",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "email": "gsae@outlook.fr",
+        "name": "إعدادية أزهار الرياض 1",
+        "name:ar": "إعدادية أزهار الرياض 1",
+        "name:fr": "Collège Azhar Erriad 1",
+        "opening_hours": "Mo-Sa 09:00-16:00",
+        "phone": "+212 5 22 90 50 33",
+        "source": "Kaart Ground Survey 2018",
+        "website": "https://www.gsae.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 594748190,
+      "center": {
+        "lat": 33.5666148,
+        "lon": -7.6943969
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Tibyane Maternelle-Primaire",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 594759726,
+      "center": {
+        "lat": 33.566612,
+        "lon": -7.6923062
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "OUMLIL Maternelle Primaire",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 594771430,
+      "center": {
+        "lat": 33.5766387,
+        "lon": -7.675437
+      },
+      "tags": {
+        "addr:street": "Boulevard Abdelhadi Boutaleb",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "La Farandole",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 595183942,
+      "center": {
+        "lat": 33.5511395,
+        "lon": -7.6676556
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:street": "Avenue Mohamed Taib Naciri",
+        "amenity": "university",
+        "check_date": "2025-01-10",
+        "contact:facebook": "https://www.facebook.com/UM6SS",
+        "contact:instagram": "https://www.instagram.com/um6ss",
+        "contact:linkedin": "https://www.linkedin.com/company/universit%C3%A9-mohammed-vi-des-sciences-de-la-sant%C3%A9/",
+        "contact:youtube": "https://www.youtube.com/c/Universit%C3%A9MohammedVIdesSciencesdelaSant%C3%A9",
+        "education": "university",
+        "email": "informations@um6ss.ma",
+        "internet_access": "yes",
+        "name": "Université Mohammed VI des Sciences de la Santé ⵜⴰⵙⴷⴰⵡⵉⵜ ⵎⵓⵃⴰⵎⵎⴷ ⵡⵉⵙⵙ ⵚⴹⵉⵚ ⵏ ⵜⵓⵙⵏⵉⵡⵉⵏ ⴷ ⵜⴷⵓⵙⵉ جامعة محمد السادس للعلوم والصحة",
+        "name:ar": "جامعة محمد السادس للعلوم والصحة",
+        "name:en": "Mohammed VI University of Sciences and Health",
+        "name:fr": "Université Mohammed VI des Sciences de la Santé",
+        "name:zgh": "ⵜⴰⵙⴷⴰⵡⵉⵜ ⵎⵓⵃⴰⵎⵎⴷ ⵡⵉⵙⵙ ⵚⴹⵉⵚ ⵏ ⵜⵓⵙⵏⵉⵡⵉⵏ ⴷ ⵜⴷⵓⵙⵉ",
+        "website": "https://um6ss.ma/",
+        "wikidata": "Q19407257",
+        "wikipedia": "en:Mohammed VI University of Health Sciences"
+      }
+    },
+    {
+      "type": "way",
+      "id": 595208563,
+      "center": {
+        "lat": 33.5184222,
+        "lon": -7.6446099
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "education": "school",
+        "name": "Ecoles Yassamine Primaire",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 595230183,
+      "center": {
+        "lat": 33.5613005,
+        "lon": -7.670792
+      },
+      "tags": {
+        "addr:street": "Zanqat 3",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Institut Ibnou El Khatib Prive",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 595230184,
+      "center": {
+        "lat": 33.5614082,
+        "lon": -7.6703898
+      },
+      "tags": {
+        "addr:street": "Boulevard d'Oued Oum Rabia",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Institution Bab Assalam Privee",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 596611805,
+      "center": {
+        "lat": 33.5544913,
+        "lon": -7.6812578
+      },
+      "tags": {
+        "addr:street": "Boulevard Moulouya",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Ghafiri",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 596611806,
+      "center": {
+        "lat": 33.5560462,
+        "lon": -7.6820994
+      },
+      "tags": {
+        "addr:street": "Boulevard Moulouya",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Institution El Ibrahimi",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597104062,
+      "center": {
+        "lat": 33.5291981,
+        "lon": -7.6511869
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Al Amira",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597442221,
+      "center": {
+        "lat": 33.5341086,
+        "lon": -7.6457964
+      },
+      "tags": {
+        "addr:street": "Boulevard Abu Baker el Kadiri",
+        "amenity": "university",
+        "building": "university",
+        "education": "university",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597477515,
+      "center": {
+        "lat": 33.5364311,
+        "lon": -7.6479512
+      },
+      "tags": {
+        "addr:street": "Zanqat 81",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Ecoles Sanounou",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625865863,
+      "center": {
+        "lat": 33.4801992,
+        "lon": -7.6195419
+      },
+      "tags": {
+        "amenity": "university",
+        "education": "university",
+        "name": "Ecole Centrale Casablanca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625865880,
+      "center": {
+        "lat": 33.5409388,
+        "lon": -7.5645508
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 663295170,
+      "center": {
+        "lat": 33.4961225,
+        "lon": -7.6106444
+      },
+      "tags": {
+        "addr:city": "Bouskoura بوسكورة",
+        "amenity": "university",
+        "contact:facebook": "https://www.facebook.com/UICASA/",
+        "contact:instagram": "https://www.instagram.com/uicasa/",
+        "contact:youtube": "https://www.youtube.com/@UICasa",
+        "education": "university",
+        "email": "admissions@uic.ac.ma",
+        "image": "https://www.uic.ac.ma/wp-content/uploads/2024/01/COMPUS-UIC.jpg",
+        "mobile": "+212 6 65 14 86 08",
+        "name": "Université Internationale de Casablanca ⵜⴰⵙⴷⴰⵡⵉⵜ ⵜⴰⴳⵔⴰ ⵍⴰⵏⵜ ⵏ ⴷⴰⵔⵍⴱⵉⴹⴰ الجامعة الدولية للدار البيضاء",
+        "name:ar": "الجامعة الدولية للدار البيضاء",
+        "name:arz": "الجامعة الدولية للدار البيضاء",
+        "name:en": "International University of Casablanca",
+        "name:es": "Universidad Internacional de Casablanca",
+        "name:fa": "دانشگاه بین‌المللی کازابلانکا",
+        "name:fr": "Université Internationale de Casablanca",
+        "name:zgh": "ⵜⴰⵙⴷⴰⵡⵉⵜ ⵜⴰⴳⵔⴰ ⵍⴰⵏⵜ ⵏ ⴷⴰⵔⵍⴱⵉⴹⴰ",
+        "phone": "+212 5 29 04 06 73",
+        "short_name:fr": "UIC",
+        "website": "https://www.uic.ac.ma/",
+        "wikidata": "Q16682080",
+        "wikipedia": "ar:الجامعة الدولية للدار البيضاء",
+        "wikipedia:es": "Universidad Internacional de Casablanca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 670327161,
+      "center": {
+        "lat": 33.4889644,
+        "lon": -7.6057155
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole Al Jabr"
+      }
+    },
+    {
+      "type": "way",
+      "id": 702079186,
+      "center": {
+        "lat": 33.5145751,
+        "lon": -7.6436352
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Atlas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 702088963,
+      "center": {
+        "lat": 33.5154651,
+        "lon": -7.6445698
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole Primaire Annahda"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767805068,
+      "center": {
+        "lat": 33.6132025,
+        "lon": -7.4941007
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767805072,
+      "center": {
+        "lat": 33.6088466,
+        "lon": -7.4995777
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767805074,
+      "center": {
+        "lat": 33.6057638,
+        "lon": -7.5027615
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Ibno mandour"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767805075,
+      "center": {
+        "lat": 33.6048345,
+        "lon": -7.5031773
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée ibno moataaz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767805076,
+      "center": {
+        "lat": 33.604171,
+        "lon": -7.5036439
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "collége rachid"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767805077,
+      "center": {
+        "lat": 33.6045039,
+        "lon": -7.5041857
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "primaire"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767810406,
+      "center": {
+        "lat": 33.6106363,
+        "lon": -7.5044224
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767810410,
+      "center": {
+        "lat": 33.6076116,
+        "lon": -7.5085422
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767810413,
+      "center": {
+        "lat": 33.6074497,
+        "lon": -7.5047501
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767824252,
+      "center": {
+        "lat": 33.6131671,
+        "lon": -7.5021183
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767824262,
+      "center": {
+        "lat": 33.61589,
+        "lon": -7.4871114
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767838688,
+      "center": {
+        "lat": 33.6169065,
+        "lon": -7.5021344
+      },
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "OFPPT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767838689,
+      "center": {
+        "lat": 33.6163322,
+        "lon": -7.5028184
+      },
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "OFPPT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767838690,
+      "center": {
+        "lat": 33.6160798,
+        "lon": -7.503725
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole zone industriel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767864275,
+      "center": {
+        "lat": 33.6187847,
+        "lon": -7.4837961
+      },
+      "tags": {
+        "amenity": "college",
+        "education": "college"
+      }
+    },
+    {
+      "type": "way",
+      "id": 767871638,
+      "center": {
+        "lat": 33.6053241,
+        "lon": -7.5106639
+      },
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "Groupe scolaire charif el idrissi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798131561,
+      "center": {
+        "lat": 33.5987925,
+        "lon": -7.6357985
+      },
+      "tags": {
+        "amenity": "high school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 871612912,
+      "center": {
+        "lat": 33.5619391,
+        "lon": -7.6621292
+      },
+      "tags": {
+        "amenity": "university",
+        "check_date": "2025-09-27",
+        "education": "university",
+        "name": "ESCA École de Management",
+        "wikidata": "Q18213503",
+        "wikipedia": "en:ESCA School of Management"
+      }
+    },
+    {
+      "type": "way",
+      "id": 961138888,
+      "center": {
+        "lat": 33.6099302,
+        "lon": -7.5290187
+      },
+      "tags": {
+        "amenity": "college",
+        "education": "college",
+        "name": "OFPPT",
+        "website": "https://www.ofppt.ma/",
+        "wikidata": "Q3349576",
+        "wikipedia": "ar:مكتب التكوين المهني وإنعاش الشغل (المغرب)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1033669718,
+      "center": {
+        "lat": 33.5111157,
+        "lon": -7.625414
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "British school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1056146780,
+      "center": {
+        "lat": 33.558739,
+        "lon": -7.6545567
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Francaise Internationale de Casablanca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1056146781,
+      "center": {
+        "lat": 33.5593323,
+        "lon": -7.6552153
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole La Residence - Casa Anfa"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1105249324,
+      "center": {
+        "lat": 33.5710155,
+        "lon": -7.5586268
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Écoles Al Bayda",
+        "name:ar": "مدارس البيضاء",
+        "name:en": "Al Bayda School"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1105467111,
+      "center": {
+        "lat": 33.5732649,
+        "lon": -7.5620368
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "الثانوية الإعدادية عبد الرحيم بوعبيد",
+        "school": "secondary"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1107950292,
+      "center": {
+        "lat": 33.5714109,
+        "lon": -7.5493252
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة عبد الرحمان الناصر"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1111841243,
+      "center": {
+        "lat": 33.5942438,
+        "lon": -7.5079356
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Abdelkhalek Torres"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1112123303,
+      "center": {
+        "lat": 33.5298549,
+        "lon": -7.5235534
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycee Abdellah Ibrahim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1112807659,
+      "center": {
+        "lat": 33.5844574,
+        "lon": -7.5277318
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117614448,
+      "center": {
+        "lat": 33.5802897,
+        "lon": -7.5391769
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117614449,
+      "center": {
+        "lat": 33.5823373,
+        "lon": -7.5399584
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117677380,
+      "center": {
+        "lat": 33.532675,
+        "lon": -7.6822293
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Kasbat Al Amine",
+        "name:fr": "École Kasbat Al Amine"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1123700261,
+      "center": {
+        "lat": 33.5601195,
+        "lon": -7.5743604
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "education": "school",
+        "name": "Ecole Allal El Fassi",
+        "name:ar": "اعدادية علال الفاسي"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1182675287,
+      "center": {
+        "lat": 33.584123,
+        "lon": -7.5037413
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole privé Arthur Rimbaud"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1182901051,
+      "center": {
+        "lat": 33.5777056,
+        "lon": -7.50247
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycee Atlas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1260688896,
+      "center": {
+        "lat": 33.5344601,
+        "lon": -7.5885889
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Ecole primaire Al Imama Al Boukhari"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308049152,
+      "center": {
+        "lat": 33.5881233,
+        "lon": -7.638095
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Cours Rameau",
+        "religion": "none"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308109228,
+      "center": {
+        "lat": 33.565346,
+        "lon": -7.6641018
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Al Kindi BTS"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308282704,
+      "center": {
+        "lat": 33.5686138,
+        "lon": -7.6637823
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "French International School of Casablanca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308527857,
+      "center": {
+        "lat": 33.5895303,
+        "lon": -7.6414986
+      },
+      "tags": {
+        "addr:housenumber": "192",
+        "addr:postcode": "20050",
+        "addr:street": "Boulevard d'Anfa شارع أنفا",
+        "amenity": "school",
+        "check_date": "2025-03-31",
+        "education": "school",
+        "name": "Instituto Español Juan Ramón Jiménez البعثة الإسبانية خوان رامون خمينيز",
+        "name:ar": "البعثة الإسبانية خوان رامون خمينيز",
+        "name:es": "Instituto Español Juan Ramón Jiménez",
+        "name:fr": "Institut Espagnol Juan Ramón Jiménez",
+        "phone": "+212 5 22 36 16 67",
+        "website": "https://iejrjimenez.educacion.es/",
+        "wikidata": "Q21029698",
+        "wikipedia": "en:Instituto Español Juan Ramón Jiménez"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308527859,
+      "center": {
+        "lat": 33.5780806,
+        "lon": -7.6540449
+      },
+      "tags": {
+        "addr:street": "Boulevard Ghandi شارع غاندي",
+        "amenity": "school",
+        "check_date": "2025-06-14",
+        "denomination": "sunni",
+        "education": "school",
+        "grades": "1-9",
+        "name": "Groupe Scolaire d'Anfa M'hamed Bennis",
+        "operator": "Groupe Scolaire d'Anfa M'hamed Bennis",
+        "operator:type": "private",
+        "religion": "muslim",
+        "website": "https://www.gsamb.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308527860,
+      "center": {
+        "lat": 33.5774035,
+        "lon": -7.6522387
+      },
+      "tags": {
+        "addr:street": "Rue Mamoun Mohamed زنقة مامون محمد",
+        "amenity": "kindergarten",
+        "check_date": "2025-01-02",
+        "denomination": "sunni",
+        "education": "kindergarten",
+        "name": "Groupe Scolaire d'Anfa M'hamed Bennis - Maternelle",
+        "operator": "Groupe Scolaire d'Anfa M'hamed Bennis",
+        "operator:type": "private",
+        "religion": "muslim",
+        "website": "https://www.gsamb.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308527861,
+      "center": {
+        "lat": 33.5774654,
+        "lon": -7.6517133
+      },
+      "tags": {
+        "addr:street": "Rue Abou Hassan Assaghir",
+        "amenity": "school",
+        "check_date": "2025-01-02",
+        "denomination": "sunni",
+        "education": "school",
+        "grades": "10-12",
+        "name": "Groupe Scolaire d'Anfa M'hamed Bennis - Lycée",
+        "operator": "Groupe Scolaire d'Anfa M'hamed Bennis",
+        "operator:type": "private",
+        "religion": "muslim",
+        "website": "https://www.gsamb.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308906124,
+      "center": {
+        "lat": 33.594426,
+        "lon": -7.6569
+      },
+      "tags": {
+        "addr:street": "Rue Al Madiaque زنقة المضيق",
+        "amenity": "school",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Lycée Omar Bnou Al Khattab التانوية التأهيلية عمر بن الخطاب",
+        "name:ar": "التانوية التأهيلية عمر بن الخطاب",
+        "name:fr": "Lycée Omar Bnou Al Khattab",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1311056824,
+      "center": {
+        "lat": 33.5903222,
+        "lon": -7.6428863
+      },
+      "tags": {
+        "addr:street": "Boulevard Abdellatif Ben Kadour محج عبد اللطيف بن قدور",
+        "amenity": "school",
+        "check_date": "2024-10-07",
+        "denomination": "sunni",
+        "education": "school",
+        "isced:level": "3",
+        "name": "Lycée Moulay Idriss 1er الثانوية التأهيلية مولاي إدريس الأول",
+        "name:ar": "ثانوية مولاي إدريس الاول",
+        "name:fr": "Lycée Moulay Idriss 1er",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1311068101,
+      "center": {
+        "lat": 33.5979368,
+        "lon": -7.6569896
+      },
+      "tags": {
+        "addr:street": "Rue de Biougra",
+        "amenity": "school",
+        "check_date": "2025-04-05",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Collège Anfa الثانوية الإعدادية أنفا",
+        "name:ar": "الثانوية الإعدادية أنفا",
+        "name:fr": "Collège Anfa",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314071969,
+      "center": {
+        "lat": 33.592953,
+        "lon": -7.6493537
+      },
+      "tags": {
+        "addr:street": "Avenue Ahmed Charci شارع أحمد الشرسي",
+        "amenity": "school",
+        "check_date": "2025-01-16",
+        "education": "school",
+        "name": "Collège-Lycée Elbilia International",
+        "operator": "Groupe Elbilia",
+        "operator:type": "private",
+        "phone": "+212 5 22 36 16 15",
+        "website": "https://www.elbiliainternational.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1316152016,
+      "center": {
+        "lat": 33.5277282,
+        "lon": -7.7401507
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "College Abdellah Al Hamdaoui"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1316505943,
+      "center": {
+        "lat": 33.5587428,
+        "lon": -7.6890713
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1316505944,
+      "center": {
+        "lat": 33.5593976,
+        "lon": -7.6895906
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1316505945,
+      "center": {
+        "lat": 33.5558999,
+        "lon": -7.6898327
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1316505947,
+      "center": {
+        "lat": 33.56876,
+        "lon": -7.6802793
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1316505948,
+      "center": {
+        "lat": 33.5777754,
+        "lon": -7.6300101
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1316530846,
+      "center": {
+        "lat": 33.5647033,
+        "lon": -7.6104572
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317172709,
+      "center": {
+        "lat": 33.5815897,
+        "lon": -7.6418039
+      },
+      "tags": {
+        "addr:street": "Rue Abou Ishak Chirazi",
+        "amenity": "school",
+        "building": "yes",
+        "check_date": "2024-11-07",
+        "education": "school",
+        "name": "Les Écoles La Palmeraie"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317611263,
+      "center": {
+        "lat": 33.5910108,
+        "lon": -7.6481593
+      },
+      "tags": {
+        "amenity": "school",
+        "check_date": "2024-09-23",
+        "education": "school",
+        "name": "Léon l'Africain Primaire",
+        "operator": "Groupe Elbilia",
+        "operator:type": "private",
+        "religion": "none",
+        "website": "https://www.leonafricain.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317706197,
+      "center": {
+        "lat": 33.5503923,
+        "lon": -7.4856069
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317938537,
+      "center": {
+        "lat": 33.5485423,
+        "lon": -7.6278601
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1318121393,
+      "center": {
+        "lat": 33.5601782,
+        "lon": -7.6402162
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1318133069,
+      "center": {
+        "lat": 33.5944722,
+        "lon": -7.6506926
+      },
+      "tags": {
+        "addr:street": "Avenue Ahmed Charci شارع أحمد الشرسي",
+        "amenity": "school",
+        "check_date": "2024-09-25",
+        "education": "school",
+        "name": "Léon l'Africain",
+        "operator": "Groupe Elbilia",
+        "operator:type": "private",
+        "religion": "none",
+        "website": "https://www.leonafricain.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1318890514,
+      "center": {
+        "lat": 33.6385742,
+        "lon": -7.4499695
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1318890515,
+      "center": {
+        "lat": 33.6392806,
+        "lon": -7.4499477
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1318890517,
+      "center": {
+        "lat": 33.636969,
+        "lon": -7.4499015
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319106981,
+      "center": {
+        "lat": 33.5264376,
+        "lon": -7.5206302
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319106983,
+      "center": {
+        "lat": 33.5293803,
+        "lon": -7.5231755
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319106991,
+      "center": {
+        "lat": 33.5368276,
+        "lon": -7.5486494
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319126217,
+      "center": {
+        "lat": 33.5720245,
+        "lon": -7.5909285
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319344097,
+      "center": {
+        "lat": 33.5848022,
+        "lon": -7.5521228
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319344098,
+      "center": {
+        "lat": 33.5857247,
+        "lon": -7.5528752
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319344099,
+      "center": {
+        "lat": 33.5816724,
+        "lon": -7.5602233
+      },
+      "tags": {
+        "amenity": "college",
+        "education": "school",
+        "name": "الثانوية الإعدادية المستقبل",
+        "name:fr": "Collège Al Moustakbal"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1320411490,
+      "center": {
+        "lat": 33.5863157,
+        "lon": -7.6379361
+      },
+      "tags": {
+        "amenity": "school",
+        "check_date": "2024-10-03",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Collège Ibn Habous الثانوية الإعدادية ابن حبوس",
+        "name:ar": "الثانوية الإعدادية ابن حبوس",
+        "name:fr": "Collège Ibn Habous",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1330696991,
+      "center": {
+        "lat": 33.535862,
+        "lon": -7.6942425
+      },
+      "tags": {
+        "amenity": "school",
+        "denomination": "sunni",
+        "education": "school",
+        "grades": "0-6",
+        "name": "École Touria Echaoui",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1338804918,
+      "center": {
+        "lat": 33.5347501,
+        "lon": -7.6888174
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "مدرسة زليخة نصري",
+        "name:ar": "مدرسة زليخة نصري"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1341655457,
+      "center": {
+        "lat": 33.6055062,
+        "lon": -7.6546877
+      },
+      "tags": {
+        "amenity": "college",
+        "check_date": "2025-01-10",
+        "education": "college",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMBFj644F6ujCdRZgYyCbsmnr2ksfleaKP5L8ir=s1360-w1360-h1020",
+        "name": "Centre de Formation dans les Métiers de l'Hôtellerie et du Tourisme - El Hank مركز التكوين في مهن الفندقة والسياحة - العنك",
+        "name:ar": "مركز التكوين في مهن الفندقة والسياحة - العنك",
+        "name:fr": "Centre de Formation dans les Métiers de l'Hôtellerie et du Tourisme - El Hank",
+        "operator": "OFPPT",
+        "operator:type": "public",
+        "short_name:fr": "CFMHT El Hank"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1347207104,
+      "center": {
+        "lat": 33.5842941,
+        "lon": -7.6438306
+      },
+      "tags": {
+        "addr:street": "Rue El Kadi Iass زنقة القاضي إياس",
+        "amenity": "school",
+        "check_date": "2024-12-30",
+        "denomination": "sunni",
+        "education": "school",
+        "grades": "7-12",
+        "mapillary": "2549655582007142",
+        "name": "Ennour Collège Lycée النور إعدادي تأهيلي",
+        "name:ar": "النور إعدادي تأهيلي",
+        "name:fr": "Ennour Collège Lycée",
+        "operator": "Ennour",
+        "operator:type": "private",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1347207107,
+      "center": {
+        "lat": 33.5841376,
+        "lon": -7.6440262
+      },
+      "tags": {
+        "addr:street": "Rue El Kadi Iass زنقة القاضي إياس",
+        "amenity": "school",
+        "denomination": "sunni",
+        "education": "school",
+        "grades": "1-6",
+        "mapillary": "947944332687558",
+        "name": "Institut Ennour Maternelle-Primaire معهد النور روض-ابتدائي",
+        "name:ar": "معهد النور روض-ابتدائي",
+        "name:fr": "Institut Ennour Maternelle-Primaire",
+        "operator": "Ennour",
+        "operator:type": "private",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1349625218,
+      "center": {
+        "lat": 33.5102465,
+        "lon": -7.6831355
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:place": "Quartier Almaz",
+        "amenity": "school",
+        "check_date": "2025-01-08",
+        "contact:facebook": "https://www.facebook.com/lf.guydemaupassant",
+        "contact:instagram": "https://www.instagram.com/lfguydemaupassant/",
+        "education": "school",
+        "email": "contact@lfmaupassant.com",
+        "isced:level": "0-3",
+        "mobile": "+212 6 66 72 87 04; +212 6 37 97 74 18",
+        "name": "Lycée Français Guy de Maupassant",
+        "old_name": "École Internationale de Casablanca",
+        "old_short_name": "EIC",
+        "phone": "+212 5 22 65 43 00",
+        "religion": "none",
+        "website": "https://www.lfmaupassant.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1349853183,
+      "center": {
+        "lat": 33.4789662,
+        "lon": -7.6190659
+      },
+      "tags": {
+        "amenity": "school",
+        "campus": "Bouskoura",
+        "check_date": "2025-01-10",
+        "education": "school",
+        "isced:level": "0-3",
+        "name": "Lycée Français International Louis-Massignon",
+        "operator": "Lycée Français International Louis-Massignon",
+        "operator:type": "private",
+        "operator:website": "https://lfilm.org/",
+        "operator:wikidata": "Q16661604",
+        "phone": "+212 5 22 88 86 00",
+        "religion": "none"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1349860973,
+      "center": {
+        "lat": 33.5962711,
+        "lon": -7.6541234
+      },
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Ahmed Ben Bouchta زنقة أحمد بن بوشتة",
+        "amenity": "school",
+        "campus": "Val d'Anfa",
+        "check_date": "2025-09-13",
+        "education": "school",
+        "name": "Lycée Français International Louis-Massignon",
+        "operator": "Lycée Français International Louis-Massignon",
+        "operator:type": "private",
+        "operator:wikidata": "Q16661604",
+        "phone": "+212 5 22 36 59 72; +212 5 22 36 97 56",
+        "religion": "none"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1349865009,
+      "center": {
+        "lat": 33.5838488,
+        "lon": -7.6180256
+      },
+      "tags": {
+        "addr:housenumber": "58",
+        "addr:postcode": "20006",
+        "addr:street": "Rue Al Banafsaj",
+        "amenity": "school",
+        "campus": "Mers Sultan",
+        "check_date": "2025-01-09",
+        "education": "school",
+        "name": "Lycée Français International Louis-Massignon",
+        "operator": "Lycée Français International Louis-Massignon",
+        "operator:type": "private",
+        "operator:wikidata": "Q16661604",
+        "phone": "+212 5 22 20 86 22; +212 5 22 20 86 24",
+        "religion": "none"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1350042986,
+      "center": {
+        "lat": 33.5766987,
+        "lon": -7.6571531
+      },
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:street": "Rue Ain Assardoune",
+        "amenity": "language_school",
+        "campus": "CIL",
+        "check_date": "2025-06-12",
+        "education": "language_school",
+        "email": "britishworkshop.cil@gmail.com",
+        "language:en": "yes",
+        "mobile": "+212 6 61 99 49 90",
+        "name": "British Workshop",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-16:00",
+        "phone": "+212 5 22 94 77 58",
+        "website": "https://www.britishworkshop.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1350589867,
+      "center": {
+        "lat": 33.5812226,
+        "lon": -7.6504621
+      },
+      "tags": {
+        "addr:street": "Rue Abdelhak Al Kadmiri",
+        "amenity": "college",
+        "check_date": "2025-01-12",
+        "education": "college",
+        "name": "Institut Spécialisé de Technologie Appliquée en Génie Mécanique المعهد المتخصص للتكنولوجيا التطبيقية في الهندسة الميكانيكية",
+        "name:ar": "المعهد المتخصص للتكنولوجيا التطبيقية في الهندسة الميكانيكية",
+        "name:fr": "Institut Spécialisé de Technologie Appliquée en Génie Mécanique",
+        "operator": "OFPPT",
+        "operator:type": "public"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1350589869,
+      "center": {
+        "lat": 33.5827076,
+        "lon": -7.6509597
+      },
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Boulevard Ibn Sina شارع ابن سينا",
+        "amenity": "school",
+        "check_date": "2025-01-12",
+        "contact:facebook": "https://www.facebook.com/GroupeScolaireTazi",
+        "contact:instagram": "https://www.instagram.com/gs_tazi",
+        "denomination": "sunni",
+        "education": "school",
+        "email": "contact@gstazi.com",
+        "isced:level": "0-3",
+        "mapillary": "509478696906446",
+        "mobile": "+212 6 61 48 75 78",
+        "name": "Groupe Scolaire Tazi مجموعة مدارس التازي",
+        "name:ar": "مجموعة مدارس التازي",
+        "name:fr": "Groupe Scolaire Tazi",
+        "operator:type": "private",
+        "phone": "+212 5 22 39 33 73; +212 5 22 36 49 84",
+        "religion": "muslim",
+        "start_date": "1972",
+        "website": "https://gstazi.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1351203704,
+      "center": {
+        "lat": 33.5810278,
+        "lon": -7.6657069
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:street": "Boulevard Abdelkrim El Khattabi شارع عبد الكريم الخطابي",
+        "amenity": "school",
+        "check_date": "2025-01-14",
+        "contact:facebook": "https://www.facebook.com/groupescolairelafourmiliere",
+        "contact:instagram": "https://www.instagram.com/groupescolairelafourmiliere",
+        "education": "school",
+        "email": "gslafourmiliere@gmail.com",
+        "isced:level": "0-3",
+        "name": "Groupe Scolaire La Fourmillière",
+        "phone": "+212 5 22 94 17 96",
+        "website": "https://www.lafourmiliere.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1351686944,
+      "center": {
+        "lat": 33.5757893,
+        "lon": -7.6482754
+      },
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-06-16",
+        "denomination": "sunni",
+        "education": "school",
+        "isced:level": "2",
+        "name": "Collège Ghandi ⴰⵙⵉⵏⴰⵏ ⵏ ⵓⵙⵎⵓⵜⵜⴳ ⵖⴰⵏⴷⵉ الثانوية الإعدادية غاندي",
+        "name:ar": "الثانوية الإعدادية غاندي",
+        "name:fr": "Collège Ghandi",
+        "name:zgh": "ⴰⵙⵉⵏⴰⵏ ⵏ ⵓⵙⵎⵓⵜⵜⴳ ⵖⴰⵏⴷⵉ",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1358940949,
+      "center": {
+        "lat": 33.5815185,
+        "lon": -7.6588138
+      },
+      "tags": {
+        "addr:street": "Boulevard Ghandi شارع غاندي",
+        "amenity": "school",
+        "check_date": "2025-02-11",
+        "education": "school",
+        "name": "École La Cité Ghandi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1358940950,
+      "center": {
+        "lat": 33.5813161,
+        "lon": -7.6582667
+      },
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-02-11",
+        "education": "school",
+        "name": "Groupe Scolaire Malaîka"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1359775551,
+      "center": {
+        "lat": 33.6037358,
+        "lon": -7.6326384
+      },
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-06-12",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Collège Idrissi الثانوية الإعدادية الإدريسي",
+        "name:ar": "الثانوية الإعدادية الإدريسي",
+        "name:fr": "Collège Idrissi",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1360373460,
+      "center": {
+        "lat": 33.6013071,
+        "lon": -7.6474594
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "school",
+        "check_date": "2025-02-16",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Collège Al Bayrouni إعدادية البيروني",
+        "name:ar": "إعدادية البيروني",
+        "name:fr": "Collège Al Bayrouni",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1360373461,
+      "center": {
+        "lat": 33.6011644,
+        "lon": -7.6466812
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "school",
+        "check_date": "2025-02-16",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "ثانوية المسجد التأهيلية",
+        "name:ar": "ثانوية المسجد التأهيلية",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1362341851,
+      "center": {
+        "lat": 33.592005,
+        "lon": -7.6534027
+      },
+      "tags": {
+        "addr:street": "Boulevard Driss Slaoui شارع إدريس السلاوي",
+        "amenity": "school",
+        "check_date": "2025-08-14",
+        "education": "school",
+        "name": "Groupe Scolaire La Résidence",
+        "operator:type": "private"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1362743257,
+      "center": {
+        "lat": 33.5657233,
+        "lon": -7.6434857
+      },
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:street": "Rue Rouissi",
+        "amenity": "school",
+        "check_date": "2025-02-25",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "École Charles Péguy",
+        "operator": "Groupe Scolaire Charles Péguy",
+        "operator:type": "private",
+        "religion": "muslim",
+        "website": "https://charlespeguy.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1364770546,
+      "center": {
+        "lat": 33.5368742,
+        "lon": -7.629432
+      },
+      "tags": {
+        "addr:street": "Boulevard Ougoug شارع أوكوك",
+        "amenity": "school",
+        "check_date": "2025-03-05",
+        "education": "school",
+        "name": "Casablanca American School",
+        "operator:type": "private",
+        "wikidata": "Q5047969",
+        "wikipedia": "en:Casablanca American School"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1371371022,
+      "center": {
+        "lat": 33.5994664,
+        "lon": -7.6306385
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "school",
+        "check_date": "2025-03-26",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "ⵜⵉⵏⵎⵍ ⵜⴰⵎⵏⵣⵓⵜ ⵍⴱⵉⴽⵔⵉ المدرسة الإبتدائية البكري",
+        "name:ar": "المدرسة الإبتدائية البكري",
+        "name:zgh": "ⵜⵉⵏⵎⵍ ⵜⴰⵎⵏⵣⵓⵜ ⵍⴱⵉⴽⵔⵉ",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372481391,
+      "center": {
+        "lat": 33.5791745,
+        "lon": -7.653736
+      },
+      "tags": {
+        "addr:street": "Rue Abou Hassan Assaghir",
+        "amenity": "school",
+        "check_date": "2025-04-02",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Groupe Scolaire Romandie",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372707185,
+      "center": {
+        "lat": 33.5846846,
+        "lon": -7.6493963
+      },
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-03-29",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Collège Ibn Sina ثانوية ابن سينا الإعدادية",
+        "name:ar": "ثانوية ابن سينا الإعدادية",
+        "name:fr": "Collège Ibn Sina",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372707186,
+      "center": {
+        "lat": 33.5848253,
+        "lon": -7.6488834
+      },
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-03-29",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "المدرسة الإبتدائية الإمام مالك",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372723415,
+      "center": {
+        "lat": 33.5700736,
+        "lon": -7.6694777
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "amenity": "college",
+        "branch": "Casablanca-Settat الدار البيضاء-سطات",
+        "check_date": "2025-03-29",
+        "education": "college",
+        "name": "Académie Régionale de l'Éducation & de la Formation الأكاديمية الجهوية للتربية والتكوين",
+        "name:ar": "الأكاديمية الجهوية للتربية والتكوين",
+        "name:fr": "Académie Régionale de l'Éducation & de la Formation",
+        "operator:type": "public",
+        "short_name": "AREF",
+        "website": "https://aref-cs.men.gov.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372731490,
+      "center": {
+        "lat": 33.592931,
+        "lon": -7.6471031
+      },
+      "tags": {
+        "amenity": "school",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "مدرسة الأدارسة",
+        "name:ar": "مدرسة الأدارسة",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372758058,
+      "center": {
+        "lat": 33.5748342,
+        "lon": -7.6624266
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "check_date": "2025-03-29",
+        "education": "kindergarten",
+        "name": "La Prairie",
+        "operator:type": "private"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372758060,
+      "center": {
+        "lat": 33.5750976,
+        "lon": -7.6615738
+      },
+      "tags": {
+        "addr:housenumber": "31",
+        "addr:street": "Rue Ras El Ma",
+        "amenity": "school",
+        "check_date": "2025-06-12",
+        "denomination": "catholic",
+        "education": "school",
+        "name": "Institut Saint Dominique مؤسسة سان دومينيك",
+        "name:ar": "مؤسسة سان دومينيك",
+        "name:fr": "Institut Saint Dominique",
+        "operator:type": "private",
+        "religion": "christian",
+        "website": "https://saint-dominique.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1373339316,
+      "center": {
+        "lat": 33.5911445,
+        "lon": -7.641774
+      },
+      "tags": {
+        "amenity": "school",
+        "check_date": "2025-03-31",
+        "denomination": "catholic",
+        "education": "school",
+        "name": "École Maison d'Anfa مدرسة دار أنفا",
+        "name:ar": "مدرسة دار أنفا",
+        "name:fr": "École Maison d'Anfa",
+        "religion": "christian",
+        "website": "https://ecole-maison-anfa.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1375156446,
+      "center": {
+        "lat": 33.592336,
+        "lon": -7.6431453
+      },
+      "tags": {
+        "addr:street": "Rue Al Kaissi زنقة القيسي",
+        "amenity": "school",
+        "check_date": "2025-04-06",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "École Ben Bachir Privée ⵜⵉⵏⵎⴻⵍ ⴱⴻⵏ ⴱⴰⵀⵉⵔ ⵢⵉⵏⵙⴻⵏ مدرسة إبن البشير الخاصة",
+        "name:ar": "مدرسة إبن البشير الخاصة",
+        "name:fr": "École Ben Bachir Privée",
+        "name:zgh": "ⵜⵉⵏⵎⴻⵍ ⴱⴻⵏ ⴱⴰⵀⵉⵔ ⵢⵉⵏⵙⴻⵏ",
+        "operator:type": "private",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1381115307,
+      "center": {
+        "lat": 33.576111,
+        "lon": -7.6780998
+      },
+      "tags": {
+        "addr:street": "Boulevard Abdelhadi Boutaleb شارع عبد الهادي بوطالب",
+        "amenity": "school",
+        "check_date": "2025-04-25",
+        "education": "school",
+        "email": "contact@ecolelacite.ma",
+        "name": "La Cité Maternelle-Primaire",
+        "phone": "+212 5 22 94 44 04",
+        "website": "https://www.ecolelacite.ma/primaire/ecole/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1381504611,
+      "center": {
+        "lat": 33.5960424,
+        "lon": -7.6532972
+      },
+      "tags": {
+        "amenity": "school",
+        "contact:facebook": "https://www.facebook.com/eti.valdanfa",
+        "contact:instagram": "https://www.instagram.com/eti.valdanfa/",
+        "education": "school",
+        "email": "contact@eti-valdanfa.com",
+        "mobile": "+212 6 11 96 78 88",
+        "name": "École Trilingue Internationale",
+        "operator": "International Education Group",
+        "operator:type": "private",
+        "phone": "+212 5 22 65 97 70",
+        "website": "https://www.eti-valdanfa.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1383650423,
+      "center": {
+        "lat": 33.5291906,
+        "lon": -7.5711318
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École primaire La Connaissance المدرسة الابتدائية المعرفة"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1383650424,
+      "center": {
+        "lat": 33.5295303,
+        "lon": -7.5707663
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Mohammed Ben Mekki ثانوية الشهيد محمد بن المكي"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1384654200,
+      "center": {
+        "lat": 33.5409449,
+        "lon": -7.6940109
+      },
+      "tags": {
+        "addr:city": "Casablanca",
+        "amenity": "school",
+        "building": "yes",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "ثانوية محمد الفطواكي",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385487560,
+      "center": {
+        "lat": 33.573894,
+        "lon": -7.6394206
+      },
+      "tags": {
+        "addr:street": "Rue Ahmed El Kadmiri زنقة أحمد القدميري",
+        "amenity": "school",
+        "education": "school",
+        "name": "Institution Privée Agdal مؤسسة أڭدال الخاصة",
+        "name:ar": "مؤسسة أڭدال الخاصة",
+        "name:fr": "Institution Privée Agdal",
+        "phone": "+212 5 22 25 66 98",
+        "website": "https://www.institut-agdal.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391397003,
+      "center": {
+        "lat": 33.5485692,
+        "lon": -7.5380973
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École primaire Moubadarat المدرسة الإبتدائية مبادرات",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391397004,
+      "center": {
+        "lat": 33.5491496,
+        "lon": -7.5368641
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391397005,
+      "center": {
+        "lat": 33.548718,
+        "lon": -7.53642
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "collège Touria Sekkat اعدادية ثريا السقاط",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391400191,
+      "center": {
+        "lat": 33.5473232,
+        "lon": -7.5310428
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Makki Naciri ثانوية المكي الناصري",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391405266,
+      "center": {
+        "lat": 33.5534586,
+        "lon": -7.5320953
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Al Boukhari إعدادية البخاري",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391558256,
+      "center": {
+        "lat": 33.5758861,
+        "lon": -7.5120841
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Ibn Khaldoun إعدادية ابن خلدون"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391558257,
+      "center": {
+        "lat": 33.5734396,
+        "lon": -7.515436
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École primaire Halima Saâdia المدرسة الإبتدائية حليمة السعدية"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1392319703,
+      "center": {
+        "lat": 33.5956336,
+        "lon": -7.6333234
+      },
+      "tags": {
+        "addr:street": "Rue d'Indochine زنقة الهند الصينية",
+        "amenity": "school",
+        "check_date": "2025-06-05",
+        "education": "school",
+        "name": "Lycée Maimonide",
+        "religion": "jewish",
+        "wikidata": "Q3268843",
+        "wikipedia": "en:Lycée Maïmonide"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1392319704,
+      "center": {
+        "lat": 33.5964956,
+        "lon": -7.6329414
+      },
+      "tags": {
+        "amenity": "school",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "Lycée El Ouafa",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1392319705,
+      "center": {
+        "lat": 33.5970748,
+        "lon": -7.6327837
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Omar El Khayam"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1392421761,
+      "center": {
+        "lat": 33.5396362,
+        "lon": -7.6049735
+      },
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1392718746,
+      "center": {
+        "lat": 33.5894719,
+        "lon": -7.5005406
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "École Primaire Annahda المدرسة الابتدائية النهضة"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1393239714,
+      "center": {
+        "lat": 33.5388003,
+        "lon": -7.6145876
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Collège Ahmed Haymar إعدادية أحمد حيمر"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395309131,
+      "center": {
+        "lat": 33.5925984,
+        "lon": -7.6531589
+      },
+      "tags": {
+        "amenity": "kindergarten",
+        "education": "kindergarten",
+        "name": "Léon l'Africain - Maternelle",
+        "operator": "Groupe Elbilia",
+        "operator:type": "private"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1412482368,
+      "center": {
+        "lat": 33.536302,
+        "lon": -7.5681734
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "الثانوية التأهيلية طه حسين"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1420036409,
+      "center": {
+        "lat": 33.5549228,
+        "lon": -7.6105209
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:housenumber": "87",
+        "addr:postcode": "20460",
+        "addr:street": "Avenue de Nador",
+        "amenity": "university",
+        "name": "SIST British Educaction - Business & Technology School",
+        "website": "https://sist.ac.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1420036410,
+      "center": {
+        "lat": 33.554967,
+        "lon": -7.6103413
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:housenumber": "87",
+        "addr:postcode": "20460",
+        "addr:street": "Avenue de Nador",
+        "amenity": "language_school",
+        "building": "yes",
+        "language:en": "yes",
+        "name": "British Council",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "website": "https://www.britishcouncil.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1425818929,
+      "center": {
+        "lat": 33.5829392,
+        "lon": -7.6261941
+      },
+      "tags": {
+        "addr:housenumber": "15",
+        "addr:postcode": "20100",
+        "addr:street": "Boulevard Mohamed Abdou شارع محمد عبده",
+        "amenity": "school",
+        "education": "school",
+        "grades": "1-10",
+        "name": "École Molière",
+        "operator": "AEFE",
+        "operator:type": "government",
+        "website": "https://www.ecolemoliere.org"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1426122712,
+      "center": {
+        "lat": 33.5734644,
+        "lon": -7.6365624
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Subrini Val Fleuri"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1426254391,
+      "center": {
+        "lat": 33.573755,
+        "lon": -7.6354197
+      },
+      "tags": {
+        "amenity": "school",
+        "denomination": "sunni",
+        "education": "school",
+        "name": "المدرسة الإبتدائية المقاوم الوديبي",
+        "operator:type": "public",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428862802,
+      "center": {
+        "lat": 33.5901902,
+        "lon": -7.4863723
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428863829,
+      "center": {
+        "lat": 33.5871592,
+        "lon": -7.4872226
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1429725565,
+      "center": {
+        "lat": 33.5843862,
+        "lon": -7.5029436
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1431543056,
+      "center": {
+        "lat": 33.5572551,
+        "lon": -7.7285087
+      },
+      "tags": {
+        "amenity": "school",
+        "campus": "Domaine d'Anfa",
+        "education": "school",
+        "name": "Lycée français Léon l'Africain",
+        "operator": "Groupe Elbilia",
+        "operator:type": "private",
+        "religion": "none"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1434966310,
+      "center": {
+        "lat": 33.57468,
+        "lon": -7.6365775
+      },
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Rue Jean Mabillon",
+        "amenity": "school",
+        "education": "school",
+        "name": "Harmonia"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1452591866,
+      "center": {
+        "lat": 33.5728518,
+        "lon": -7.6865887
+      },
+      "tags": {
+        "addr:housenumber": "160",
+        "addr:street": "Boulevard Abdelhadi Boutaleb شارع عبد الهادي بوطالب",
+        "amenity": "school",
+        "education": "school",
+        "name": "École Al Ayam Essaida"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1452618043,
+      "center": {
+        "lat": 33.5746777,
+        "lon": -7.6827636
+      },
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:street": "Boulevard Abdelhadi Boutaleb شارع عبد الهادي بوطالب",
+        "amenity": "school",
+        "education": "school",
+        "name": "La Cité Collège-Lycée",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+212 5 22 91 91 32"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1452618054,
+      "center": {
+        "lat": 33.5745932,
+        "lon": -7.6829835
+      },
+      "tags": {
+        "amenity": "university",
+        "campus": "Casablanca",
+        "education": "university",
+        "name": "Collège de Paris"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1452625749,
+      "center": {
+        "lat": 33.5778764,
+        "lon": -7.6745325
+      },
+      "tags": {
+        "addr:street": "Boulevard de la Grande Ceinture",
+        "amenity": "school",
+        "education": "school",
+        "name": "ثانوية عبد الرحمان بن عوف الإعدادية"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1459518762,
+      "center": {
+        "lat": 33.579757,
+        "lon": -7.5980094
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Lycée Technique Al Khaouarizmi",
+        "name:ar": "ثانوية الخوارزمي"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1484569987,
+      "center": {
+        "lat": 33.5498386,
+        "lon": -7.5745707
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:street": "Rue du Martyr Ben Said Saleh زنقة الشهيد ابن سعيد صالح",
+        "amenity": "school",
+        "education": "school",
+        "grades": "1-6",
+        "name": "مدرسة مولاي الحسن",
+        "name:ar": "مدرسة مولاي الحسن",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1484569988,
+      "center": {
+        "lat": 33.5500083,
+        "lon": -7.5742377
+      },
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:street": "Rue du Martyr Ben Said Saleh زنقة الشهيد ابن سعيد صالح",
+        "amenity": "school",
+        "education": "school",
+        "grades": "1-6",
+        "name": "مدرسة بدر الإبتدائية",
+        "name:ar": "مدرسة بدر الإبتدائية",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1503411874,
+      "center": {
+        "lat": 33.5657887,
+        "lon": -7.6257198
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Écoles Abdelmoumen ⵜⵉⵏⵎⴰⵍ ⵄⴰⴱⴷⵍⵎⵓⵎⵏ ‏ مدارس عبد المومن",
+        "name:ar": "مدارس عبد المومن",
+        "name:fr": "Écoles Abdelmoumen",
+        "name:zgh": "ⵜⵉⵏⵎⴰⵍ ⵄⴰⴱⴷⵍⵎⵓⵎⵏ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1524124730,
+      "center": {
+        "lat": 33.5840324,
+        "lon": -7.6370869
+      },
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "ⵜⵉⵏⵎⵍ ⵜⴰⵎⵏⵣⵓⵜ ⵟⵟⴰⵀⴰⵕⵉ المدرسة الابتدائية الطبري",
+        "name:ar": "المدرسة الابتدائية الطبري",
+        "name:zgh": "ⵜⵉⵏⵎⵍ ⵜⴰⵎⵏⵣⵓⵜ ⵟⵟⴰⵀⴰⵕⵉ"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17941096,
+      "center": {
+        "lat": 33.5929697,
+        "lon": -7.6560315
+      },
+      "tags": {
+        "addr:housenumber": "416",
+        "addr:postcode": "20170",
+        "addr:street": "Boulevard de Bourgogne شارع بوركون",
+        "amenity": "school",
+        "check_date": "2024-12-01",
+        "education": "school",
+        "grades": "8-12",
+        "image": "https://www.awmountassir.com/images/projet/38/El_Bilia_Anfa_999x613_00.jpg",
+        "mapillary": "867597487304812",
+        "name": "Collège-Lycée Léon l'Africain",
+        "operator": "Groupe Elbilia",
+        "operator:type": "private",
+        "phone": "+212 5 22 39 65 13",
+        "religion": "none",
+        "source": "local knowledge",
+        "type": "multipolygon",
+        "website": "https://www.leonafricain.ma/",
+        "wikidata": "Q26258520",
+        "wikipedia": "en:Collège-Lycée Léon l'Africain"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 18529043,
+      "center": {
+        "lat": 33.5315007,
+        "lon": -7.6216587
+      },
+      "tags": {
+        "amenity": "university",
+        "campus": "Casablanca",
+        "check_date": "2025-03-10",
+        "contact:facebook": "https://www.facebook.com/HEMOfficiel",
+        "contact:instagram": "https://www.instagram.com/hem.officiel/",
+        "contact:linkedin": "https://ma.linkedin.com/school/hem-business-engineering-school/",
+        "contact:twitter": "https://x.com/HEMofficiel",
+        "education": "university",
+        "email": "hem@hem.ac.ma",
+        "internet_access": "yes",
+        "name": "Hautes Études de Management",
+        "phone": "+212 5 22 52 52 52; +212 5 22 21 34 34; +212 5 22 21 14 01",
+        "short_name": "HEM",
+        "start_date": "1988",
+        "type": "multipolygon",
+        "website": "https://hem.lcieducation.com/about/our-campuses/campus-casablanca"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 19891820,
+      "center": {
+        "lat": 33.5808311,
+        "lon": -7.6309937
+      },
+      "tags": {
+        "addr:street": "Rue Mohamed Bahi زنقة محمد باهي",
+        "amenity": "school",
+        "education": "school",
+        "name": "Groupe Scolaire Le Cèdre",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}
